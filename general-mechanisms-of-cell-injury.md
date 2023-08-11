@@ -1,11 +1,11 @@
 # Title
 Serdar Balcı
 
-# General Mechanisms of Cell Injury
+## General Mechanisms of Cell Injury
 
-# Serdar BALCI
+## Serdar BALCI
 
-# Homeostasis
+## Homeostasis
 
 - **A happy normal cell**
   - **Comfortable**
@@ -29,14 +29,14 @@ Serdar Balcı
   - **No enemy**
     - **No organisms (Toxoplasmosis), or autoimmune activity**
 
-# What if homeostasis is not preserved
+## What if homeostasis is not preserved
 
 ![](./img-local/General-Mechanisms-of-Cell-Injury0.jpg)
 
 *Figure 1-1 from Robbins and Cotran Pathologic Basis of Disease 8* *th*
 \_ ed, \_
 
-# Adaptations
+## Adaptations
 
 **Reversible**
 
@@ -50,7 +50,7 @@ Serdar Balcı
 
 **Continue to function**
 
-# Type of adaptations
+## Type of adaptations
 
 - **Hypertrophy**
   - **Increase in size of the cells**
@@ -62,7 +62,7 @@ Serdar Balcı
 - **Metaplasia**
   - **Change in cell phenotype**
 
-# If cell cannot adapt
+## If cell cannot adapt
 
 **If adaptive capability is exceeded**
 
@@ -76,7 +76,7 @@ Serdar Balcı
 
 **Irreversible Injury**
 
-# Cell Death
+## Cell Death
 
 - **Many causes**
   - **ischemia (lack of blood flow)**
@@ -87,7 +87,7 @@ Serdar Balcı
   - **Remember embriology?**
   - **GIS epitheium regenerates every week**
 
-# ALTERED PHYSIOLOGICAL STIMULISOME NONLETHAL INJURIOUS STIMULI
+## ALTERED PHYSIOLOGICAL STIMULISOME NONLETHAL INJURIOUS STIMULI
 
 |                                  Stimulus                                   |        Adaptation        |
 |:---------------------------------------------------------------------------:|:------------------------:|
@@ -97,7 +97,7 @@ Serdar Balcı
 
 **Adapted from Table 1-1, from Robbins**
 
-# REDUCED OXYGEN SUPPLYCHEMICAL INJURYMICROBIAL INFECTION
+## REDUCED OXYGEN SUPPLYCHEMICAL INJURYMICROBIAL INFECTION
 
 |                   Stimulus                    |                           Injury                            |
 |:---------------------------------------------:|:-----------------------------------------------------------:|
@@ -107,14 +107,14 @@ Serdar Balcı
 
 **Adapted from Table 1-1, from Robbins**
 
-# 
+## 
 
 |                          Stimulus                          |                  Response                  |
 |:----------------------------------------------------------:|:------------------------------------------:|
 | Metabolic alterations, genetic or acquired; chronic injury | Intracellular accumulations; calcification |
 |      Cumulative sublethal injury over long life span       |               Cellular aging               |
 
-# Cardiac muscle cells
+## Cardiac muscle cells
 
 **Increased demand **
 
@@ -154,7 +154,7 @@ Serdar Balcı
 
 **Adapted cell is more vulnerable to injury.**
 
-# Adaptations
+## Adaptations
 
 - **Physiologic**
   - **normal stimulation by hormones or endogenous chemical mediators**
@@ -164,9 +164,9 @@ Serdar Balcı
   - **responses to stress**
   - **Escape from injury**
 
-# CELL INJURY AND CELL DEATH
+## CELL INJURY AND CELL DEATH
 
-# Cell injury
+## Cell injury
 
 **Occurs;**
 
@@ -174,7 +174,7 @@ Serdar Balcı
 
 **Exposed to inherently damaging agents, intrinsic anomalies**
 
-# Reversible cell injury
+## Reversible cell injury
 
 **Early, mild forms**
 
@@ -184,7 +184,7 @@ Serdar Balcı
 
 **No nuclear dissolution**
 
-# Cell death
+## Cell death
 
 - **Irreversible;**
 - **Necrosis**
@@ -203,7 +203,7 @@ Serdar Balcı
 | Adjacent inflammation |                 frequent                  |                                     none                                     |
 |                       |   Pathologic, irreversible cell injury    | Physiologic (eliminate unwanted cells)<br />Pathologic (DNA, protein damage) |
 
-# Necrosis
+## Necrosis
 
 - **Damage to membranes is severe:**
 
@@ -225,7 +225,7 @@ Serdar Balcı
   - **various infections**
   - **trauma**
 
-# Apoptosis
+## Apoptosis
 
 **nuclear dissolution**
 
@@ -242,9 +242,9 @@ pathologic cell injury**
 
 **no inflammatory response**
 
-# CAUSES OF CELL INJURY
+## CAUSES OF CELL INJURY
 
-# Causes of Cell Injury
+## Causes of Cell Injury
 
 **Oxygen deprivation**
 
@@ -262,7 +262,7 @@ pathologic cell injury**
 
 **Aging **
 
-# O2 deprivation
+## O2 deprivation
 
 - **Hypoxia: O** **2** \_\_ deficiency, inadequate oxidation of
   blood\_\_
@@ -274,7 +274,7 @@ pathologic cell injury**
   - **Decreased arterial flow**
   - **Reduced venous drainage**
 
-# Chemical agents
+## Chemical agents
 
 - **Substances in excess: glucose, salt, water**
 - **Poisons:**
@@ -290,7 +290,7 @@ pathologic cell injury**
   - **Drugs, therapeutic drugs**
   - **Excess O** **2**
 
-# Infectious agents
+## Infectious agents
 
 **Viruses**
 
@@ -304,13 +304,13 @@ pathologic cell injury**
 
 **Tape worms, flukes**
 
-# Immunologic ractions
+## Immunologic ractions
 
 **Autoimmune reactions**
 
 **Exaggerated reactions**
 
-# Genetic factors
+## Genetic factors
 
 **Defect in proteins**
 
@@ -322,7 +322,7 @@ pathologic cell injury**
 
 **Susceptibility to external stimuli**
 
-# Nutritional imbalances
+## Nutritional imbalances
 
 - **Protein- calorie insufficiency**
 - **Vitamin deficiency**
@@ -331,7 +331,7 @@ pathologic cell injury**
   - **Atherosclerosis**
 - **Some diets cause susceptibility to cancer**
 
-# Physical agents
+## Physical agents
 
 **Trauma**
 
@@ -343,7 +343,7 @@ pathologic cell injury**
 
 **Atmospheric pressure**
 
-# Aging
+## Aging
 
 **Decreased replication, repair and destruction capability**
 

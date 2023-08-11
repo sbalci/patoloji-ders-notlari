@@ -1,11 +1,11 @@
 # Title
 Serdar Balcı
 
-# Genetik bozuklukların patolojisi
+## Genetik bozuklukların patolojisi
 
-# Dr. Serdar BALCI
+## Dr. Serdar BALCI
 
-# Pediatrik ve Genetik hastalıklar
+## Pediatrik ve Genetik hastalıklar
 
 - **herediter (kalıtsal)**
 - **familyal (ailesel)**
@@ -18,7 +18,7 @@ Serdar Balcı
 - **Tüm genetik hastalıklar da konjenital değildir**
   - **Huntington**
 
-# Protein Kodlayan Genlerde Mutasyonlar
+## Protein Kodlayan Genlerde Mutasyonlar
 
 - **Nokta mutasyonları**
   - **“missens mutasyonları”**
@@ -30,18 +30,18 @@ Serdar Balcı
 - **Trinükleotid tekrar mutasyonları**
   - **FMR1 gene in Fragile-X**
 
-# Protein Kodlayan Genlerde MutasyonDışı Değişiklikler
+## Protein Kodlayan Genlerde MutasyonDışı Değişiklikler
 
 - **Translokasyonlar**
 - **Kopya sayısı değişiklikleri (polimorfizmler)**
   - **SNP**
   - **CNV (copy number variations)**
 
-# Epigenetik Değişiklikler
+## Epigenetik Değişiklikler
 
 **Genin promoter bölgelerindeki sitozin rezidülerinin metilasyonu**
 
-# Kodlama Yapmayan RNA’Iarda Değişiklikler
+## Kodlama Yapmayan RNA’Iarda Değişiklikler
 
 **miRNA**
 
@@ -51,16 +51,16 @@ Serdar Balcı
 
 ![](./img-local/Genetik-bozukluklar%C4%B1n-patolojisi0.png)
 
-<span style="color:#888888">TEK GEN DEFEKTLERiNİN NEDEN</span>
-<span style="color:#888888">OLDUGU HASTALIKLAR</span>
+<span style="color:##888888">TEK GEN DEFEKTLERiNİN NEDEN</span>
+<span style="color:##888888">OLDUGU HASTALIKLAR</span>
 
-# MENDELIAN HASTALIKLAR
+## MENDELIAN HASTALIKLAR
 
 ![](./img-local/Genetik-bozukluklar%C4%B1n-patolojisi1.png)
 
 ![](./img-local/Genetik-bozukluklar%C4%B1n-patolojisi2.png)
 
-# Otozomal Dominant
+## Otozomal Dominant
 
 **Otozornal dominant hastalıklarda normal gen ürününde %50’lik bir
 azalma olması durumunda, klinik bulgu ve semptomlar eşlik eder.**
@@ -73,7 +73,7 @@ kodlayan genler değildir.**
 
 **değişken ekspresyon**
 
-# Otozomal Resesif
+## Otozomal Resesif
 
 **Komplet penetrans sıktır.**
 
@@ -83,13 +83,13 @@ kodlayan genler değildir.**
 
 ![](./img-local/Genetik-bozukluklar%C4%B1n-patolojisi3.png)
 
-# X’e bağlı resesif
+## X’e bağlı resesif
 
 ![](./img-local/Genetik-bozukluklar%C4%B1n-patolojisi4.png)
 
-# Yapısal Proteinleri Kodlayan GenlerdekiMutasyonların Neden Olduğu Hastalıklar
+## Yapısal Proteinleri Kodlayan GenlerdekiMutasyonların Neden Olduğu Hastalıklar
 
-# Marfan Sendromu
+## Marfan Sendromu
 
 - **Ekstraselüler matriksteki fibrilin proteini**
 
@@ -121,7 +121,7 @@ kodlayan genler değildir.**
     gelişebilir (“floppy valve” sendromu). **
   - **Aort rüptürü, en sık ölüm nedenidir.**
 
-# Ehlers-Danlos Sendromları
+## Ehlers-Danlos Sendromları
 
 - **kollajen sentezi veya yapısındaki bozukluklada karakterize**
 - **Tek gen hastalık grupları**
@@ -153,9 +153,9 @@ kodlayan genler değildir.**
   - **otozornal dominant**
   - **klasik EDS**
 
-# Reseptör Proteinleri ve Kanalları Kodlayan Genlerdeki Mutasyonların NedenOlduğu Hastalıklar
+## Reseptör Proteinleri ve Kanalları Kodlayan Genlerdeki Mutasyonların NedenOlduğu Hastalıklar
 
-# Ailesel Hiperkolesterolemi
+## Ailesel Hiperkolesterolemi
 
 **LDL reseptör proteinindeki mutasyonlar**
 
@@ -173,7 +173,7 @@ kodlayan genler değildir.**
 
 ![](./img-local/Genetik-bozukluklar%C4%B1n-patolojisi6.png)
 
-# Kistik Fibrozis
+## Kistik Fibrozis
 
 - **ekzokrin bezler ile respiratuar, gastrointestinal ve üreme
   kanallannın epitelinde sıvı salgılanmasını etleileyen bir epitelyal
@@ -191,7 +191,7 @@ kodlayan genler değildir.**
 
 ![](./img-local/Genetik-bozukluklar%C4%B1n-patolojisi9.png)
 
-# Fenilketonüri
+## Fenilketonüri
 
 **fenilalanin hidroksilaz (FAH) enziminde eksiklik**
 
@@ -205,7 +205,7 @@ kodlayan genler değildir.**
 
 **saç ve deride azalmış pigmentasyon ve ekzema**
 
-# Galaktozemi
+## Galaktozemi
 
 **Otozomal resesif**
 
@@ -218,25 +218,25 @@ ishal ve E.coli sepsisi**
 
 **Diyette galaktoz kısıtlaması**
 
-# Lizozomal Depo Hastalıkları
+## Lizozomal Depo Hastalıkları
 
 ![](./img-local/Genetik-bozukluklar%C4%B1n-patolojisi11.png)
 
 ![](./img-local/Genetik-bozukluklar%C4%B1n-patolojisi12.png)
 
-# Tay-Sachs Hastalığı (Gangliosidoz:Heksozaminidaz Beta-Subünite Eksikliği)
+## Tay-Sachs Hastalığı (Gangliosidoz:Heksozaminidaz Beta-Subünite Eksikliği)
 
 ![](./img-local/Genetik-bozukluklar%C4%B1n-patolojisi13.png)
 
-# Niemann-Pick hastalığıasit sfingomyelinaz eksikliği
+## Niemann-Pick hastalığıasit sfingomyelinaz eksikliği
 
 ![](./img-local/Genetik-bozukluklar%C4%B1n-patolojisi14.png)
 
-# Gaucher hastalığı, glukoserebrozidaz mutasyonları
+## Gaucher hastalığı, glukoserebrozidaz mutasyonları
 
 ![](./img-local/Genetik-bozukluklar%C4%B1n-patolojisi15.png)
 
-# Mukopolisakkaridozlar
+## Mukopolisakkaridozlar
 
 **karaciğer, dal ak, kalp, kan damarları, beyin, kornea ve eklemler gibi
 birçok dokuda, mukopolisakkaridlerin**
@@ -253,11 +253,11 @@ kaybedilir. **
 
 ![](./img-local/Genetik-bozukluklar%C4%B1n-patolojisi16.png)
 
-# Glikojen Depo Hastalıklan (Glikojenozlar)
+## Glikojen Depo Hastalıklan (Glikojenozlar)
 
 ![](./img-local/Genetik-bozukluklar%C4%B1n-patolojisi17.png)
 
-# KOMPLEKS MULTiGENiKHASTALIKLAR
+## KOMPLEKS MULTiGENiKHASTALIKLAR
 
 **Tip1 ve Tip2 diyabet**
 
@@ -269,15 +269,15 @@ boy ve zeka multigenik kalıtım ile belirlenir**
 **tüm popülasyon grupları içerisinde ve de aynı zamanda çapraz olarak
 sürekli varyasyon gösterir**
 
-# Sitogenetik Anomaliler
+## Sitogenetik Anomaliler
 
 ![](./img-local/Genetik-bozukluklar%C4%B1n-patolojisi18.png)
 
-# Trizomi 21 (Down Sendromu)
+## Trizomi 21 (Down Sendromu)
 
 ![](./img-local/Genetik-bozukluklar%C4%B1n-patolojisi19.png)
 
-# 
+## 
 
 ![](./img-local/Genetik-bozukluklar%C4%B1n-patolojisi20.png)
 
@@ -287,9 +287,9 @@ sürekli varyasyon gösterir**
 
 ![](./img-local/Genetik-bozukluklar%C4%B1n-patolojisi23.png)
 
-# Turner Sendromu
+## Turner Sendromu
 
-# Klinefelter sendromu 47,XXY
+## Klinefelter sendromu 47,XXY
 
 **Seks kromozomlarının ayrılmamasına**
 
@@ -301,7 +301,7 @@ jinekomasti**
 
 **Erkeklerde kısırlığın en sık nedenidir**
 
-# Atipik Kalıtım Paterni
+## Atipik Kalıtım Paterni
 
 **Triplet tekrar mutasyonlarının neden olduğu hastalıklar**
 
@@ -310,7 +310,7 @@ jinekomasti**
 **Genomun imprinte edilmiş bölgelerindeki değişiklikler ile ilişkili
 hastalıklar**
 
-# Triplet tekrar mutasyonları
+## Triplet tekrar mutasyonları
 
 **gen içinde bulıman spesifik üç nükleotid grubunun amplifikasyonu genin
 fonksiyonunu bozınaktadır**
@@ -319,7 +319,7 @@ fonksiyonunu bozınaktadır**
 
 ![](./img-local/Genetik-bozukluklar%C4%B1n-patolojisi24.png)
 
-# Frajil X
+## Frajil X
 
 **Frajil X sendromu, Xq27.3’te haritalanmış olan FMR1 genindeki bir
 mutasyon**

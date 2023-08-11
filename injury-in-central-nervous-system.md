@@ -3,20 +3,20 @@ Serdar Balcı
 
 ![](./img-local/Injury-in-central-nervous-system0.jpg)
 
-# Injury in central nervous system
+## Injury in central nervous system
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# CNS
+## CNS
 
 - **Anatomy is important**
   - **Signs, symptoms and clinical features depend on anatomy**
 - **Histology and reaction patterns are different**
 - **Have unique tumors and diseases**
 
-# PATTERNS OF INJURY IN THE NERVOUS SYSTEM
+## PATTERNS OF INJURY IN THE NERVOUS SYSTEM
 
-# Features of Neuronal Injury
+## Features of Neuronal Injury
 
 - **Within 12 hours of an irreversible hypoxic-ischemic insult**
   - **acute neuronal injury**
@@ -70,7 +70,7 @@ peripheral dispersal of the Nissl substance, termed chromatolysis.**
 
 **Robbins Basic Pathology**
 
-# Other diseases also cause changes in neurons
+## Other diseases also cause changes in neurons
 
 - **Specific intracellular inclusions**
   - **Neurodegenerative diseases**
@@ -84,7 +84,7 @@ peripheral dispersal of the Nissl substance, termed chromatolysis.**
   - **cytoplasm and lysosomes**
   - **accumulate complex lipids (lipofuscin)**
 
-# Astrocytes in Injury and Repair
+## Astrocytes in Injury and Repair
 
 - **Principal cells responsible for repair and scar formation in the
   brain**
@@ -100,13 +100,13 @@ peripheral dispersal of the Nissl substance, termed chromatolysis.**
 
 **Robbins and Cotran Pathologic Basis of Disease**
 
-# Fibroblasts
+## Fibroblasts
 
 **Participate in healing after brain injury to a limited extent**
 
 **Except in penetrating brain trauma or around abscesses**
 
-# Fibrillary astrocytes
+## Fibrillary astrocytes
 
 **Long-standing gliosis**
 
@@ -114,12 +114,12 @@ peripheral dispersal of the Nissl substance, termed chromatolysis.**
 
 **Cellular processes become more tightly interwoven**
 
-# Rosenthal fibers
+## Rosenthal fibers
 
 **Thick, elongated, brightly eosinophilic protein aggregates found in
 astrocytic processes in chronic gliosis and in some low-grade gliomas**
 
-# Oligodendrocytes
+## Oligodendrocytes
 
 - **Produce myelin**
 - **Limited spectrum of specific morphologic changes in response to
@@ -128,7 +128,7 @@ astrocytic processes in chronic gliosis and in some low-grade gliomas**
   - **viral inclusions**
   - **smudgy, homogeneous-appearing enlarged nucleus**
 
-# Microglial cells
+## Microglial cells
 
 **Bone-marrow–derived cells**
 
@@ -149,7 +149,7 @@ astrocytic processes in chronic gliosis and in some low-grade gliomas**
   - **Collections congregating around and phagocytosing injured
     neurons**
 
-# Ependymal cells
+## Ependymal cells
 
 - **Cytomegalovirus**
   - **can produce extensive ependymal injury**

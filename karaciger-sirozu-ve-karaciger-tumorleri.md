@@ -3,9 +3,9 @@ Serdar Balcı
 
 ![](./img-local/Karaci%C4%9Fer-Sirozu-ve-Karaci%C4%9Fer-T%C3%BCm%C3%B6rleri0.jpg)
 
-# Karaciğer Sirozu veKaraciğer Tümörleri
+## Karaciğer Sirozu veKaraciğer Tümörleri
 
-# Dr. Serdar BALCI
+## Dr. Serdar BALCI
 
 ![](./img-local/Karaci%C4%9Fer-Sirozu-ve-Karaci%C4%9Fer-T%C3%BCm%C3%B6rleri1.png)
 
@@ -43,7 +43,7 @@ Serdar Balcı
 
 **Robbins Basic Pathology**
 
-# Siroz
+## Siroz
 
 - **Difüz süreç, fibrozis, nodül formasyonu**
 - **Fokal değil, hemen tüm karaciğeri tutar**
@@ -125,9 +125,9 @@ regresyonu mümkün**
 
 **Robbins Basic Pathology**
 
-# TÜMÖRLER VE HEPATIK NODÜLLER
+## TÜMÖRLER VE HEPATIK NODÜLLER
 
-# Tümörler ve hepatik nodüller
+## Tümörler ve hepatik nodüller
 
 - **En sık karaciğer neoplazileri metastazlar**
   - **Kolon, akciğer, meme**
@@ -137,7 +137,7 @@ regresyonu mümkün**
 - **Anjiosarkom**
   - **Vinil klorid ve arsenik maruziyeti**
 
-# BENIGN TÜMÖRLER
+## BENIGN TÜMÖRLER
 
 - **Kavernöz hemanjiom**
   - **En sık görülen benign tümör**
@@ -158,7 +158,7 @@ regresyonu mümkün**
 
 **Robbins and Cotran Pathologic Basis of Disease**
 
-# Fokal nodüler hiperplazi
+## Fokal nodüler hiperplazi
 
 - **Lokalize, iyi sınırlı, düzenli kapsülü olmayan bir lezyon**
   - **Hiperplastik hepatosit nodüllerinden oluşuyor**
@@ -181,7 +181,7 @@ regresyonu mümkün**
 
 **Robbins and Cotran Pathologic Basis of Disease**
 
-# Hepatik Adenom
+## Hepatik Adenom
 
 **Benign hepatoselüler neoplazm**
 
@@ -222,7 +222,7 @@ hepatocytes, absence of portal tracts, and prominent neovascularization
   - **Belirgin batın içi kanama**
 - **β-catenin mutasyonu varsa HCC gelişme riski**
 
-# Hepatik Adenom Tipleri
+## Hepatik Adenom Tipleri
 
 - **HNF1A geninde (hepatocyte transcription factor) biallelik
   aktivasyon, somatik (%90) ya da germline (%10) mutasyon, CYP1B1 geni
@@ -246,9 +246,9 @@ hepatocytes, absence of portal tracts, and prominent neovascularization
   - **FNH ile çok benzer, inflamatuar fenotipin belirlenmesi ile tanı
     konur**
 
-# HEPATOSELÜLER KARSINOM PREKÜRSÖRLERI
+## HEPATOSELÜLER KARSINOM PREKÜRSÖRLERI
 
-# Hepatoselüler karsinom prekürsörleri
+## Hepatoselüler karsinom prekürsörleri
 
 - **Hücresel değişiklikler ve nodüler lezyonlar**
   - **Kronik karaciğer hastalığı**
@@ -262,7 +262,7 @@ hepatocytes, absence of portal tracts, and prominent neovascularization
   gibi bir sıralama yok**
 - **Hepatoselüler adenomlar**
 
-# Büyük hücreli değişim
+## Büyük hücreli değişim
 
 **Dağınık hepatositlerde**
 
@@ -280,7 +280,7 @@ typical nuclei.**
 
 **Robbins Basic Pathology**
 
-# Küçük hücreli değişim
+## Küçük hücreli değişim
 
 **Normal hepatositlerden küçük**
 
@@ -300,7 +300,7 @@ with thickened liver cell plates, and high nuclear : cytoplasmic **
 
 **Robbins Basic Pathology**
 
-# Displastik nodüller
+## Displastik nodüller
 
 **Kronik karaciğer hastalığından HCC gelişimindeki majör yolak**
 
@@ -328,9 +328,9 @@ subnodule of moderately differentiated HCC within it (center, left).**
 
 **Robbins Basic Pathology**
 
-# HEPATOSELÜLER KARSINOM
+## HEPATOSELÜLER KARSINOM
 
-# Hepatoselüler karsinom
+## Hepatoselüler karsinom
 
 - **HBV, HCV, alkolik siroz, aflatoksin maruziyeti**
 - **NAFLD, hemochromatosis, α1 -antitrypsin eksikliği, **
@@ -380,7 +380,7 @@ subnodule of moderately differentiated HCC within it (center, left).**
 
 **Robbins and Cotran Pathologic Basis of Disease**
 
-# Fibrolamellar HCC
+## Fibrolamellar HCC
 
 **Genç yetişkin erkek ve kadınlar (20-40 yaş)**
 

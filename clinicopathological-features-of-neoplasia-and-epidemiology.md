@@ -3,11 +3,11 @@ Serdar Balcı
 
 ![](./img-local/Clinicopathological-features-of-Neoplasia-and-Epidemiology0.jpg)
 
-# Clinicopathological Features of Neoplasia and Epidemiology
+## Clinicopathological Features of Neoplasia and Epidemiology
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# Clinical problems caused by both benign and malignant tumors
+## Clinical problems caused by both benign and malignant tumors
 
 - **Location and pressure on/ infiltration of adjacent structures**
 - **Functional activity**
@@ -18,7 +18,7 @@ Serdar Balcı
 - **Rupture or infarction**
 - **Cachexia or wasting**
 
-# Effects of Tumor on Host
+## Effects of Tumor on Host
 
 - **Location**
   - **1 cm pituitary adenoma → hypopituitarism**
@@ -34,7 +34,7 @@ Serdar Balcı
   - **Intestinal obstruction**
   - **Infarct**
 
-# Cancer Cachexia
+## Cancer Cachexia
 
 **Progressive loss of body fat**
 
@@ -46,7 +46,7 @@ Serdar Balcı
 
 **Anemia**
 
-# Cachexia
+## Cachexia
 
 - **Correlation between**
 
@@ -100,7 +100,7 @@ Cancer, 14, 754–762 (2014)**
 **Cancer cachexia: understanding the molecular basis Nature Reviews
 Cancer, 14, 754–762 (2014)**
 
-# Paraneoplastic Syndromes
+## Paraneoplastic Syndromes
 
 - **Symptom complexes that cannot be explained by local or distant
   spread of the tumor**
@@ -131,7 +131,7 @@ paraneoplastic syndrome**
   - **Clubbing of the fingers**
   - **Hypertrophic osteoarthropathy**
 
-# Grade (Derece)
+## Grade (Derece)
 
 - **Attempts to establish**
   - **Aggressiveness**
@@ -141,7 +141,7 @@ paraneoplastic syndrome**
   - **The number of mitoses within the tumor**
 - **Grade I, II, III, or IV --\> in order of increasing anaplasia**
 
-# Different Grades for Different Tumors
+## Different Grades for Different Tumors
 
 **Criteria for the individual grades vary with each form of neoplasia**
 
@@ -175,7 +175,7 @@ paraneoplastic syndrome**
 
 **Cancer Grading Manual**
 
-# Stage (Evre)
+## Stage (Evre)
 
 **Based on**
 
@@ -185,7 +185,7 @@ paraneoplastic syndrome**
 
 **The presence or absence of metastases**
 
-# Stage
+## Stage
 
 - **TNM system**
 - **Based on**
@@ -227,13 +227,13 @@ paraneoplastic syndrome**
 - **Grade**
   - **Given by pathologist**
   - **Using microscope**
-  - **Determining atypia, \# of mitosis, …**
+  - **Determining atypia, \## of mitosis, …**
 - **Stage**
   - **Requires a team effort**
   - **Using histopathologic, radiologic, clinical features**
   - **Determining T, N, M status**
 
-# Laboratory Diagnosis of Cancer
+## Laboratory Diagnosis of Cancer
 
 **Morphologic Methods**
 
@@ -241,14 +241,14 @@ paraneoplastic syndrome**
 
 **Molecular Diagnosis**
 
-# Morphologic Methods
+## Morphologic Methods
 
 - **Done by pathologist**
   - **Macroscopic and microscopic features**
 - **It is easy to diagnose normal and malignant cases**
 - **Problematic cases are the borderline ones**
 
-# Clinical information is necessary in all casesBut absolutely necessary in some cases
+## Clinical information is necessary in all casesBut absolutely necessary in some cases
 
 **Radiation-induced changes in the skin or mucosa can be similar to
 cancer**
@@ -257,14 +257,14 @@ cancer**
 
 **Giant cell tumor of bone vs bone cysts vs hyperparathyroidism**
 
-# Specimen
+## Specimen
 
 - **Must be adequate**
 - **Representative**
 - **Properly preserved**
   - **Formaldehyde**
 
-# Types of Specimens
+## Types of Specimens
 
 **Radical Surgery**
 
@@ -278,13 +278,13 @@ cancer**
 
 **Int J Surg Case Rep. 2014; 5(1): 30–33**
 
-# Frozen Section
+## Frozen Section
 
 ![](./img-local/Clinicopathological-features-of-Neoplasia-and-Epidemiology21.png)
 
 **http://www.ihcworld.com/**
 
-# Fine Needle Aspiration
+## Fine Needle Aspiration
 
 - **Aspiration of cells from a mass**
 - **Followed by cytologic examination of the smear**
@@ -306,17 +306,17 @@ cancer**
 
 **Robbins Basic Pathology**
 
-# Immunohistochemistry
+## Immunohistochemistry
 
 ![](./img-local/Clinicopathological-features-of-Neoplasia-and-Epidemiology25.png)
 
 **Bancroft’s Theory and Practice of Histological Techniques**
 
-# Flow cytometry
+## Flow cytometry
 
 ![](./img-local/Clinicopathological-features-of-Neoplasia-and-Epidemiology26.jpg)
 
-# Tumor Markers
+## Tumor Markers
 
 **Tumor-associated enzymes, hormones, and other tumor markers in the
 blood**
@@ -339,7 +339,7 @@ blood**
 
 **CA19-9**
 
-# Molecular Diagnosis
+## Molecular Diagnosis
 
 - **Diagnosis of malignancy**
 - **PCR**
@@ -384,7 +384,7 @@ blood**
 
 **Robbins Basic Pathology**
 
-# Molecular Profiling of Tumors
+## Molecular Profiling of Tumors
 
 - **Whole Genome Sequencing**
 - **Tumors can contain from a handful of somatic mutations**
@@ -392,7 +392,7 @@ blood**
 - **Tens of thousands of mutations**
   - **Exposed to mutagens, skin, lung cancer**
 
-# Two types of mutations
+## Two types of mutations
 
 - **Driver mutations **
   - **change normal control of cell proliferation, differentiation, and
@@ -406,7 +406,7 @@ blood**
   - **have a neutral effect on growth, not conferring any advantage or
     disadvantage**
 
-# Driver mutations
+## Driver mutations
 
 - **Recurrent**
   - **Present in a substantial percentage of patients with a particular
@@ -426,7 +426,7 @@ blood**
 
 **Robbins Basic Pathology**
 
-# Factors effecting clinical outcome
+## Factors effecting clinical outcome
 
 **Factors effecting survival**
 
@@ -444,11 +444,11 @@ blood**
 
 **Venous invasion**
 
-<span style="color:#FF0000">Stage T, N, M</span>
+<span style="color:##FF0000">Stage T, N, M</span>
 
 **Clues for hereditary syndromes**
 
-# Markers used in pathology
+## Markers used in pathology
 
 **Diagnostic**
 
@@ -458,7 +458,7 @@ blood**
 
 **Therapeutic**
 
-# Product of a pathologist is a report
+## Product of a pathologist is a report
 
 **What do we expect to see in a report?**
 
@@ -469,7 +469,7 @@ clinical outcome**
 
 **cap.org/cancerprotocols**
 
-# Epidemiology
+## Epidemiology
 
 **Epidemiologic data is used to find factors that are associated with
 cancer**
@@ -480,9 +480,9 @@ cancer**
 
 **Environmental, racial (hereditary), cultural influences**
 
-# Cancer Incidence
+## Cancer Incidence
 
-- **\# of new cancer patients per population**
+- **\## of new cancer patients per population**
 - **USA**
   - **1.5 million new cancer cases occurred in 2011**
   - **569,000 people died of cancer**
@@ -502,7 +502,7 @@ cancer**
 
 ![](./img-local/Clinicopathological-features-of-Neoplasia-and-Epidemiology36.png)
 
-# Cancer Rates changes over time
+## Cancer Rates changes over time
 
 - **Significant increase in the overall cancer death rate among men**
   - **Lung cancer, begun to drop**
@@ -511,7 +511,7 @@ cancer**
     and large bowel**
   - **Striking climb in the rate of lung cancer in women**
 
-# Geographic and Environmental Variables
+## Geographic and Environmental Variables
 
 - **Environmental factors are the predominant cause of the most common
   sporadic cancers**
@@ -534,7 +534,7 @@ cancer**
     have lived in the United States for many generations**
   - **The two rates come closer with each passing generation**
 
-# Environmental carcinogens are everywhere
+## Environmental carcinogens are everywhere
 
 **In the workplace, in food, and in personal practices**
 
@@ -563,7 +563,7 @@ cancer**
 
 ![](./img-local/Clinicopathological-features-of-Neoplasia-and-Epidemiology38.png)
 
-# ?questions to think?
+## ?questions to think?
 
 **Why do we see cancer in older people?**
 
@@ -571,7 +571,7 @@ cancer**
 
 **Why certain cancers have peaks at certain ages?**
 
-# Age
+## Age
 
 - **Most cancer deaths occur between ages 55 and 75**
 - **The rate declines, along with the population base, after age 75**
@@ -586,7 +586,7 @@ cancer**
   - **Lymphomas**
   - **Soft tissue and bone sarcomas**
 
-# Heredity
+## Heredity
 
 ![](./img-local/Clinicopathological-features-of-Neoplasia-and-Epidemiology39.png)
 
@@ -617,7 +617,7 @@ certain cancers**
     preexisting benign polyps**
 - **Incomplete penetrance or multifactorial inheritance**
 
-# Why all smokers do not get cancer?
+## Why all smokers do not get cancer?
 
 **Polymorphisms in drug-metabolizing enzymes**
 
@@ -632,7 +632,7 @@ cigarettes**
 
 **?My uncle used to smoke 3 packages per day, he did not get cancer?**
 
-# Acquired Preneoplastic Lesions
+## Acquired Preneoplastic Lesions
 
 - **Preneoplastic lesions, precancers**
 - **Precursor lesions arise in the setting of chronic tissue injury or
@@ -649,14 +649,14 @@ cigarettes**
   - **Associated with a high risk of transformation to colorectal
     carcinoma**
 
-# What is the risk of malignant change in a benign neoplasm?
+## What is the risk of malignant change in a benign neoplasm?
 
 - **Are benign tumors precancerous?**
   - **Adenomas of the colon as they enlarge can undergo malignant
     transformation in 50% of cases**
   - **Malignant change is extremely rare in leiomyomas of the uterus**
 
-# Early Detection of Cancer
+## Early Detection of Cancer
 
 - **Screening Tests**
   - **Hormone Markers**
@@ -671,7 +671,7 @@ cigarettes**
 
 **N Engl J Med 373;18 October 29, 2015**
 
-# How can you find cancer statistics?
+## How can you find cancer statistics?
 
 **SEER: seer.cancer.gov/**
 

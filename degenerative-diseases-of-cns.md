@@ -3,11 +3,11 @@ Serdar Balcı
 
 ![](./img-local/Degenerative-Diseases-of-CNS0.jpg)
 
-# Degenerative Diseases of CNS
+## Degenerative Diseases of CNS
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# Neurodegenerative Diseases
+## Neurodegenerative Diseases
 
 - **Cellular degeneration of subsets of neurons**
 - **These subsets are related by function, rather than by physical
@@ -22,7 +22,7 @@ Serdar Balcı
 
 **Robbins Basic Pathology**
 
-# Clinical manifestations of degenerative diseases
+## Clinical manifestations of degenerative diseases
 
 - **Cerebral cortical neurons**
   - **Loss of memory, language, insight, and planning, all components of
@@ -34,7 +34,7 @@ Serdar Balcı
 - **Motor neurons**
   - **Weakness**
 
-# 
+## 
 
 - **Degenerative diseases have primary targets**
 - **Other brain regions are often affected later in the course**
@@ -42,7 +42,7 @@ Serdar Balcı
   - **Start with movement disorders**
   - **Later cortical involvement, cognitive changes**
 
-# Dementia
+## Dementia
 
 - **Development of memory impairment and other cognitive deficits**
   - **Severe enough to decrease the affected person’s capacity to
@@ -55,9 +55,9 @@ Serdar Balcı
 
 **Robbins Basic Pathology**
 
-# ALZHEIMER DISEASE
+## ALZHEIMER DISEASE
 
-# Alzheimer Disease
+## Alzheimer Disease
 
 **Most common cause of dementia in the elderly population**
 
@@ -83,7 +83,7 @@ Serdar Balcı
 
 ![](./img-local/Degenerative-Diseases-of-CNS3.png)
 
-# APP (amyloid precursor protein)Transmembrane protein
+## APP (amyloid precursor protein)Transmembrane protein
 
 **Cleaved by α-secretase and γ-secretase**
 
@@ -109,7 +109,7 @@ characteristic plaques and tangles of Alzheimer disease**
 
 **Robbins Basic Pathology**
 
-# Alzheimer Disease
+## Alzheimer Disease
 
 - **APP gene**
 - **Chromosome 21**
@@ -238,9 +238,9 @@ surrounding region**
 - **Tangles are not specific to AD**
   - **Found in other degenerative diseases as well**
 
-# FRONTOTEMPORAL LOBAR DEGENERATION
+## FRONTOTEMPORAL LOBAR DEGENERATION
 
-# Frontotemporal Lobar Degeneration
+## Frontotemporal Lobar Degeneration
 
 **Degeneration and atrophy of temporal and frontal lobes**
 
@@ -256,7 +256,7 @@ surrounding region**
     - **inclusions contain tau, configuration differs from Alzheimer**
     - **caused by mutations in the gene encoding tau**
 
-# Frontotemporal Lobar Degeneration Subtypes
+## Frontotemporal Lobar Degeneration Subtypes
 
 - **Pick disease**
   - **Subtype of FTLD-tau**
@@ -268,9 +268,9 @@ surrounding region**
     - **also mutated in a subset of cases of amyotrophic lateral
       sclerosis**
 
-# PARKINSON DISEASE
+## PARKINSON DISEASE
 
-# Parkinsonism
+## Parkinsonism
 
 **Clinical syndrome characterized by tremor, rigidity, bradykinesia and
 instability**
@@ -292,7 +292,7 @@ neurons**
 - **Postencephalitic parkinsonism**
   - **1918 influenza pandemic**
 
-# Parkinson disease
+## Parkinson disease
 
 - **Most cases sporadic**
 - **Autosomal dominant and recessive forms exist**
@@ -357,9 +357,9 @@ of the substantia nigra**
 and subcortical areas, including the cholinergic cells of the basal
 nucleus of Meynert and the amygdala → Dementia**
 
-# HUNTINGTON DISEASE
+## HUNTINGTON DISEASE
 
-# Huntington Disease
+## Huntington Disease
 
 **Autosomal dominant movement disorder**
 
@@ -420,9 +420,9 @@ immunoreactive for ubiquitin**
   - **Intranuclear inclusions that contain aggregates of ubiquitinated
     huntingtin protein**
 
-# SPINOCEREBELLAR ATAXIAS
+## SPINOCEREBELLAR ATAXIAS
 
-# Spinocerebellar Ataxias
+## Spinocerebellar Ataxias
 
 - **Clinically heterogeneous group of diseases**
 - **Caused by trinucleotide repeat expansion mutations**
@@ -431,7 +431,7 @@ immunoreactive for ubiquitin**
   - **similar to Huntington disease**
   - **Neuronal intranuclear inclusions**
 
-# Friedreich ataxia
+## Friedreich ataxia
 
 - **Autosomal recessive**
 - **Manifests in the first decade of life**
@@ -444,9 +444,9 @@ immunoreactive for ubiquitin**
   - **Decreased frataxin leads to mitochondrial dysfunction as well as
     increased oxidative damage**
 
-# AMYOTROPHIC LATERAL SCLEROSIS
+## AMYOTROPHIC LATERAL SCLEROSIS
 
-# Amyotrophic Lateral Sclerosis
+## Amyotrophic Lateral Sclerosis
 
 - **Death of**
   - **Lower motor neurons in the spinal cord and brain stem**

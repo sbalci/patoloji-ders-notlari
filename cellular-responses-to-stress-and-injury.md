@@ -1,15 +1,15 @@
 # Title
 Serdar Balcı
 
-# Cellular Responses to Stress and Injury
+## Cellular Responses to Stress and Injury
 
 ![](./img-local/Cellular-Responses-to-Stress-and-Injury0.png)
 
-# Serdar BALCI
+## Serdar BALCI
 
 ![](./img-local/Cellular-Responses-to-Stress-and-Injury1.jpg)
 
-# Adaptations
+## Adaptations
 
 - **Reversible changes in respone to environment**
 - **Changes in:**
@@ -51,7 +51,7 @@ Serdar Balcı
 
 **Metaplasia**
 
-# Hypertrophy
+## Hypertrophy
 
 - **Increase in size of cells**
 - **Which causes increase in organ size**
@@ -65,7 +65,7 @@ Serdar Balcı
 
 **Pathologic**
 
-# Physiologic hypertrophy
+## Physiologic hypertrophy
 
 ![](./img-local/Cellular-Responses-to-Stress-and-Injury3.jpg)
 
@@ -73,7 +73,7 @@ Serdar Balcı
 
 ![](./img-local/Cellular-Responses-to-Stress-and-Injury5.jpg)
 
-# Physiologic hypertrophy and hyperplasia of the uterus during pregnancy
+## Physiologic hypertrophy and hyperplasia of the uterus during pregnancy
 
 ![](./img-local/Cellular-Responses-to-Stress-and-Injury6.jpg)
 
@@ -81,7 +81,7 @@ Serdar Balcı
 
 ![](./img-local/Cellular-Responses-to-Stress-and-Injury8.jpg)
 
-# Pathologic hypertrophy
+## Pathologic hypertrophy
 
 **Atlas of Autopsy Pathology, 2** **nd** \_\_ ed. Figure 15-33 Left
 ventricular hypertrophy. The short-axis plane of section shows the
@@ -123,7 +123,7 @@ ventricular apex does not quite reach the apex of the heart. This apical
 cut of a heart from a patient with chronic liver disease shows the right
 ventricular cavity, consistent with pulmonary hypertension. **
 
-# Mechanisms of Cardiac Hypertrophy
+## Mechanisms of Cardiac Hypertrophy
 
 - **mechanical triggers**
   - **Stretch**
@@ -151,7 +151,7 @@ ventricular cavity, consistent with pulmonary hypertension. **
 
 **So, we are happy**
 
-# Mechanisms of Cardiac HypertrophyThings start to change
+## Mechanisms of Cardiac HypertrophyThings start to change
 
 **switch of contractile proteins from adult to fetal or neonatal forms**
 
@@ -172,7 +172,7 @@ contraction**
 
 **The synthesis of new proteins are not effective **
 
-# Mechanisms of Cardiac HypertrophyEnd up with
+## Mechanisms of Cardiac HypertrophyEnd up with
 
 **Huge, dilated**
 
@@ -186,17 +186,17 @@ contraction**
 
 **A vicious circle**
 
-# Adaptations
+## Adaptations
 
 **Hypertrophy**
 
-<span style="color:#FF0000">Hyperplasia</span>
+<span style="color:##FF0000">Hyperplasia</span>
 
 **Atrophy**
 
 **Metaplasia**
 
-# Hyperplasia
+## Hyperplasia
 
 **increase in cell number**
 
@@ -206,9 +206,9 @@ contraction**
 
 ![](./img-local/Cellular-Responses-to-Stress-and-Injury12.jpg)
 
-# Physiologic hypertrophy and hyperplasia of the uterus during pregnancy
+## Physiologic hypertrophy and hyperplasia of the uterus during pregnancy
 
-# physiologic hyperplasia
+## physiologic hyperplasia
 
 **Hormonal Hyperplasia**
 
@@ -228,7 +228,7 @@ contraction**
 
 ![](./img-local/Cellular-Responses-to-Stress-and-Injury13.jpg)
 
-# Compensatory Hyperplasia of Liver
+## Compensatory Hyperplasia of Liver
 
 **One can donate part of liver when (s)he is alive**
 
@@ -238,19 +238,19 @@ contraction**
 
 **Then proliferation stops**
 
-# Examples of pathologic hyperplasia
+## Examples of pathologic hyperplasia
 
 - **Endometrial hyperplasia**
   - **Disturbance of the hormonal balance in favor of estrogen over
     progesterone**
 
-# Hyperplasia in wound healing
+## Hyperplasia in wound healing
 
 **Fibroblasts, blood vessels proliferate**
 
 **Local effect of mediators from leukocytes**
 
-# Hyperplasia in viral infection
+## Hyperplasia in viral infection
 
 - **Papillomaviruses **
   - **cause skin warts and mucosal lesions**
@@ -258,7 +258,7 @@ contraction**
 - **Growth factors may be encoded by viral or infected host cell
   genes.**
 
-# Hyperplasia
+## Hyperplasia
 
 **The hyperplastic process remains controlled; if the signals that
 initiate it abate, the hyperplasia disappears**
@@ -269,7 +269,7 @@ or ineffective in many cases**
 **Pathologic hyperplasia constitutes a fertile soil in which cancers may
 eventually arise**
 
-# Hypertrophy vs Hyperplasia
+## Hypertrophy vs Hyperplasia
 
 **Hypertrophy**
 
@@ -289,17 +289,17 @@ eventually arise**
 - **adaptive response in cells capable of replication**
   - **(remember G0,G1,S,M phases of mitosis)**
 
-# Adaptations
+## Adaptations
 
 **Hypertrophy**
 
 **Hyperplasia**
 
-<span style="color:#FF0000">Atrophy</span>
+<span style="color:##FF0000">Atrophy</span>
 
 **Metaplasia**
 
-# Atrophy
+## Atrophy
 
 **Shrinkage in the size of the cell**
 
@@ -319,7 +319,7 @@ eventually arise**
 
 **Atrophy of the brain is due to aging and reduced blood supply**
 
-# Causes of atrophy
+## Causes of atrophy
 
 - **decreased workload**
   - **immobilization of a limb after fracture**
@@ -329,7 +329,7 @@ eventually arise**
 - **loss of endocrine stimulation**
 - **aging (senile atrophy)**
 
-# 
+## 
 
 **Physiologic atrophy**
 
@@ -344,7 +344,7 @@ eventually arise**
 
 **Cells get smaller until a point where survival is still possible**
 
-# Mechanism of atrophy
+## Mechanism of atrophy
 
 **Decreased protein synthesis**
 
@@ -360,7 +360,7 @@ eventually arise**
 
 ![](./img-local/Cellular-Responses-to-Stress-and-Injury16.jpg)
 
-# Adaptations
+## Adaptations
 
 **Hypertrophy**
 
@@ -368,9 +368,9 @@ eventually arise**
 
 **Atrophy**
 
-<span style="color:#FF0000">Metaplasia</span>
+<span style="color:##FF0000">Metaplasia</span>
 
-# Metaplasia
+## Metaplasia
 
 - **reversible change**
 - **one adult cell type**
@@ -381,7 +381,7 @@ eventually arise**
 
 ![](./img-local/Cellular-Responses-to-Stress-and-Injury18.jpg)
 
-# Question to think aboutWhich one is pathologic?
+## Question to think aboutWhich one is pathologic?
 
 **Hormonal Hyperplasia**
 
@@ -404,7 +404,7 @@ eventually arise**
 **Acini are not present in male breast. Ductules and stroma is
 affected.**
 
-# Question to thinkWhich one is pathologic inCompensatory Hyperplasia of Liver
+## Question to thinkWhich one is pathologic inCompensatory Hyperplasia of Liver
 
 **Hyperplasia after donation**
 
@@ -430,7 +430,7 @@ affected.**
 
 **Cannot reform the 3D architecture of liver**
 
-# Question to think aboutDoes brain gets hyperplastic/hypertophic changes?
+## Question to think aboutDoes brain gets hyperplastic/hypertophic changes?
 
 **No**
 

@@ -3,13 +3,13 @@ Serdar Balcı
 
 ![](./img-local/Cerebrovascular-diseases0.jpg)
 
-# Cerebrovascular diseases
+## Cerebrovascular diseases
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# EDEMA, HERNIATION, AND HYDROCEPHALUS
+## EDEMA, HERNIATION, AND HYDROCEPHALUS
 
-# Central Nervous System
+## Central Nervous System
 
 - **Rigid skull and spinal canal**
 - **Specific foramina**
@@ -18,11 +18,11 @@ Serdar Balcı
 - **But cannot expand**
   - **generalized cerebral edema, hydrocephalus, mass lesions, tumors**
 
-# EDEMA
+## EDEMA
 
 ![](./img-local/Cerebrovascular-diseases1.png)
 
-# Cerebral Edema
+## Cerebral Edema
 
 - **Accumulation of excess fluid within the brain parenchyma**
 - **Vasogenic edema**
@@ -60,11 +60,11 @@ associated with a dangerous increase in intracranial pressure.**
 
 **Robbins Basic Pathology**
 
-# HYDROCEPHALUS
+## HYDROCEPHALUS
 
 ![](./img-local/Cerebrovascular-diseases4.png)
 
-# Hydrocephalus
+## Hydrocephalus
 
 **CSF is produced by the choroid plexus within the ventricles**
 
@@ -111,9 +111,9 @@ volume**
 
 ![](./img-local/Cerebrovascular-diseases8.jpg)
 
-# HERNIATION
+## HERNIATION
 
-# Herniation
+## Herniation
 
 - **Cranial vault is subdivided by rigid dural folds**
   - **falx and tentorium**
@@ -133,7 +133,7 @@ volume**
 
 ![](./img-local/Cerebrovascular-diseases10.png)
 
-# Subfalcine (cingulate) herniation
+## Subfalcine (cingulate) herniation
 
 **Unilateral or asymmetric expansion of a cerebral hemisphere displaces
 the cingulate gyrus under the edge of falx**
@@ -148,7 +148,7 @@ the cingulate gyrus under the edge of falx**
 
 ![](./img-local/Cerebrovascular-diseases12.png)
 
-# Transtentorial (uncinate) herniation
+## Transtentorial (uncinate) herniation
 
 - **Medial aspect of the temporal lobe is compressed against the free
   margin of the tentorium**
@@ -204,7 +204,7 @@ leading to hemorrhage**
 
 ![](./img-local/Cerebrovascular-diseases17.png)
 
-# Tonsillar herniation
+## Tonsillar herniation
 
 **Displacement of the cerebellar tonsils through the foramen magnum**
 
@@ -220,9 +220,9 @@ leading to hemorrhage**
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# CEREBROVASCULAR DISEASES
+## CEREBROVASCULAR DISEASES
 
-# Stroke
+## Stroke
 
 - **Stroke (İnme, Nuzül, Felç)**
   - **clinical designation applied to all conditions when symptoms begin
@@ -240,9 +240,9 @@ leading to hemorrhage**
 - **Hemorrhage accompanies rupture of vessels**
   - **direct tissue damage, secondary ischemic injury**
 
-# HYPOXIA, ISCHEMIA, AND INFARCTION
+## HYPOXIA, ISCHEMIA, AND INFARCTION
 
-# Hypoxia
+## Hypoxia
 
 - **Brain is highly oxygen-dependent tissue**
 
@@ -271,7 +271,7 @@ leading to hemorrhage**
     - **Hypotension**
     - **Vascular obstruction**
 
-# Global Cerebral Ischemia
+## Global Cerebral Ischemia
 
 - **Widespread ischemic-hypoxic injury**
 - **Severe systemic hypotension**
@@ -378,7 +378,7 @@ portions of arterial territories**
 **Border zone between the anterior and the middle cerebral artery
 distributions is at greatest risk**
 
-# Focal Cerebral Ischemia
+## Focal Cerebral Ischemia
 
 - **Cerebral arterial occlusion**
 - **Focal ischemia**
@@ -391,7 +391,7 @@ distributions is at greatest risk**
   thalamus, basal ganglia, and deep white matter**
   - **supplied by deep penetrating vessels**
 
-# Embolic infarctions
+## Embolic infarctions
 
 - **More common than infarctions due to thrombosis**
 - **Cardiac mural thrombi are a frequent source of emboli**
@@ -402,7 +402,7 @@ distributions is at greatest risk**
 - **Emboli tend to lodge where vessels branch or in areas of stenosis,
   usually caused by atherosclerosis**
 
-# Thrombotic occlusions
+## Thrombotic occlusions
 
 **superimposed on atherosclerotic plaques**
 
@@ -412,7 +412,7 @@ either end of the basilar artery**
 **accompanied by anterograde extension, as well as thrombus
 fragmentation and distal embolization**
 
-# Infarcts
+## Infarcts
 
 - **Nonhemorrhagic infarcts**
   - **Acute vascular occlusions**
@@ -445,7 +445,7 @@ gliosis**
 
 **Robbins Basic Pathology**
 
-# Macroscopic appearance of a nonhemorrhagic infarct
+## Macroscopic appearance of a nonhemorrhagic infarct
 
 - **First 6 hours**
 
@@ -508,16 +508,16 @@ gliosis**
 
   - **do not contribute to the healing process**
 
-# 
+## 
 
 **The microscopic picture and evolution of hemorrhagic infarction
 parallel those of ischemic infarction**
 
 **Addition of blood extravasation and resorption**
 
-# INTRACRANIAL HEMORRHAGE
+## INTRACRANIAL HEMORRHAGE
 
-# Intracranial Hemorrhage
+## Intracranial Hemorrhage
 
 - **Hypertension and other diseases leading to vascular wall injury**
 - **Structural lesions such as arteriovenous and cavernous
@@ -529,7 +529,7 @@ parallel those of ischemic infarction**
 - **Subdural or epidural hemorrhages**
   - **associated with trauma**
 
-# Spontaneous (nontraumatic) intraparenchymal hemorrhages
+## Spontaneous (nontraumatic) intraparenchymal hemorrhages
 
 - **Most common in mid- to late adult life**
 - **Peak incidence at about 60 years of age**
@@ -546,7 +546,7 @@ lateral ventricle**
 
 **Robbins Basic Pathology**
 
-# Acute hemorrhages
+## Acute hemorrhages
 
 - **Extravasated blood**
 - **Compresses the adjacent parenchyma**
@@ -563,7 +563,7 @@ lateral ventricle**
     periphery of the lesion**
   - **Similar changes observed after cerebral infarction**
 
-# Cerebral Amyloid Angiopathy
+## Cerebral Amyloid Angiopathy
 
 - **Amyloidogenic peptides deposit in the walls of medium- and
   small-caliber meningeal and cortical vessels**
@@ -573,7 +573,7 @@ lateral ventricle**
 - **Distribution is different from hypertensive hemorrhages**
   - **occur in the lobes of the cerebral cortex ( lobar hemorrhages )**
 
-# Subarachnoid Hemorrhage and Saccular Aneurysms
+## Subarachnoid Hemorrhage and Saccular Aneurysms
 
 - **The most frequent cause of clinically significant non-traumatic
   subarachnoid hemorrhage is rupture of a saccular (berry) aneurysm**
@@ -585,7 +585,7 @@ lateral ventricle**
   - **hematologic disturbances**
   - **tumors**
 
-# Saccular Aneurysms
+## Saccular Aneurysms
 
 - **Rupture can occur at any time (Ebru Gündeş)**
 - **1/3 associated with acute increases in intracranial pressure**
@@ -645,7 +645,7 @@ the subarachnoid space or the substance of the brain, or both**
 
 **Robbins Basic Pathology**
 
-# Other aneurysms
+## Other aneurysms
 
 - **Atherosclerotic**
   - **fusiform and most commonly involve the basilar artery**
@@ -655,7 +655,7 @@ the subarachnoid space or the substance of the brain, or both**
   - **manifest with cerebral infarction**
   - **vascular occlusion**
 
-# Vascular Malformations
+## Vascular Malformations
 
 **arteriovenous malformations**
 
@@ -665,7 +665,7 @@ the subarachnoid space or the substance of the brain, or both**
 
 **venous angiomas**
 
-# Arteriovenous malformations
+## Arteriovenous malformations
 
 - **Most common vascular malformation**
 - **M:F=2:1**
@@ -703,7 +703,7 @@ internal elastic lamina**
 **Marked thickening or partial replacement of the media by hyalinized
 connective tissue**
 
-# Cavernous malformations
+## Cavernous malformations
 
 **distended, loosely organized vascular channels**
 
@@ -718,7 +718,7 @@ connective tissue**
 **Foci of old hemorrhage, infarction, and calcification frequently
 surround the abnormal vessels**
 
-# Capillary telangiectasias
+## Capillary telangiectasias
 
 **microscopic foci of dilated thin-walled vascular channels**
 
@@ -729,14 +729,14 @@ surround the abnormal vessels**
 **unlikely to bleed or to cause symptoms, and most are incidental
 findings**
 
-# Venous angiomas (varices)
+## Venous angiomas (varices)
 
 **aggregates of ectatic venous channels**
 
 **unlikely to bleed or to cause symptoms, and most are incidental
 findings**
 
-# Hypertensive Cerebrovascular Disease
+## Hypertensive Cerebrovascular Disease
 
 - **Hyaline arteriolar sclerosis of the deep penetrating arteries and
   arterioles**
@@ -784,7 +784,7 @@ findings**
   - **Petechiae and fibrinoid necrosis of arterioles in the gray and
     white matter may be seen microscopically**
 
-# Vasculitis
+## Vasculitis
 
 - **Infectious arteritis of small and large vessels**
   - **syphilis and tuberculosis**

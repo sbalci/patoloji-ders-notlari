@@ -1,7 +1,7 @@
-# Title
+# Hipofiz Hastalıkları
 Serdar Balcı
 
-# Davut’un Golyat’ı Öldürmesi (I.Samuel)
+## Davut’un Golyat’ı Öldürmesi (I.Samuel)
 
 **1.Sa.17: 4 Filist ordugahından Gatlı Golyat adında usta bir
 dövüşçüortaya çıktı. ** **Boyu ** **altı arşın bir karıştı\*fe\*.D Not
@@ -70,11 +70,11 @@ resulting in ** **transtentorial herniation and death** **.**
 
 ![](./img-local/Hipofiz-Hastal%C4%B1klar%C4%B11.jpg)
 
-# Hipofiz (Pitüiter) Hastalıkları
+## Hipofiz (Pitüiter) Hastalıkları
 
-# Dr. Serdar BALCI
+## Dr. Serdar BALCI
 
-# Hipofiz (Pitüiter) bezi
+## Hipofiz (Pitüiter) bezi
 
 - **Küçük, fasulye şeklinde**
 - **Sella turcica içinde beyin tabanında yer alır**
@@ -84,7 +84,7 @@ resulting in ** **transtentorial herniation and death** **.**
 - **Anterior lob (Adenohipofiz)**
 - **Posterior lob (Nörohipofiz)**
 
-# Adenohipofiz
+## Adenohipofiz
 
 - **Epitelyal hücreler**
 - **Embriyolojik olarak oral kaviteden gelişir**
@@ -106,7 +106,7 @@ resulting in ** **transtentorial herniation and death** **.**
 
 ![](./img-local/Hipofiz-Hastal%C4%B1klar%C4%B16.jpg)
 
-# Hipofiz hastalıkları
+## Hipofiz hastalıkları
 
 - **Hiperpitüitarizm**
   - **Trofik hormonların fazla sekresyonu**
@@ -143,7 +143,7 @@ resulting in ** **transtentorial herniation and death** **.**
     - **Pitüiter apopleksi**
     - **Hızlı ölümcül**
 
-# Hiperpitüitarizm
+## Hiperpitüitarizm
 
 - **En sık neden anterior lob kaynaklı adenom**
 - **Daha az sıklıkla**
@@ -152,7 +152,7 @@ resulting in ** **transtentorial herniation and death** **.**
   - **Ekstrapitüiter tümörlerden hormon sekresyonu**
   - **Hipotalamik hastalıklar**
 
-# Pitüiter adenom patogenezi
+## Pitüiter adenom patogenezi
 
 - **Guanine nucleotide–binding protein (G protein) mutasyonları**
 - **Sinyal iletiminde kritik rolü var**
@@ -166,7 +166,7 @@ resulting in ** **transtentorial herniation and death** **.**
 
 ![](./img-local/Hipofiz-Hastal%C4%B1klar%C4%B17.png)
 
-# Hipofiz adenomu patogenezi
+## Hipofiz adenomu patogenezi
 
 - **Ailesel hipofiz adenomları**
   - **MEN1, CDKN1B, PRKAR1A, and AIP**
@@ -248,7 +248,7 @@ tümör boyunca homojendir**
 **Hücresel monomorfizm ve retikülin ağının olmamamsı ile hipofiz adenomu
 çevre nonneoplastik adenohipofiz dokusundan ayrılabilir**
 
-# Hipofiz adenomu
+## Hipofiz adenomu
 
 - **Histolojik inceleme ile fonksiyonel durum güvenle tahmin
   edilemeyebilir**
@@ -279,7 +279,7 @@ tümör boyunca homojendir**
 
 **Robbins Basic Pathology**
 
-# Prolaktinom
+## Prolaktinom
 
 **En sık hiperfonksiyon gösteren adenom**
 
@@ -288,7 +288,7 @@ değişken büyüklük**
 
 **PRL immünohistokimyasal olarak gösterilebilir**
 
-# Hiperprolaktinemi
+## Hiperprolaktinemi
 
 - **Amenore, Galaktore, libido kaybı, infertilite**
 - **Doğurganlık çağındaki kadınlarda erken dönemde tespit edilir**
@@ -310,7 +310,7 @@ değişken büyüklük**
 
 **Robbins and Cotran Pathologic Basis of Disease**
 
-# Somatotrop (büyüme hormonu / growth hormone) adenomları
+## Somatotrop (büyüme hormonu / growth hormone) adenomları
 
 - **En sık ikinci fonksiyonel adenom**
   - **GH adenomu**
@@ -345,7 +345,7 @@ değişken büyüklük**
   - **Osteoporoz**
   - **Konjestif Kalp Yetmezliği**
 
-# Kortikotrop (ACTH üreten) adenomlar
+## Kortikotrop (ACTH üreten) adenomlar
 
 - **Çoğu tanı anında küçük, mikroadenom**
 
@@ -377,7 +377,7 @@ değişken büyüklük**
     geri bildirim kalkar**
   - **Kitle etkisi**
 
-# Gonadotrop (FSH ya da LH) adenomları
+## Gonadotrop (FSH ya da LH) adenomları
 
 **Tespiti zor**
 
@@ -392,13 +392,13 @@ değişken büyüklük**
 
 **FSH genelde daha baskın**
 
-# Tirotrop (TSH) adenomları
+## Tirotrop (TSH) adenomları
 
 **Hipofiz adenomlarının %1’i**
 
 **Hipertiroidizm**
 
-# Nonfonksiyone adenomlar
+## Nonfonksiyone adenomlar
 
 - **Hipofiz adenomlarının %25’i**
 - **Kitle etkisi**
@@ -407,7 +407,7 @@ değişken büyüklük**
   - **Sessiz gonadotrop adenomu**
 - **Gerçek hormon negatif (null cell) adenom**
 
-# Hipofiz karsinomları
+## Hipofiz karsinomları
 
 **Çok nadir**
 
@@ -415,7 +415,7 @@ değişken büyüklük**
 
 **Uzak metastaz**
 
-# Hipopitüitarizm
+## Hipopitüitarizm
 
 **Anterior lob parankiminin %75’inden fazlasında kayıp**
 
@@ -449,7 +449,7 @@ değişken büyüklük**
 
 - **Metastaz**
 
-# Clinical manifestations of anterior pituitary hypofunction
+## Clinical manifestations of anterior pituitary hypofunction
 
 - **Depend on the specific hormones that are lacking**
 - **Growth hormone deficiency**
@@ -471,9 +471,9 @@ değişken büyüklük**
 
 ![](./img-local/Hipofiz-Hastal%C4%B1klar%C4%B118.jpg)
 
-# POSTERIOR HIPOFIZ SENDROMLARI
+## POSTERIOR HIPOFIZ SENDROMLARI
 
-# Posterior Pituitary Syndromes
+## Posterior Pituitary Syndromes
 
 - **Neurohypophysis**
   - **composed of modified glial cells (termed pituicytes )**
@@ -495,7 +495,7 @@ değişken büyüklük**
 
 ![](./img-local/Hipofiz-Hastal%C4%B1klar%C4%B119.jpg)
 
-# Antidiüretik hormon
+## Antidiüretik hormon
 
 - **Supraoptik nükleus kaynaklı nanopeptid**
 - **ADH sekresyon nedenleri**
@@ -519,7 +519,7 @@ değişken büyüklük**
     - **Nonneoplastik akciğer hastalıkları**
     - **Hipotalamus veya hipofize lokal hasar**
 
-# HIPOTALAMIK SUPRASELLAR TÜMÖRLER
+## HIPOTALAMIK SUPRASELLAR TÜMÖRLER
 
 ![](./img-local/Hipofiz-Hastal%C4%B1klar%C4%B120.png)
 
@@ -527,7 +527,7 @@ değişken büyüklük**
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# Kraniyofarenjiom
+## Kraniyofarenjiom
 
 - **Rathke kesesi artıkları**
 
@@ -561,15 +561,15 @@ değişken büyüklük**
 
 **Robbins and Cotran Pathologic Basis of Disease**
 
-# 
+## 
 
 ![](./img-local/Hipofiz-Hastal%C4%B1klar%C4%B122.png)
 
-# Hipofiz adenomuna yaklaşım
+## Hipofiz adenomuna yaklaşım
 
-# Dr. Serdar Balcı
+## Dr. Serdar Balcı
 
-# Klinik bilgi
+## Klinik bilgi
 
 - **Çocuklarda: PRL, ACTH**
 - **Hormon düzeylerinde artış**
@@ -582,7 +582,7 @@ değişken büyüklük**
   - **Öncelikle diğer tümörler, metastazlar**
   - **İnflamatuar süreçler**
 
-# Ameliyat
+## Ameliyat
 
 **Eğer hemen patolojiye gelecekse SF içeren tüpte gönderilebilir.
 (Otoliz, formolsüz diye not konan rapor sayısı)**
@@ -593,7 +593,7 @@ değişken büyüklük**
 
 **EM inceleme?**
 
-# Hipofiz adenomu - Frozen
+## Hipofiz adenomu - Frozen
 
 - **Doku genelde küçük**
   - **Donma artefaktı**
@@ -606,9 +606,9 @@ değişken büyüklük**
 - **İntraoperatif retikülin?**
 - **Cerrahi sınır?**
 
-# Mikroadenom – Frozen?
+## Mikroadenom – Frozen?
 
-# Adenohipofiz
+## Adenohipofiz
 
 **Lobüler yapı**
 
@@ -616,11 +616,11 @@ değişken büyüklük**
 
 **Tükrük bezi benzeri bezler gibi taklitçiler**
 
-# Ara lob???
+## Ara lob???
 
-# Nörohipofiz
+## Nörohipofiz
 
-# Suprasellar kitleler - Ddx
+## Suprasellar kitleler - Ddx
 
 **Pituisitom**
 
@@ -644,11 +644,11 @@ değişken büyüklük**
 
 ![](./img-local/Hipofiz-Hastal%C4%B1klar%C4%B123.png)
 
-# 
+## 
 
 ![](./img-local/Hipofiz-Hastal%C4%B1klar%C4%B124.png)
 
-# Sellar kitleler
+## Sellar kitleler
 
 **Kraniyofarengiom**
 
@@ -687,7 +687,7 @@ değişken büyüklük**
 
 ![](./img-local/Hipofiz-Hastal%C4%B1klar%C4%B131.jpg)
 
-# 
+## 
 
 **Postmortem prevalence of pituitary adenoma is 14.4% **
 
@@ -696,7 +696,7 @@ in 22.2% of the population**
 
 **providing an overall estimated prevalence of 16.9%.**
 
-# Adenom - Hiperplazi
+## Adenom - Hiperplazi
 
 - **Diffüz, nodüler**
 - **Hiperplazi**
@@ -714,9 +714,9 @@ in 22.2% of the population**
 
 ![](./img-local/Hipofiz-Hastal%C4%B1klar%C4%B134.png)
 
-# Hipofiz adenomu
+## Hipofiz adenomu
 
-# FFPE – H&E
+## FFPE – H&E
 
 - **H&E**
 - **10 boyasız**
@@ -748,27 +748,27 @@ in 22.2% of the population**
 
 **Tedavi etkisi**
 
-# Retikülin: Adenohipofiz, Hiperplazi, Adenom
+## Retikülin: Adenohipofiz, Hiperplazi, Adenom
 
-# Hormon belirteçleri
+## Hormon belirteçleri
 
-# GH
+## GH
 
-# GH – CK8
+## GH – CK8
 
-# Prolaktin
+## Prolaktin
 
-# Prolaktin – CK8
+## Prolaktin – CK8
 
-# TSH
+## TSH
 
-# FSH
+## FSH
 
-# LH
+## LH
 
-# ACTH
+## ACTH
 
-# ACTH - mikroadenom
+## ACTH - mikroadenom
 
 **Retikülin ve ACTH IHK’sı gerekli**
 
@@ -780,7 +780,7 @@ in 22.2% of the population**
 
 **CAM 5.2, CK7, CK8**
 
-# ACTH- Crooke değişiklik
+## ACTH- Crooke değişiklik
 
 - **Tümörsüz alanda (genellikle kortikotroplarda)**
 - **Dolaşımdaki artmış glukokortikoid varlığını yansıtır**
@@ -794,7 +794,7 @@ in 22.2% of the population**
 
 ![](./img-local/Hipofiz-Hastal%C4%B1klar%C4%B135.png)
 
-# ACTH- Crooke cell
+## ACTH- Crooke cell
 
 - **Adenom görülmediyse mikroadenom varlığı araştırılmalı**
   - **1-2 mm’lik seri kesitler**
@@ -804,13 +804,13 @@ in 22.2% of the population**
   - **Kortikoid yüksekliğinin başka nedenleri**
   - **Aspiratörde ya da seri kesitlerde kaybolan adenom?**
 
-# ACTH Crooke değişiklik yok, adenom yok
+## ACTH Crooke değişiklik yok, adenom yok
 
 - **Kortikotrop hiperplazi?**
   - **Patolojik değerlendirme zor olabilir**
 - **Psödo Cushing**
 
-# ACTH – Crooke cell adenoma
+## ACTH – Crooke cell adenoma
 
 **Adenomatöz hücrelerin sitoplazmasında yoğun birikim**
 
@@ -824,19 +824,19 @@ in 22.2% of the population**
 
 **CAM 5.2 +**
 
-# p53
+## p53
 
-# Ki-67
+## Ki-67
 
-# Pit-1
+## Pit-1
 
-# ER-α
+## ER-α
 
-# Mukozada ekilim?
+## Mukozada ekilim?
 
-# Serum – IHK korelasyonu
+## Serum – IHK korelasyonu
 
-# Otopside inceleme
+## Otopside inceleme
 
 **Stalk yüksekten kesilmeli**
 
@@ -846,11 +846,11 @@ in 22.2% of the population**
 
 ![](./img-local/Hipofiz-Hastal%C4%B1klar%C4%B136.png)
 
-# Alıntı slaytlar
+## Alıntı slaytlar
 
-# 
+## 
 
-# Adenohipofiz
+## Adenohipofiz
 
 **Lateral kanat**
 
@@ -868,7 +868,7 @@ in 22.2% of the population**
 
 ![](./img-local/Hipofiz-Hastal%C4%B1klar%C4%B142.png)
 
-# Hipofiz adenomu sınıflandırması
+## Hipofiz adenomu sınıflandırması
 
 **Cerrahi, radyoloji**
 
@@ -898,7 +898,7 @@ in 22.2% of the population**
 
 ![](./img-local/Hipofiz-Hastal%C4%B1klar%C4%B148.jpg)
 
-# Büyüme Hormonu Adenomu
+## Büyüme Hormonu Adenomu
 
 **%10**
 
@@ -910,7 +910,7 @@ in 22.2% of the population**
 
 **IGF-1**
 
-# Yoğun granüllü GH adenomu
+## Yoğun granüllü GH adenomu
 
 **Yuvarlak, polihedral, asidofilik**
 
@@ -924,7 +924,7 @@ in 22.2% of the population**
 
 **EM sekretuvar granüller bol**
 
-# Seyrek granüllü GH adenomu
+## Seyrek granüllü GH adenomu
 
 - **Küçük, yuvarlak, kısmen düzensiz hücreler**
 
@@ -951,7 +951,7 @@ in 22.2% of the population**
 
   - **GHrH salgılıyor**
 
-# PRL hücre adenomu
+## PRL hücre adenomu
 
 - **%25-30**
 - **Serum PRL düzeyi genelde tümör boyutu ile paralel**
@@ -969,18 +969,18 @@ in 22.2% of the population**
 
 **Pitüiter taş**
 
-# Seyrek granüllü laktotrop adenomu
+## Seyrek granüllü laktotrop adenomu
 
 - **Kromofob, amfofilik**
   - **Belirgin ** *rough* \_\_ endoplazmik retikulum içerir\_\_
 - **Paranükleer (golgi) paterninde PRL pozitif**
 - **Pit-1 nükleer kuvvetli**
 
-# Yoğun granüllü laktotrop adenomu
+## Yoğun granüllü laktotrop adenomu
 
 **Nadir**
 
-# Dopamin agonisti tedavisi etkisi
+## Dopamin agonisti tedavisi etkisi
 
 **Atrofi**
 
@@ -992,7 +992,7 @@ in 22.2% of the population**
 
 **İnterstisyel ve perivasküler fibrozis**
 
-# TSH hücre adenomu
+## TSH hücre adenomu
 
 **Nadir**
 
@@ -1014,7 +1014,7 @@ in 22.2% of the population**
 
 **Plurihormonal ekspresyon izlenebilir**
 
-# ACTH hücre adenomu
+## ACTH hücre adenomu
 
 - **%10-15**
 - **Makroskopik: kırmızı ve yumuşak mikroadenom**
@@ -1045,9 +1045,9 @@ in 22.2% of the population**
 
 **Sessiz kortikotrop adenomlar**
 
-# Cushing hastalığı (pitüiter ACTH fazlalığı)
+## Cushing hastalığı (pitüiter ACTH fazlalığı)
 
-# Gonadotrop hücre adenomu
+## Gonadotrop hücre adenomu
 
 **Nadir?**
 
@@ -1067,7 +1067,7 @@ in 22.2% of the population**
 
 **α-subünit, β-FSH (daha sık), β-LH pozitif**
 
-# Plurihormonal Adenomlar
+## Plurihormonal Adenomlar
 
 - **Pit-1**
   - **Karışık somatotrop-laktotrop**
@@ -1090,7 +1090,7 @@ in 22.2% of the population**
 - **GH-ACTH**
 - **PRL-TSH**
 
-# Null Hücre Adenomu
+## Null Hücre Adenomu
 
 **%20, giderek düşüyor**
 
@@ -1104,7 +1104,7 @@ in 22.2% of the population**
 
 **Pleomorfizm, mitoz nadir**
 
-# İnvaziv
+## İnvaziv
 
 **Kemik**
 
@@ -1120,7 +1120,7 @@ in 22.2% of the population**
 - **Dura invazyonu sık**
   - **Agresif değil**
 
-# Atipik adenom
+## Atipik adenom
 
 - **Biyolojik**
   - **Agresif davranış**
@@ -1129,7 +1129,7 @@ in 22.2% of the population**
 - **p53 pozitif**
 - **Metastaz yaparlar mı?**
 
-# Hipofiz karsinomu
+## Hipofiz karsinomu
 
 - **BOS ya da sistemik yayılımla tanı konur**
 - **Erişkinlerde**
@@ -1139,19 +1139,19 @@ in 22.2% of the population**
 - **İnvazyon, pleomorfizm, mitoz ve nekroz izlenir**
   - **Ancak tanısal ya da prediktif değildir**
 
-# Cadillac approach
+## Cadillac approach
 
 **Acta Neuropathol (2006) 111: 68–70**
 
-# 
+## 
 
 ![](./img-local/Hipofiz-Hastal%C4%B1klar%C4%B149.png)
 
 ![](./img-local/Hipofiz-Hastal%C4%B1klar%C4%B150.png)
 
-# Hipofiz adenomu
+## Hipofiz adenomu
 
-# dialar
+## dialar
 
 ![](./img-local/Hipofiz-Hastal%C4%B1klar%C4%B151.jpg)
 

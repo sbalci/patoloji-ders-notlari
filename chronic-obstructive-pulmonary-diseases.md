@@ -3,11 +3,11 @@ Serdar Balcı
 
 ![](./img-local/Chronic-Obstructive-Pulmonary-Diseases0.jpg)
 
-# Chronic Obstructive Pulmonary DiseasesEmphysema and Chronic Bronchitis
+## Chronic Obstructive Pulmonary DiseasesEmphysema and Chronic Bronchitis
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# Obstructive Lung Diseases
+## Obstructive Lung Diseases
 
 **Airway disease**
 
@@ -37,9 +37,9 @@ Serdar Balcı
 
 **Robbins Basic Pathology**
 
-# EMPHYSEMA
+## EMPHYSEMA
 
-# Emphysema
+## Emphysema
 
 **Abnormal permanent enlargement of the air spaces distal to the
 terminal bronchioles**
@@ -48,7 +48,7 @@ terminal bronchioles**
 
 ![](./img-local/Chronic-Obstructive-Pulmonary-Diseases3.jpg)
 
-# Types of Emphysema
+## Types of Emphysema
 
 - **Clinically significant airway obstruction**
 - **Centriacinar emphysema**
@@ -95,7 +95,7 @@ damage, surrounded by relatively spared alveolar spaces**
 
 ![](./img-local/Chronic-Obstructive-Pulmonary-Diseases8.png)
 
-# Centriacinar (Centrilobular) Emphysema
+## Centriacinar (Centrilobular) Emphysema
 
 **Central, proximal parts of the acini**
 
@@ -128,7 +128,7 @@ and lobule**
 
 ![](./img-local/Chronic-Obstructive-Pulmonary-Diseases13.png)
 
-# Panacinar (Panlobular) Emphysema
+## Panacinar (Panlobular) Emphysema
 
 - **Acini are uniformly enlarged**
   - **From respiratory bronchiole to terminal blind alveoli**
@@ -138,7 +138,7 @@ and lobule**
 
 ![](./img-local/Chronic-Obstructive-Pulmonary-Diseases14.png)
 
-# Distal Acinar (Paraseptal) Emphysema
+## Distal Acinar (Paraseptal) Emphysema
 
 **Proximal portion is normal**
 
@@ -169,7 +169,7 @@ tissue septa, and at the margins of the lobules**
 
 ![](./img-local/Chronic-Obstructive-Pulmonary-Diseases16.png)
 
-# Irregular Emphysema
+## Irregular Emphysema
 
 - **Acinus is irregularly involved**
 - **Associated with scarring**
@@ -177,7 +177,7 @@ tissue septa, and at the margins of the lobules**
 - **Clinically asymptomatic**
   - **Most common form of emphysema**
 
-# Pathogenesis of Emphysema
+## Pathogenesis of Emphysema
 
 ![](./img-local/Chronic-Obstructive-Pulmonary-Diseases17.png)
 
@@ -188,7 +188,7 @@ tissue septa, and at the margins of the lobules**
   - **Elastases, cytokines (IL-8), oxidants are released**
   - **Epithelial injury and proteolysis of the extracellular matrix**
 
-# Emphysema
+## Emphysema
 
 **Elastin degradation products increase the inflammation**
 
@@ -218,7 +218,7 @@ deficiency develop symptomatic panacinar emphysema**
   - **Excessive myofibroblastic or fibroblastic response to injury**
   - **Scarring**
 
-# Airway obstruction in emphysema
+## Airway obstruction in emphysema
 
 - **Normally: Small airways are held open bu the elastic recoil of
   parenchyma**
@@ -230,7 +230,7 @@ deficiency develop symptomatic panacinar emphysema**
   - **There is also narrowing of lumen due to ongoing chronic
     inflammatory changes**
 
-# Macroscopic appearance
+## Macroscopic appearance
 
 - **Panacinar emphysema**
   - **Pale, voluminous lungs**
@@ -240,7 +240,7 @@ deficiency develop symptomatic panacinar emphysema**
   - **Upper two thirds of the lungs are more severely affected than the
     lower lungs**
 
-# Histologic examination
+## Histologic examination
 
 - **Destruction of alveolar walls without fibrosis, leading to enlarged
   air spaces**
@@ -256,7 +256,7 @@ deficiency develop symptomatic panacinar emphysema**
 
 **Robbins Basic Pathology**
 
-# Conditions Related to Emphysema
+## Conditions Related to Emphysema
 
 - **Compensatory emphysema**
   - **Response to loss of lung substance**
@@ -298,9 +298,9 @@ Robbins Basic Pathology
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# CHRONIC BRONCHITIS
+## CHRONIC BRONCHITIS
 
-# Chronic Bronchitis
+## Chronic Bronchitis
 
 **Clinical definition: Persistant cough with sputum, at least 3 months,
 at least 2 consecutive years, absence of any identifiable cause**

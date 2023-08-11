@@ -3,11 +3,11 @@ Serdar Balcı
 
 ![](./img-local/Diseases-and-Tumors-of-the-Mediastinum-and-Pleura0.jpg)
 
-# Diseases and Tumors of the Mediastinum and Pleura
+## Diseases and Tumors of the Mediastinum and Pleura
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# Pleural Lesions
+## Pleural Lesions
 
 **Primary intrapleural bacterial infections**
 
@@ -15,7 +15,7 @@ Serdar Balcı
 
 **A secondary complication of an underlying pulmonary disease**
 
-# Pleural Effusion and Pleuritis
+## Pleural Effusion and Pleuritis
 
 - **Pleural effusion**
 - **Presence of fluid in the pleural space**
@@ -26,7 +26,7 @@ Serdar Balcı
   - **inflammatory cells**
   - **pleuritis**
 
-# Causes of pleural exudate
+## Causes of pleural exudate
 
 - **Microbial invasion through either direct extension of a pulmonary
   infection or blood-borne seeding**
@@ -55,7 +55,7 @@ Serdar Balcı
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# Pleural effusions
+## Pleural effusions
 
 - **Transudates and serous exudates**
   - **Resorbed without residual effects**
@@ -63,7 +63,7 @@ Serdar Balcı
   - **Organization, adhesions, fibrous pleural thickening, massive
     calcifications**
 
-# Pneumothorax
+## Pneumothorax
 
 - **Presence of air or other gas in the pleural sac**
 - **Simple or spontaneous pneumothorax**
@@ -74,7 +74,7 @@ Serdar Balcı
     - **Emphysema, lung abscess, tuberculosis, carcinoma**
     - **Mechanical ventilatory support with high pressure**
 
-# Complications of pneumothorax
+## Complications of pneumothorax
 
 - **Tension pneumothorax**
   - **Leak- valve**
@@ -88,7 +88,7 @@ Serdar Balcı
     - **Vulnerable to infection**
     - **Empyema → pyopneumothorax**
 
-# Hemothorax
+## Hemothorax
 
 **Collection of whole blood**
 
@@ -101,14 +101,14 @@ pleural cavity**
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# Chylothorax
+## Chylothorax
 
 - **Milky lymphatic fluid containing microglobules of lipid**
 - **Always significant**
 - **Obstruction of the major lymph ducts**
   - **intrathoracic cancer**
 
-# Malignant Mesothelioma
+## Malignant Mesothelioma
 
 **Cancer of mesothelial cells**
 
@@ -163,7 +163,7 @@ Robbins Basic Pathology
 
 **Directly invade the thoracic wall or the subpleural lung tissue**
 
-# Mesothelioma patterns
+## Mesothelioma patterns
 
 - **Normal mesothelial cells are biphasic**
   - **Pleural lining cells**
@@ -187,7 +187,7 @@ Robbins Basic Pathology
 
 **Rosai and Ackerman’s Surgical Pathology**
 
-# Asbestos
+## Asbestos
 
 - **Not removed**
 - **Not metabolized**
@@ -210,9 +210,9 @@ Robbins Basic Pathology
 
 **Rosai and Ackerman’s Surgical Pathology**
 
-# THYMOMA
+## THYMOMA
 
-# Thymoma
+## Thymoma
 
 **Tumors of thymic epithelial cells**
 
@@ -234,7 +234,7 @@ Robbins Basic Pathology
   - **20-30% of tumors in the anterosuperior mediastinum, which is also
     a common location for certain lymphomas**
 
-# Clinical Presentation of Thymomas
+## Clinical Presentation of Thymomas
 
 **40% mass effect**
 
@@ -242,7 +242,7 @@ Robbins Basic Pathology
 
 **Others incidentally during imaging studies or cardiothoracic surgery**
 
-# Diseases Associated with Thymoma
+## Diseases Associated with Thymoma
 
 **Myasthenia gravis **
 
@@ -258,7 +258,7 @@ Robbins Basic Pathology
 
 **Cushing syndrome**
 
-# Autoimmune Diseases Associated with Thymoma
+## Autoimmune Diseases Associated with Thymoma
 
 **Thymocytes within thymomas give rise to long-lived CD4+ and CD8+ T
 cells**
@@ -270,7 +270,7 @@ with autoimmune disease**
 within the environment of the neoplasm contribute to the development of
 diverse autoimmune disorders**
 
-# Thymomas
+## Thymomas
 
 - **Macroscopically**
   - **Lobulated**
@@ -287,7 +287,7 @@ is focal cystic change in the larger nodule. **
 
 ![](./img-local/Diseases-and-Tumors-of-the-Mediastinum-and-Pleura10.png)
 
-# Noninvasive thymomas
+## Noninvasive thymomas
 
 **Composed of medullary-type epithelial cells**
 
@@ -306,7 +306,7 @@ lymphoid cells are interspersed.**
 
 ![](./img-local/Diseases-and-Tumors-of-the-Mediastinum-and-Pleura11.png)
 
-# Invasive thymoma
+## Invasive thymoma
 
 **Tumor that is cytologically benign but locally invasive**
 
@@ -322,7 +322,7 @@ nucleoli. Numerous small, reactive lymphoid cells are interspersed.**
 
 ![](./img-local/Diseases-and-Tumors-of-the-Mediastinum-and-Pleura12.png)
 
-# Thymic carcinoma
+## Thymic carcinoma
 
 - **5% of thymomas**
 - **Macroscopically**

@@ -1,11 +1,11 @@
 # Title
 Serdar Balcı
 
-# Characteristics of Benign and Malignant Neoplasms
+## Characteristics of Benign and Malignant Neoplasms
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# Benign vs Malignant
+## Benign vs Malignant
 
 **Benign**
 
@@ -32,9 +32,9 @@ Serdar Balcı
 
 **Robbins Basic Pathology**
 
-# DIFFERENTIATION
+## DIFFERENTIATION
 
-# Differentiation
+## Differentiation
 
 - **The differentiation of parenchymal tumor cells**
   - **How much they resemble their normal counterparts**
@@ -136,7 +136,7 @@ shemes.**
 
 **Robbins Basic Pathology**
 
-# Anaplasia: backward formation
+## Anaplasia: backward formation
 
 **Lack of differentiation is a hallmark of cancer**
 
@@ -174,7 +174,7 @@ origin)**
 
 **Rubin’s Pathology 7th Ed**
 
-# Malignant tumor features:increase as tumor approaches anaplasia
+## Malignant tumor features:increase as tumor approaches anaplasia
 
 - **Marked pleomorphism**
 
@@ -209,7 +209,7 @@ origin)**
 
   - **no gland or stratified squamous architecture**
 
-# Well differentiated tumorsretain normal function and morphology
+## Well differentiated tumorsretain normal function and morphology
 
 **Cancers of endocrine organs secrete hormones**
 
@@ -217,13 +217,13 @@ origin)**
 
 **Hepatocellular carcinoma secrete bile**
 
-# Some cancers function unexpectedly
+## Some cancers function unexpectedly
 
 - **Secrete fetal proteins**
 - **Secrete ectopic hormones**
   - **ACTH, parathyroid-like hormone secreted in lung carcinomas**
 
-# Stromal Changes
+## Stromal Changes
 
 - **Capillaries increase in number**
   - **Angiogenesis**
@@ -231,7 +231,7 @@ origin)**
   - **Desmoplasia**
   - **Schirrous tumors**
 
-# Dysplasia
+## Dysplasia
 
 - **Disordered**
 - **But not neoplastic proliferation**
@@ -280,9 +280,9 @@ origin)**
 
 ![](./img-local/Characteristics-of-Benign-and-Malignant-Neoplasms23.jpg)
 
-# RATE OF GROWTH
+## RATE OF GROWTH
 
-# How long does it take to produce a clinically overt tumor mass?
+## How long does it take to produce a clinically overt tumor mass?
 
 - **Original transformed cell**
 - **30 population doublings**
@@ -294,7 +294,7 @@ origin)**
 
 **Until we detect it, tumor completed most of its lifespan**
 
-# Rate of Growth
+## Rate of Growth
 
 - **Most benign tumors grow slowly**
 
@@ -343,7 +343,7 @@ origin)**
 
 **Robbins and Cotran’s Pathological Basis of Diseases**
 
-# Rate of Growth depends on
+## Rate of Growth depends on
 
 **the doubling time of tumor cells**
 
@@ -351,14 +351,14 @@ origin)**
 
 **the rate at which cells are shed or die**
 
-# Rate of Growth is determined by
+## Rate of Growth is determined by
 
 - **Counting mitosis under microscope**
 - **Detecting tumor cells preparing to divide**
   - **Ki-67 labelling index**
   - **PCNA stains**
 
-# Rate of Growth and Necrosis
+## Rate of Growth and Necrosis
 
 **Rapidly growing malignant tumors contain central areas of ischemic
 necrosis**
@@ -369,9 +369,9 @@ necrosis**
 
 **In malignant tumor necrosis is abrupt, tumor necrosis**
 
-# LOCAL INVASION
+## LOCAL INVASION
 
-# Local invasion is not seen in benign tumors
+## Local invasion is not seen in benign tumors
 
 - **Benign neoplasm remains localized at its site of origin**
 - **Does not have the capacity to infiltrate, invade, or metastasize to
@@ -389,7 +389,7 @@ necrosis**
 
 **Robbins Basic Pathology**
 
-# Tumor Capsule
+## Tumor Capsule
 
 - **Derived from**
   - **the stroma of the host tissue**
@@ -412,7 +412,7 @@ necrosis**
 
 **MUIR’S TEXTBOOK OF PATHOLOGY**
 
-# Local Invasion in Malignant Tumors
+## Local Invasion in Malignant Tumors
 
 - **Malignant tumor growth pattern:**
   - **Progressive infiltration**
@@ -454,9 +454,9 @@ distinguishes malignant from benign tumors**
 
 **Robbins and Cotran’s Pathological Basis of Diseases**
 
-# METASTASIS
+## METASTASIS
 
-# Metastasis
+## Metastasis
 
 **Secondary implants of a tumor**
 
@@ -484,7 +484,7 @@ clinically evident metastases**
 **The more anaplastic and the larger the primary neoplasm, the more
 likely is metastatic spread**
 
-# Invasion and Spread
+## Invasion and Spread
 
 - **Malignant tumors invade normal structures and spread**
 - **Lymphatic**
@@ -494,7 +494,7 @@ likely is metastatic spread**
   - **Cerebrospinal Fluid**
 - **Perineural space (cause local invasion)**
 
-# Spread on body cavities
+## Spread on body cavities
 
 - **Ovarian tumors**
   - **Spread on peritoneum**
@@ -504,7 +504,7 @@ likely is metastatic spread**
   - **Spread via CSF**
   - **Implant on meningeal surfaces or spinal cord**
 
-# Lymphatic spread
+## Lymphatic spread
 
 - **Epithelial tumors**
 - **Metastasis develop in lymph nodes**
@@ -528,19 +528,19 @@ likely is metastatic spread**
 - **Both of them then go to infraclavicular and supraclavicular lymph
   nodes**
 
-# Skip Metastasis
+## Skip Metastasis
 
 **Do not follow usual route**
 
 **Miss one lymph node and develop metastasis in the next one**
 
-# Sentinel lymph node
+## Sentinel lymph node
 
 **The first lymph node the tumor goes to**
 
 **May be detected with certain dyes and radioactive methods**
 
-# Hematogenous spread
+## Hematogenous spread
 
 - **Mesenchymal and Epithelial tumors**
 - **Mostly veins**
@@ -558,7 +558,7 @@ likely is metastatic spread**
     - **Via inferior vena cava grow into heart**
   - **Hepatocellular Carcinoma**
 
-# Not all metastasis can be explained anatomically
+## Not all metastasis can be explained anatomically
 
 **Prostate carcinoma goes to bone**
 
@@ -575,7 +575,7 @@ metastasis**
 
 **Robbins Basic Pathology**
 
-# 
+## 
 
 **What we talk in this lecture are generic statements.**
 

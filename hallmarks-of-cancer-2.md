@@ -3,19 +3,19 @@ Serdar Balcı
 
 ![](./img-local/Hallmarks-of-Cancer-20.jpg)
 
-# Hallmarks of Cancer-2
+## Hallmarks of Cancer-2
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
 ![](./img-local/Hallmarks-of-Cancer-21.jpg)
 
-# EVASION OF CELL DEATH
+## EVASION OF CELL DEATH
 
 **Resistance to Apoptosis**
 
 ![](./img-local/Hallmarks-of-Cancer-22.png)
 
-# Extrinsic Pathway
+## Extrinsic Pathway
 
 **TNF receptor CD95 (Fas) binds to ligand CD95L**
 
@@ -35,7 +35,7 @@ Serdar Balcı
 
 ![](./img-local/Hallmarks-of-Cancer-23.png)
 
-# Intrinsic Pathway
+## Intrinsic Pathway
 
 **Withdrawal of survival factors, stress, and injury**
 
@@ -62,7 +62,7 @@ Serdar Balcı
   - **Regulate the balance between the pro- and anti-apoptotic
     proteins**
 
-# Follicular B cell Lymphoma
+## Follicular B cell Lymphoma
 
 - **t(14;18) (q32;q21) translocation**
 - **14q32**
@@ -79,7 +79,7 @@ Serdar Balcı
 
 ![](./img-local/Hallmarks-of-Cancer-24.png)
 
-# Autophagy
+## Autophagy
 
 **Stress may also induce cells to consume their components**
 
@@ -90,9 +90,9 @@ therapy**
 
 ![](./img-local/Hallmarks-of-Cancer-25.jpg)
 
-# LIMITLESS REPLICATIVE POTENTIAL
+## LIMITLESS REPLICATIVE POTENTIAL
 
-# Telomer Shortening in normal human cells
+## Telomer Shortening in normal human cells
 
 ![](./img-local/Hallmarks-of-Cancer-26.png)
 
@@ -106,7 +106,7 @@ therapy**
 
 **Robbins Basic Pathology**
 
-# Telomer shortening in neoplasia
+## Telomer shortening in neoplasia
 
 ![](./img-local/Hallmarks-of-Cancer-27.png)
 
@@ -148,9 +148,9 @@ therapy**
 
 ![](./img-local/Hallmarks-of-Cancer-211.jpg)
 
-# DEVELOPMENT OF SUSTAINED ANGIOGENESIS
+## DEVELOPMENT OF SUSTAINED ANGIOGENESIS
 
-# Tumor Vessels
+## Tumor Vessels
 
 - **Tumors cannot enlarge beyond 1-2 mm in diameter unless they are
   vascularized**
@@ -162,7 +162,7 @@ therapy**
   - **Vessels are leaky and dilated**
   - **Haphazard pattern of connection**
 
-# Effects of vascularization on tumor
+## Effects of vascularization on tumor
 
 - **Supplies needed nutrients and oxygen**
 - **Newly formed endothelial cells stimulate the growth of adjacent
@@ -172,7 +172,7 @@ therapy**
 - **Required for continued tumor growth**
 - **Necessary for metastasis**
 
-# Factors in Angiogenesis
+## Factors in Angiogenesis
 
 - **Vascular endothelial growth factor (VEGF)**
   - **Angiogenesis inducer**
@@ -185,7 +185,7 @@ therapy**
   - **Inflammatory cells (macrophages)**
   - **Other stromal cells associated with the tumors**
 
-# Production of Factors in Angiogenesis
+## Production of Factors in Angiogenesis
 
 - **Proteases**
   - **elaborated by the tumor cells directly or from stromal cells**
@@ -199,7 +199,7 @@ therapy**
 - **TSP-1 is produced by stromal fibroblasts themselves in response to
   signals from the tumor cells**
 
-# Normoxia
+## Normoxia
 
 **HIF-1α activates transcription of VEGF**
 
@@ -213,7 +213,7 @@ therapy**
 
 **No VEGF production in normal oxygen levels**
 
-# Hypoxia
+## Hypoxia
 
 **Tumor that has reached a critical size**
 
@@ -229,7 +229,7 @@ therapy**
 
 **Anti-VEGF antibody used in the treatment**
 
-# von Hippel–Lindau (VHL) syndrome
+## von Hippel–Lindau (VHL) syndrome
 
 - **VHL acts as a tumor suppressor gene**
 - **Germline mutations of the VHL gene**

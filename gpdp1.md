@@ -1,18 +1,18 @@
 # Title
 Serdar Balcı
 
-# Daha önce gönderdiğim sunum ve yazılara lütfen bakın
+## Daha önce gönderdiğim sunum ve yazılara lütfen bakın
 
 *[Patolojide Yapay
-Zeka](https://docs.google.com/presentation/d/1o1Glh4xTOPYEjX0s9uUKxwhEdwj7NZa7pj7fjZv6gAE/edit#slide=id.p)*
+Zeka](https://docs.google.com/presentation/d/1o1Glh4xTOPYEjX0s9uUKxwhEdwj7NZa7pj7fjZv6gAE/edit##slide=id.p)*
 
 *[Dijital Patoloji’ye
-Geçerken](https://docs.google.com/document/d/10osEzn36YuIaLW8qQp3ANuQeCZi-SqJkA5LV-R7bcWU/edit#heading=h.vk8e6k5f2h73)*
+Geçerken](https://docs.google.com/document/d/10osEzn36YuIaLW8qQp3ANuQeCZi-SqJkA5LV-R7bcWU/edit##heading=h.vk8e6k5f2h73)*
 
 *[Patolojide
-Bilişim](https://docs.google.com/document/d/1HUWnkXb-6_IzNHiU3LTVDwLvgQM8eLZUaYWRzeSDl2U/edit#heading=h.awc8eb1l8ncb)*
+Bilişim](https://docs.google.com/document/d/1HUWnkXb-6_IzNHiU3LTVDwLvgQM8eLZUaYWRzeSDl2U/edit##heading=h.awc8eb1l8ncb)*
 
-# Kılavuzlar
+## Kılavuzlar
 
 *[Leeds Guide to Digital
 Pathology](https://www.serdarbalci.com/edufiles/18778_Leeds_Guide_to_Digital_Pathology_Brochure_A4_final_hi.pdf)*
@@ -35,7 +35,7 @@ Talimatları](https://www.serdarbalci.com/edufiles/Aperio-Brightfield-Tarayici-G
 *[Sectra Users Guide Pathology
 Türkçe](https://www.serdarbalci.com/edufiles/Sectra_UsersGuide_Pathology_Turkish.pdf)*
 
-# Nelerden bahsedeceğiz?
+## Nelerden bahsedeceğiz?
 
 Spesmen Kabulü
 
@@ -51,4 +51,4 @@ Tanı koyarken nelere dikkat edeceğiz
 
 ![](./img-local/gpdp10.png)
 
-via \#dalle *<https://labs.openai.com/s/jqJBiW0lElfHIGygPnBhFlBj>*
+via \##dalle *<https://labs.openai.com/s/jqJBiW0lElfHIGygPnBhFlBj>*

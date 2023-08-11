@@ -3,9 +3,9 @@ Serdar Balcı
 
 ![](./img-local/Embolism%2C-Infarction-and-Shock0.jpg)
 
-# Embolism, Infarction and Shock
+## Embolism, Infarction and Shock
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
 ![](./img-local/Embolism%2C-Infarction-and-Shock1.png)
 
@@ -15,7 +15,7 @@ Serdar Balcı
 
 **medicalschoolpathology.com**
 
-# Embolus
+## Embolus
 
 - **intravascular solid, liquid, or gaseous mass**
 - **carried by the blood to a site distant from its point of origin**
@@ -37,7 +37,7 @@ Serdar Balcı
 **embolization in the pulmonary circulation leads to hypoxia,
 hypotension, and right-sided heart failure**
 
-# Pulmonary Thromboembolism
+## Pulmonary Thromboembolism
 
 ![](./img-local/Embolism%2C-Infarction-and-Shock4.png)
 
@@ -97,7 +97,7 @@ infarction**
 **Multiple emboli occurring over time can cause pulmonary hypertension
 and right ventricular failure (cor pulmonale)**
 
-# Systemic Thromboembolism
+## Systemic Thromboembolism
 
 - **80% arise from intracardiac mural thrombi**
 
@@ -128,7 +128,7 @@ and right ventricular failure (cor pulmonale)**
   - **collateral supply**
   - **affected tissue’s vulnerability to anoxia**
 
-# Fat embolism
+## Fat embolism
 
 - **Soft tissue crush injury**
   - **rupture of marrow vascular sinusoids (long bone fracture)**
@@ -140,7 +140,7 @@ and right ventricular failure (cor pulmonale)**
     severe skeletal injuries**
   - **Less than 10% show any clinical findings**
 
-# Fat embolism syndrome
+## Fat embolism syndrome
 
 - **pulmonary insufficiency**
 - **neurologic symptoms**
@@ -170,7 +170,7 @@ and right ventricular failure (cor pulmonale)**
 
 **Robbins Basic Pathology**
 
-# Amniotic Fluid Embolism
+## Amniotic Fluid Embolism
 
 - **Uncommon**
 
@@ -225,7 +225,7 @@ and right ventricular failure (cor pulmonale)**
 
 **Robbins Basic Pathology**
 
-# Air Embolism
+## Air Embolism
 
 - **Gas bubbles obstruct vascular flow**
 - **Cause distal ischemic injury**
@@ -236,7 +236,7 @@ and right ventricular failure (cor pulmonale)**
   - **chest wall injury to cause hypoxia**
 - **Very large venous emboli may arrest in the heart and cause death**
 
-# Decompression sickness,
+## Decompression sickness,
 
 - **Scuba divers, underwater construction workers, and persons in
   unpressurized aircraft who undergo rapid ascent**
@@ -245,9 +245,9 @@ and right ventricular failure (cor pulmonale)**
     ischemic necrosis**
 - **High-pressure chamber**
 
-# INFARCTION
+## INFARCTION
 
-# Infarction
+## Infarction
 
 - **An area of ischemic necrosis**
 - **Caused by occlusion of the vascular supply to the affected tissue**
@@ -259,7 +259,7 @@ and right ventricular failure (cor pulmonale)**
   - **ischemic necrosis of distal extremities (gangrene)**
     - **diabetic patients**
 
-# Causes of infarction
+## Causes of infarction
 
 - **Arterial thrombosis**
 - **Arterial embolism**
@@ -284,7 +284,7 @@ and right ventricular failure (cor pulmonale)**
 **Infarcts caused by venous thrombosis occur only in organs with a
 single efferent vein (testis or ovary)**
 
-# Infarcts
+## Infarcts
 
 **Red infarcts**
 
@@ -298,7 +298,7 @@ single efferent vein (testis or ovary)**
 
 Robbins Basic Pathology
 
-# Red infarcts
+## Red infarcts
 
 - **Venous occlusions**
   - **ovarian torsion**
@@ -319,7 +319,7 @@ Robbins Basic Pathology
 
 **Robbins Basic Pathology**
 
-# White infarcts
+## White infarcts
 
 ![](./img-local/Embolism%2C-Infarction-and-Shock11.png)
 
@@ -340,7 +340,7 @@ hemorrhagic**
 
 **With time, the edges become better defined**
 
-# Ischemic coagulative necrosis
+## Ischemic coagulative necrosis
 
 - **An inflammatory response develop at the margins of infarcts**
   - **Few hours, well defined within 1-2 days**
@@ -355,14 +355,14 @@ hemorrhagic**
 
 **Robbins Basic Pathology**
 
-# Septic infarctions
+## Septic infarctions
 
 **Infected cardiac valve vegetations embolize**
 
 **When microbes seed necrotic tissue, infarct is converted into an
 abscess**
 
-# Factors That Influence Infarct Development
+## Factors That Influence Infarct Development
 
 - **The anatomy of the vascular supply**
 - **The time over which the occlusion develops**
@@ -371,9 +371,9 @@ abscess**
   injury**
 - **The blood oxygen content**
 
-# SHOCK
+## SHOCK
 
-# Shock
+## Shock
 
 **final common pathway for several potentially lethal events**
 
@@ -395,7 +395,7 @@ abscess**
 
 **initially is reversible, prolonged shock often fatal**
 
-# The most common forms of shock
+## The most common forms of shock
 
 - **Cardiogenic shock**
   - **Low cardiac output due to myocardial pump failure**
@@ -405,7 +405,7 @@ abscess**
 
 ![](./img-local/Embolism%2C-Infarction-and-Shock13.png)
 
-# Septic Shock
+## Septic Shock
 
 - **Gram-positive bacteria constitute the most common cause of septic
   shock, followed by gram-negative organisms and fungi**
@@ -423,7 +423,7 @@ abscess**
 - **Superantigens**
   - **Toxic Shock Syndrome**
 
-# Stages of Shock
+## Stages of Shock
 
 - **Nonprogressive stage**
   - **Reflex compensatory mechanisms are activated**

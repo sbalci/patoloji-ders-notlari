@@ -3,13 +3,13 @@ Serdar Balcı
 
 ![](./img-local/Cardiomyopathy%2C-Pericardial-diseases-and-Cardiac-Tumors0.jpg)
 
-# Cardiomyopathy, Pericardial diseases and Cardiac Tumors
+## Cardiomyopathy, Pericardial diseases and Cardiac Tumors
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# CARDIOMYOPATHY
+## CARDIOMYOPATHY
 
-# Cardiomyopathies
+## Cardiomyopathies
 
 - **Cardiac diseases of intrinsic myocardial dysfunction**
 
@@ -58,7 +58,7 @@ Serdar Balcı
 
 **Robbins Basic Pathology**
 
-# Dilated Cardiomyopathy
+## Dilated Cardiomyopathy
 
 **Progressive cardiac dilation**
 
@@ -158,7 +158,7 @@ trichrome–stained preparation).**
 
 **Robbins Basic Pathology**
 
-# Arrhythmogenic Right Ventricular Cardiomyopathy
+## Arrhythmogenic Right Ventricular Cardiomyopathy
 
 - **Autosomal dominant, variable penetrance**
 - **Right-sided heart failure and rhythm disturbances**
@@ -184,7 +184,7 @@ trichrome–stained preparation).**
 
 **Robbins Basic Pathology**
 
-# Hypertrophic Cardiomyopathy
+## Hypertrophic Cardiomyopathy
 
 **Myocardial hypertrophy**
 
@@ -257,7 +257,7 @@ activation**
 
 **Robbins Basic Pathology**
 
-# Restrictive Cardiomyopathy
+## Restrictive Cardiomyopathy
 
 **Decrease in ventricular compliance**
 
@@ -303,7 +303,7 @@ activation**
     endo- and myocardial necrosis → scarring, layering of the
     endocardium by thrombus → thrombus organization**
 
-# Myocarditis
+## Myocarditis
 
 - **Viral infections**
   - **The most common cause of myocarditis**
@@ -334,7 +334,7 @@ activation**
   - **Self-limited conduction system disease**
   - **Require temporary pacemaker insertion**
 
-# Noninfectious causes of myocarditis
+## Noninfectious causes of myocarditis
 
 **Systemic lupus erythematosus**
 
@@ -342,7 +342,7 @@ activation**
 
 **Drug hypersensitivity reactions (hypersensitivity myocarditis)**
 
-# Acute myocarditis
+## Acute myocarditis
 
 - **Normal or dilated**
 - **In advanced stages**
@@ -356,7 +356,7 @@ inflammation**
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# Active myocarditis
+## Active myocarditis
 
 **Edema, interstitial inflammatory infiltrates, and myocyte injury**
 
@@ -372,7 +372,7 @@ progressive fibrosis **
 
 **Robbins Basic Pathology**
 
-# Hypersensitivity myocarditis
+## Hypersensitivity myocarditis
 
 **Interstitial and perivascular infiltrates**
 
@@ -382,7 +382,7 @@ progressive fibrosis **
 
 **Robbins Basic Pathology**
 
-# Giant cell myocarditis
+## Giant cell myocarditis
 
 - **Widespread inflammatory cellular infiltrates**
 - **Multinucleate giant cells**
@@ -401,9 +401,9 @@ progressive fibrosis **
 
 **Robbins Basic Pathology**
 
-# PERICARDIAL DISEASE
+## PERICARDIAL DISEASE
 
-# Pericarditis
+## Pericarditis
 
 - **Primary pericarditis is uncommon**
   - **Viral infection (with concurrent myocarditis)**
@@ -421,7 +421,7 @@ progressive fibrosis **
 
 ![](./img-local/Cardiomyopathy%2C-Pericardial-diseases-and-Cardiac-Tumors29.png)
 
-# Acute bacterial pericarditis
+## Acute bacterial pericarditis
 
 **Exudate is fibrinopurulent**
 
@@ -439,7 +439,7 @@ progressive fibrosis **
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# Pericarditis
+## Pericarditis
 
 - **Acute viral pericarditis or uremia**
   - **Exudate is fibrinous**
@@ -453,7 +453,7 @@ progressive fibrosis **
   - **Metastases can be grossly evident as irregular excrescences**
   - **Not grossly inapparent in leukemia**
 
-# Pericarditis outcome
+## Pericarditis outcome
 
 - **Immediate hemodynamic complications **
 
@@ -476,7 +476,7 @@ progressive fibrosis **
   - **Heart cannot expand normally during diastole → constrictive
     pericarditis**
 
-# Pericardial Effusions
+## Pericardial Effusions
 
 - **Normally, the pericardial sac 30-50 mL of clear, serous fluid**
 - **Serous**
@@ -496,9 +496,9 @@ ruptured aortic dissection) → Fatal cardiac tamponade**
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# CARDIAC TUMORS
+## CARDIAC TUMORS
 
-# Cardiac Tumors
+## Cardiac Tumors
 
 - **Metastatic Neoplasms**
   - **Most common malignancy of the heart**
@@ -513,7 +513,7 @@ ruptured aortic dissection) → Fatal cardiac tamponade**
 - **Angiosarcomas**
   - **Most common primary malignant tumor of the heart**
 
-# Myxomas
+## Myxomas
 
 - **Most common primary tumors of the adult heart**
   - **90% are atrial**
@@ -554,7 +554,7 @@ vascular formations**
 
 **Robbins Basic Pathology**
 
-# Rhabdomyomas
+## Rhabdomyomas
 
 - **Most frequent primary tumors of the heart in infants and children**
 - **Discovered owing to valvular or outflow obstruction**

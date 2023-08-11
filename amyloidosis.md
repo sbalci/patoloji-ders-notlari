@@ -3,11 +3,11 @@ Serdar Balcı
 
 ![](./img-local/Amyloidosispptx-sunum0.jpg)
 
-# Amyloidosis
+## Amyloidosis
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# Amyloidosis
+## Amyloidosis
 
 - **Deposit, accumulation of fibrillar proteins**
 - **Causes are many inherited and inflammatory disorders**
@@ -41,7 +41,7 @@ Serdar Balcı
 
 **Gavin M. Melmed. Proc (Bayl Univ Med Cent). 2009 July;22(3):280-283.**
 
-# Amyloid: Amylose (starch) like
+## Amyloid: Amylose (starch) like
 
 - **The fibrillar deposits bind**
   - **proteoglycans and glycosaminoglycans**
@@ -51,9 +51,9 @@ Serdar Balcı
 - **These charged sugar groups cause staining characteristics resemble
   starch → That is why they are called amyloid**
 
-# PATHOGENESIS OF AMYLOID DEPOSITION
+## PATHOGENESIS OF AMYLOID DEPOSITION
 
-# Amyloid
+## Amyloid
 
 - **A disorder of protein misfolding**
 - **Not a structurally homogeneous protein**
@@ -69,7 +69,7 @@ Serdar Balcı
 
 **Robbins Basic Pathology**
 
-# Amyloidosis
+## Amyloidosis
 
 - **Normally misfolded proteins are removed from body**
   - **Intracellular, proteasomes**
@@ -81,7 +81,7 @@ Serdar Balcı
   - **Accumulate in tissues**
 - **Disrupt normal function**
 
-# Proteins that form amyloid
+## Proteins that form amyloid
 
 - **Normal proteins**
   - **when they are produced in increased amounts**
@@ -102,7 +102,7 @@ Serdar Balcı
 
 **Rubin’s Pathology 7th Ed**
 
-# AL (amyloid light chain) protein
+## AL (amyloid light chain) protein
 
 - **Produced by plasma cells**
 - **Made up of**
@@ -113,7 +113,7 @@ Serdar Balcı
 - **Defective degradation: some light chains are resistant to complete
   proteolysis**
 
-# AA (amyloid-associated) fibril
+## AA (amyloid-associated) fibril
 
 - **Pathogenesis:**
   - **Long standing inflammation**
@@ -127,7 +127,7 @@ Serdar Balcı
   - **Genetically determined structural abnormality in the SAA molecule
     itself → resistant to degradation by macrophages**
 
-# Aβ amyloid
+## Aβ amyloid
 
 - **Cerebral lesions of Alzheimer disease**
 - **4-kDa peptide**
@@ -145,7 +145,7 @@ Serdar Balcı
 
 **Color Atlas of Pathology**
 
-# Transthyretin (TTR)
+## Transthyretin (TTR)
 
 - **A normal serum protein that binds and transports thyroxine and
   retinol**
@@ -159,7 +159,7 @@ Serdar Balcı
   - **Protein is structurally normal**
   - **Accumulates at high concentrations**
 
-# β2-Microglobulin
+## β2-Microglobulin
 
 - **MHC class I molecule, normal serum protein**
 - **Aβ2m fibers are structurally similar to normal β2m protein**
@@ -173,7 +173,7 @@ Serdar Balcı
   - **Joints**
   - **Tendon sheaths**
 
-# Other proteins
+## Other proteins
 
 **Procalcitonin**
 
@@ -181,7 +181,7 @@ Serdar Balcı
 
 **Prolactin**
 
-# CLASSIFICATION OF AMYLOIDOSIS
+## CLASSIFICATION OF AMYLOIDOSIS
 
 ![](./img-local/Amyloidosispptx-sunum11.png)
 
@@ -189,7 +189,7 @@ Serdar Balcı
 
 ![](./img-local/Amyloidosispptx-sunum12.png)
 
-# Primary Amyloidosis: Immunocyte Dyscrasias with Amyloidosis
+## Primary Amyloidosis: Immunocyte Dyscrasias with Amyloidosis
 
 - **Systemic**
 - **AL type**
@@ -203,14 +203,14 @@ Serdar Balcı
     - **Bence Jones protein**
     - **excreted in urine**
 
-# Primary Amyloidosis: No other disease found
+## Primary Amyloidosis: No other disease found
 
 **Have increased plasma cells in bone marrow**
 
 **Not enough to cause tumor but increased light chain in serum or
 urine**
 
-# Reactive Systemic Amyloidosis (Secondary amyloidosis)
+## Reactive Systemic Amyloidosis (Secondary amyloidosis)
 
 - **Systemic**
 - **AA protein**
@@ -229,7 +229,7 @@ urine**
   - **Renal cell carcinoma**
   - **Hodgkin lymphoma**
 
-# Familial (Hereditary) AmyloidosisFamilial Mediterranean Fever (FMF)
+## Familial (Hereditary) AmyloidosisFamilial Mediterranean Fever (FMF)
 
 - **AA proteins**
 - **Autosomal recessive**
@@ -250,7 +250,7 @@ urine**
 overproduction of the pro-inflammatory cytokine IL-1 → Persistent
 inflammation**
 
-# Familial (Hereditary) AmyloidosisFamilial Amyloidotic Polyneuropathies
+## Familial (Hereditary) AmyloidosisFamilial Amyloidotic Polyneuropathies
 
 **Peripheral and autonomic nerves**
 
@@ -260,7 +260,7 @@ inflammation**
 
 **Mutant forms of transthyretin (ATTRs)**
 
-# Hemodialysis-Associated Amyloidosis
+## Hemodialysis-Associated Amyloidosis
 
 **Long-term hemodialysis for renal failure**
 
@@ -272,7 +272,7 @@ inflammation**
 
 **New membranes are told to filter these proteins as well**
 
-# Localized Amyloidosis
+## Localized Amyloidosis
 
 - **Limited to a single organ or tissue**
 - **Detectable nodular masses or microscopic**
@@ -281,7 +281,7 @@ inflammation**
 - **Infiltrates of lymphocytes and plasma cells in the periphery**
   - **Is it a response or are they responsible for it?**
 
-# Endocrine Amyloid
+## Endocrine Amyloid
 
 - **Endocrine tumors**
   - **Medullary carcinoma of the thyroid gland**
@@ -302,7 +302,7 @@ inflammation**
 
 **Color Atlas of Pathology**
 
-# Amyloid of Aging
+## Amyloid of Aging
 
 - **Senile systemic amyloidosis**
   - **Systemic deposition of amyloid in elderly (70s-80s)**
@@ -316,9 +316,9 @@ inflammation**
     mutant allele**
   - **cardiomyopathy identified in both homozygous and heterozygous**
 
-# MORPHOLOGY OF AMYLOIDOSIS
+## MORPHOLOGY OF AMYLOIDOSIS
 
-# Morphology of Amyloidosis
+## Morphology of Amyloidosis
 
 - **Small amounts are recognized with iodine and sulfuric acid**
   - **Reddish (mahogany) brown staining of the amyloid deposits**
@@ -333,17 +333,17 @@ inflammation**
     cells**
   - **AL form, perivascular and vascular localizations are common**
 
-# Methods to detect amyloid
+## Methods to detect amyloid
 
-<span style="color:#FB00A1">Eosinophilic </span> **amorphous acellular
+<span style="color:##FB00A1">Eosinophilic </span> **amorphous acellular
 material with H&E**
 
 **Weakly PAS positive (starch like)**
 
-<span style="color:#FF0000">Congo-Red: </span> **Apple-green
+<span style="color:##FF0000">Congo-Red: </span> **Apple-green
 birefringence under polarized light**
 
-<span style="color:#3366FF">Crystal violet:</span> \_\_ metachromatic
+<span style="color:##3366FF">Crystal violet:</span> \_\_ metachromatic
 staining\_\_
 
 **Electron Microscopy**
@@ -360,7 +360,7 @@ staining\_\_
 
 **Robbins Basic Pathology**
 
-# Congo red–stain: Apple-green birefringence under polarized light
+## Congo red–stain: Apple-green birefringence under polarized light
 
 ![](./img-local/Amyloidosispptx-sunum16.png)
 
@@ -382,7 +382,7 @@ staining\_\_
 
 ![](./img-local/Amyloidosispptx-sunum23.png)
 
-# Amyloid in Kidney
+## Amyloid in Kidney
 
 - **Most common and most serious **
 - **Grossly**
@@ -405,7 +405,7 @@ staining\_\_
 
 **Rubin’s Pathology 7th Ed**
 
-# Amyloid in Spleen
+## Amyloid in Spleen
 
 **Moderate or even marked enlargement (200 to 800 gm)**
 
@@ -417,7 +417,7 @@ staining\_\_
 
 **Color Atlas of Pathology**
 
-# Amyloid in Liver
+## Amyloid in Liver
 
 **Massive enlargement (9000)**
 
@@ -440,7 +440,7 @@ involvement**
 
 **Rubin’s Pathology 7th Ed**
 
-# Heart
+## Heart
 
 **Systemic involvement**
 
@@ -466,7 +466,7 @@ involvement**
 
 **Rubin’s Pathology 7th Ed**
 
-# Other Organs
+## Other Organs
 
 - **Adrenals**
 - **Thyroid**
@@ -479,7 +479,7 @@ involvement**
   - **carpal ligaments of the wrist**
   - **compression of the median nerve (carpal tunnel syndrome)**
 
-# Clinical Course of Amyloidosis
+## Clinical Course of Amyloidosis
 
 **Atrophy**
 
@@ -489,9 +489,9 @@ involvement**
 
 **Depend on organ and severity of involvement**
 
-# 
+## 
 
-# Amyloid
+## Amyloid
 
 **Proteinaceous substance deposited between cells in various tissues and
 organs in a variety of clinical settings.**
@@ -510,7 +510,7 @@ organs in a variety of clinical settings.**
   - **Under polarized light, Congo red-stained amyloid fibrils show an
     apple green birefringence.**
 
-# Amyloidosis
+## Amyloidosis
 
 - **group of diseases characterized by a deposition of amyloid in
   various organs**
@@ -522,7 +522,7 @@ organs in a variety of clinical settings.**
   - **may be systemic**
   - **may be hereditary**
 
-# Primary amyloidosis
+## Primary amyloidosis
 
 **Systemic deposition of AL-type amyloid**
 
@@ -531,7 +531,7 @@ organs in a variety of clinical settings.**
 **Monoclonal gammopathy (whole immunoglobulins or only light chains)
 found by electrophoresis of serum**
 
-# Secondary systemic amyloidosis
+## Secondary systemic amyloidosis
 
 - **Underlying disease**
   - **tuberculosis, chronic osteomyelitis, rheumatoid arthritis,
@@ -539,13 +539,13 @@ found by electrophoresis of serum**
   - **heroin abuse**
 - **Widespread deposition of AA protein in many organs**
 
-# Amyloidosis of aging
+## Amyloidosis of aging
 
 - **Systemic deposition of amyloid in elderly**
 - **Frequent involvement of the heart**
   - **Cardiac amyloidosis**
 
-# Systemic amyloidosis
+## Systemic amyloidosis
 
 - **Kidneys**
   - **Both kidneys enlarged, pale, and waxy**
@@ -563,7 +563,7 @@ found by electrophoresis of serum**
 - **Diagnosis may be made by biopsy of tissue**
   - **fat pad, gingiva, or rectum**
 
-# 
+## 
 
 **the traditional approaches to therapy focus on treating the underlying
 disease—specifically, chemotherapy for myeloma (with AL amyloidosis) and
@@ -592,10 +592,10 @@ amyloid fibrils.**
 deposits before irreversible damage is done, what previously has been an
 intractable and inexorable process may eventually become manageable.**
 
-# References
+## References
 
 **Robbins Basic Pathology, 9** **th** \_\_ Ed, pp:\_\_
-<span style="color:#000000">153-154</span>
+<span style="color:##000000">153-154</span>
 
 **Pathology Secrets, 3** **rd** \_\_ ed, pp:74-75\_\_
 

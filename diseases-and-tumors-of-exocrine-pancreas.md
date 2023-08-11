@@ -3,13 +3,13 @@ Serdar Balcı
 
 ![](./img-local/Diseases-and-Tumors-of-Exocrine-Pancreas0.jpg)
 
-# Diseases and Tumors of Exocrine Pancreas
+## Diseases and Tumors of Exocrine Pancreas
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# DISEASES OF EXOCRINE PANCREAS
+## DISEASES OF EXOCRINE PANCREAS
 
-# Pancreas
+## Pancreas
 
 - **Exocrine organ**
   - **Acinar cells**
@@ -26,7 +26,7 @@ Serdar Balcı
   - \_\_ islets of Langerhans\_\_
   - **secrete insulin, glucagon, and somatostatin**
 
-# Inhibitors of autodigestion of the pancreas
+## Inhibitors of autodigestion of the pancreas
 
 **Pancreatic enzymes are synthesized as inactive proenzymes**
 
@@ -43,7 +43,7 @@ trypsin inhibitor) are secreted by acinar and ductal cells**
 **Acinar cells are remarkably resistant to the action of activated
 enzymes**
 
-# Cystic Fibrosis
+## Cystic Fibrosis
 
 ![](./img-local/Diseases-and-Tumors-of-Exocrine-Pancreas1.png)
 
@@ -74,9 +74,9 @@ by fibrous tissue.**
 
 **Robbins and Cotran Pathologic Basis of Disease**
 
-# CONGENITAL ANOMALIES
+## CONGENITAL ANOMALIES
 
-# Agenesis
+## Agenesis
 
 **Very rarely**
 
@@ -88,7 +88,7 @@ incompatible with life**
 **Pancreatic duodenal homeobox 1 is a homeodomain transcription factor,
 mutations of the PDX1 gene, located on chromosomal locus 13q12.1**
 
-# Pancreas Divisum
+## Pancreas Divisum
 
 **Most common clinically significant congenital pancreatic anomaly**
 
@@ -108,7 +108,7 @@ through the minor sphincter, which has a narrow opening**
 
 ![](./img-local/Diseases-and-Tumors-of-Exocrine-Pancreas6.png)
 
-# Annular Pancreas
+## Annular Pancreas
 
 **Uncommon variant of pancreatic fusion**
 
@@ -117,7 +117,7 @@ through the minor sphincter, which has a narrow opening**
 **Manifest with signs and symptoms of duodenal obstruction such as
 gastric distention and vomiting**
 
-# Ectopic Pancreas
+## Ectopic Pancreas
 
 **2% of the population**
 
@@ -138,7 +138,7 @@ gastric distention and vomiting**
 **2% of pancreatic neuroendocrine tumors arise in ectopic pancreatic
 tissue**
 
-# Congenital Cysts
+## Congenital Cysts
 
 **anomalous development of the pancreatic ducts**
 
@@ -161,9 +161,9 @@ in some patients with autosomal-dominant polycystic kidney disease.**
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# PANCREATITIS
+## PANCREATITIS
 
-# Acute Pancreatitis
+## Acute Pancreatitis
 
 - **reversible inflammatory disorder**
 - **varies in severity**
@@ -183,7 +183,7 @@ in some patients with autosomal-dominant polycystic kidney disease.**
 
 **Robbins Basic Pathology**
 
-# Other causes of acute pancreatitis
+## Other causes of acute pancreatitis
 
 - **Non–gallstone-related obstruction of the pancreatic ducts**
   - **ampullary region neoplasms, pancreatic cancer, pancreas divisum,
@@ -213,7 +213,7 @@ in some patients with autosomal-dominant polycystic kidney disease.**
       inactivate itself**
 - **10-20% of acute pancreatitis idiopathic **
 
-# Acute Pancreatitis
+## Acute Pancreatitis
 
 **Microvascular leakage causing edema**
 
@@ -276,7 +276,7 @@ and peripancreatic fat**
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# Pathogenesis of acute pancreatitis
+## Pathogenesis of acute pancreatitis
 
 - **autodigestion of the pancreatic substance by inappropriately
   activated pancreatic enzymes**
@@ -344,7 +344,7 @@ pancreas are important in acinar cell injury mechanism**
 
 **Robbins Basic Pathology**
 
-# Alcohol consumption may cause pancreatitis by several mechanisms
+## Alcohol consumption may cause pancreatitis by several mechanisms
 
 **transiently increases pancreatic exocrine secretion**
 
@@ -362,7 +362,7 @@ pancreas are important in acinar cell injury mechanism**
 
 **obstruction of small pancreatic ducts**
 
-# Complications
+## Complications
 
 - **disseminated intravascular coagulation**
 - **acute respiratory distress syndrome**
@@ -384,7 +384,7 @@ pancreas are important in acinar cell injury mechanism**
 
 **Robbins and Cotran Pathologic Basis of Diseases**
 
-# Pancreatic Pseudocysts
+## Pancreatic Pseudocysts
 
 - **common sequela of acute pancreatitis**
 
@@ -438,7 +438,7 @@ chronic inflammation.**
 
 **Robbins Basic Pathology**
 
-# Chronic Pancreatitis
+## Chronic Pancreatitis
 
 - **Long-standing inflammation**
 - **Fibrosis**
@@ -516,7 +516,7 @@ squamous metaplasia, and ductal concretions may be noted**
 
 **Robbins Basic Pathology**
 
-# Autoimmune pancreatitis (AIP)
+## Autoimmune pancreatitis (AIP)
 
 - **Characterized by one of two morphologic patterns**
 - **Striking infiltration of the pancreas by lymphoplasmacytic cells**
@@ -532,7 +532,7 @@ squamous metaplasia, and ductal concretions may be noted**
 - **Both can mimic pancreatic cancer**
 - **Responds to steroid therapy**
 
-# Pathogenesis of chronic pancreatitis
+## Pathogenesis of chronic pancreatitis
 
 - **Ductal obstruction by concretions**
   - **agents (alcohol) increase the protein concentration of pancreatic
@@ -563,9 +563,9 @@ squamous metaplasia, and ductal concretions may be noted**
 
 ![](./img-local/Diseases-and-Tumors-of-Exocrine-Pancreas29.png)
 
-# TUMORS OF EXOCRINE PANCREAS
+## TUMORS OF EXOCRINE PANCREAS
 
-# Tumors of Pancreas
+## Tumors of Pancreas
 
 - **Pancreatoblastoma**
 - **Cystic Neoplasms**
@@ -577,7 +577,7 @@ squamous metaplasia, and ductal concretions may be noted**
 - **Acinic Cell Carcinoma**
 - **Pancreatic Neuroendocrine Tumors**
 
-# PANCREATOBLASTOMA
+## PANCREATOBLASTOMA
 
 ![](./img-local/Diseases-and-Tumors-of-Exocrine-Pancreas30.png)
 
@@ -586,9 +586,9 @@ also small rosette-like glandular formations**
 
 **Rosai and Ackerman’s Surgical Pathology**
 
-# PANCREATIC EXOCRINE NEOPLASMS
+## PANCREATIC EXOCRINE NEOPLASMS
 
-# Pancreatic Exocrine Neoplasms
+## Pancreatic Exocrine Neoplasms
 
 - **Cystic**
 - **Solid**
@@ -596,7 +596,7 @@ also small rosette-like glandular formations**
 - **Malignant**
   - **most lethal**
 
-# Cystic Neoplasms
+## Cystic Neoplasms
 
 **5-15% of all pancreatic cysts are neoplastic**
 
@@ -604,7 +604,7 @@ also small rosette-like glandular formations**
 
 ![](./img-local/Diseases-and-Tumors-of-Exocrine-Pancreas31.jpg)
 
-# Serous Cystadenoma
+## Serous Cystadenoma
 
 **Robbins Basic Pathology**
 
@@ -754,7 +754,7 @@ G-protein**
 
 **Ankara Atatürk Eğitim ve Araştırma Hastanesi Arşivi**
 
-# Pancreatic Carcinoma
+## Pancreatic Carcinoma
 
 - **Infiltrating ductal adenocarcinoma of the pancreas**
 - **Fourth leading cause of cancer death**
@@ -831,7 +831,7 @@ small pancreatic duct.**
 
 **Robbins Basic Pathology**
 
-# Ductal adenocarcinoma
+## Ductal adenocarcinoma
 
 - **Highly invasive**
   - **even “early” invasive pancreatic cancers invade peripancreatic
@@ -897,7 +897,7 @@ small pancreatic duct.**
 
 **Ankara Atatürk Eğitim ve Araştırma Hastanesi Arşivi**
 
-# Less common variants of pancreatic cancer
+## Less common variants of pancreatic cancer
 
 - **Adenosquamous carcinomas**
   - **focal squamous differentiation in addition to glandular
@@ -905,7 +905,7 @@ small pancreatic duct.**
 - **Undifferentiated carcinomas with osteoclast-like giant cells of
   monocytic lineage intermixed within the neoplasm**
 
-# Clinical features of pancreas carcinoma
+## Clinical features of pancreas carcinoma
 
 - **Pain**
 - **Obstructive jaundice**
@@ -917,13 +917,13 @@ small pancreatic duct.**
 - **\<20% of pancreatic cancers are resectable at the time of
   diagnosis**
 
-# SOLID PSEUDOPAPILLARY NEOPLASM
+## SOLID PSEUDOPAPILLARY NEOPLASM
 
 ![](./img-local/Diseases-and-Tumors-of-Exocrine-Pancreas59.png)
 
 **Endocr Pathol. 2014 Mar;25(1):65-79**
 
-# ACINAR CELL CARCINOMA
+## ACINAR CELL CARCINOMA
 
 ![](./img-local/Diseases-and-Tumors-of-Exocrine-Pancreas60.png)
 

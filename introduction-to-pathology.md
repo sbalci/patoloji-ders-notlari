@@ -3,11 +3,11 @@ Serdar Balcı
 
 ![](./img-local/Introduction-to-pathology0.jpg)
 
-# Introduction to Pathology
+## Introduction to Pathology
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# Pathology
+## Pathology
 
 **Study (logos)**
 
@@ -28,7 +28,7 @@ Serdar Balcı
   - **Functional changes**
 - **These changes give rise to signs and symptoms in a patient**
 
-# Pathology uses
+## Pathology uses
 
 - **Morphologic techniques**
   - **Macroscopy**
@@ -42,7 +42,7 @@ Serdar Balcı
 - **And autopsy**
   - **A very informative technique nowadays forgotten**
 
-# Pathology tries to explain whys and wherefores
+## Pathology tries to explain whys and wherefores
 
 - **What is the morphologic change in the cells, tissues, organs in the
   disease?**
@@ -76,7 +76,7 @@ diseases?**
 
 **Are the subgroups of diseases differ in terms of survival?**
 
-# Pathology is the bridge
+## Pathology is the bridge
 
 **The bridge between the basic sciences and clinics**
 
@@ -90,7 +90,7 @@ diseases?**
 
 **You should know the roots to understand general pathology**
 
-# General Pathology
+## General Pathology
 
 - **Reactions of cells and tissues to abnormal stimuli and inherited
   defects**
@@ -106,7 +106,7 @@ diseases?**
   - **Environmental and Nutritional Diseases**
   - **Diseases of Infancy and Childhood**
 
-# Systemic pathology
+## Systemic pathology
 
 - **Alterations in specialized organs and tissues that are responsible
   for disorders that involve these organs**
@@ -121,7 +121,7 @@ diseases?**
   - **Bones, Joints, Soft-Tissue**
   - **Peripheral and Central Nervous System**
 
-# Types of diseases
+## Types of diseases
 
 - **Genetic**
   - **Developmental**
@@ -141,7 +141,7 @@ diseases?**
 
 **Underwood’s Pathology: A Clinical Approach , Sixth Edition**
 
-# Studies of Pathology
+## Studies of Pathology
 
 **Etiology**
 
@@ -151,13 +151,13 @@ diseases?**
 
 **Functional Derangements and Clinical Manifestations**
 
-# Etiology (Why disease arise?)
+## Etiology (Why disease arise?)
 
 **Origin of a disease**
 
 **Underlying causes and modifying factors**
 
-# Etiology or Cause
+## Etiology or Cause
 
 - **Genetic**
   - **Inherited mutations**
@@ -169,7 +169,7 @@ diseases?**
   - **Chemical**
   - **Physical**
 
-# Causes and Risk Factors
+## Causes and Risk Factors
 
 **Alterations in Rb protein function leads to cervical cancer**
 
@@ -177,7 +177,7 @@ diseases?**
 
 **Smoking is the risk factor for cervical cancer**
 
-# One etiology for one disease?
+## One etiology for one disease?
 
 - **Yes, Some genetic and infectious diseases**
 - **No, in general.**
@@ -192,7 +192,7 @@ diseases?**
 **Wheater’s Basic Pathology: A Text, Atlas and Review of Histopathology
 , Fifth Edition**
 
-# Pathogenesis (How disease arise?)
+## Pathogenesis (How disease arise?)
 
 **Steps in the development of disease**
 
@@ -201,7 +201,7 @@ diseases?**
 **How these changes give rise to the specific functional and structural
 abnormalities**
 
-# Pathogenesis
+## Pathogenesis
 
 **How the disease forms in sequence**
 
@@ -222,7 +222,7 @@ manifestations**
 
 **Sequence of events in adenoma carcinoma sequence of colon cancers**
 
-# Molecular and Morphologic Changes
+## Molecular and Morphologic Changes
 
 - **Structural alterations**
   - **in tissues**
@@ -237,7 +237,7 @@ manifestations**
 
 **Stevens, Alan, MB BS, FRCPath - Core Pathology**
 
-# Functional Derangements and Clinical Manifestations
+## Functional Derangements and Clinical Manifestations
 
 **Genetic**
 
@@ -253,7 +253,7 @@ manifestations**
 
 **Outcome**
 
-# Pathology also deals with Epidemiology
+## Pathology also deals with Epidemiology
 
 **Especially in Cancer Registry**
 
@@ -262,7 +262,7 @@ manifestations**
 **The founder of modern pathology Dr.Virchow was an active politican in
 Berlin and dealt with public health**
 
-# Diagnostic Pathology
+## Diagnostic Pathology
 
 - **Studies nature and progression of disease**
 - **Morphologic changes**
@@ -287,13 +287,13 @@ Berlin and dealt with public health**
 **Wheater’s Basic Pathology: A Text, Atlas and Review of Histopathology
 , Fifth Edition**
 
-# Macroscopic examination
+## Macroscopic examination
 
 ![](./img-local/Introduction-to-pathology14.jpg)
 
 ![](./img-local/Introduction-to-pathology15.png)
 
-# Microscopy
+## Microscopy
 
 ![](./img-local/Introduction-to-pathology16.jpg)
 
@@ -303,7 +303,7 @@ Berlin and dealt with public health**
 
 ![](./img-local/Introduction-to-pathology19.png)
 
-# Cytology
+## Cytology
 
 ![](./img-local/Introduction-to-pathology20.png)
 
@@ -311,18 +311,18 @@ Berlin and dealt with public health**
 carcinoma. The specimen consists of dissociated cells with no
 surrounding tissue.**
 
-# Immunohistochemistry
+## Immunohistochemistry
 
 ![](./img-local/Introduction-to-pathology21.jpg)
 
 **Wheater’s Basic Pathology: A Text, Atlas and Review of Histopathology
 , Fifth Edition**
 
-# Who is a pathologist?
+## Who is a pathologist?
 
 **A person deals with and earns money from pathology**
 
-# How can one become a pathologist in Turkey?
+## How can one become a pathologist in Turkey?
 
 **After you become MD**
 
@@ -330,7 +330,7 @@ surrounding tissue.**
 
 **4 year residency**
 
-# Are there different kind of pathologist in the world?
+## Are there different kind of pathologist in the world?
 
 **Anatomic pathology**
 
@@ -340,7 +340,7 @@ surrounding tissue.**
 
 **Veterinary pathology**
 
-# Are there any subspecialities?
+## Are there any subspecialities?
 
 **Cytopathology**
 
@@ -358,7 +358,7 @@ surrounding tissue.**
 
 **….**
 
-# How will this course go on?
+## How will this course go on?
 
 **Theoretical lectures**
 
@@ -370,13 +370,13 @@ surrounding tissue.**
 
 **Laboratory exams**
 
-# You will be supplied
+## You will be supplied
 
 **Notes for laboratory studies**
 
 **You will get a version of lecture notes**
 
-# How can I study pathology?
+## How can I study pathology?
 
 - **To pass the exams (as a universal rule):**
   - **Check out the lecture notes**
@@ -384,7 +384,7 @@ surrounding tissue.**
   - **Look for previously and frequently asked questions**
 - **To learn pathology**
 
-# The books of medicine
+## The books of medicine
 
 ![](./img-local/Introduction-to-pathology22.png)
 
@@ -394,7 +394,7 @@ surrounding tissue.**
 
 ![](./img-local/Introduction-to-pathology25.jpg)
 
-# Some books to study pathology
+## Some books to study pathology
 
 **1) Robbins & Cotran Pathologic Basis of Disease **
 
@@ -440,7 +440,7 @@ some suggestions for present or future studies.**
 
 ![](./img-local/Introduction-to-pathology26.jpg)
 
-# Some web sites
+## Some web sites
 
 *<http://www.pathguy.com/>*
 
@@ -456,12 +456,12 @@ some suggestions for present or future studies.**
 
 **Ludwig, Handbook of Autopsy Practice, Humana Press**
 
-# Rudolf Virchow
+## Rudolf Virchow
 
 **“proposed that injury to the smallest living unit of the body, the
 cell, is the basis of all disease”**
 
-# Homework
+## Homework
 
 **Search for two Turkish Pathologists:**
 

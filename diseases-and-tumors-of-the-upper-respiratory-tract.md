@@ -3,13 +3,13 @@ Serdar Balcı
 
 ![](./img-local/Diseases-and-Tumors-of-the-Upper-Respiratory-Tract0.jpg)
 
-# Diseases and Tumors of the Upper Respiratory Tract
+## Diseases and Tumors of the Upper Respiratory Tract
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# ACUTE INFECTIONS
+## ACUTE INFECTIONS
 
-# Common cold
+## Common cold
 
 **Nasal congestion**
 
@@ -40,19 +40,19 @@ Serdar Balcı
 **complicated by the development of bacterial otitis media or
 sinusitis**
 
-# Streptococcal tonsillitis
+## Streptococcal tonsillitis
 
 **peritonsillar abscesses**
 
 **poststreptococcal glomerulonephritis and acute rheumatic fever**
 
-# Coxsackie virus A infection
+## Coxsackie virus A infection
 
 - **pharyngeal vesicles**
 - **Ulcers**
   - **herpangina**
 
-# Infectious mononucleosis
+## Infectious mononucleosis
 
 **Epstein-Barr virus (EBV)**
 
@@ -60,7 +60,7 @@ sinusitis**
 
 **kissing disease**
 
-# Acute bacterial epiglottitis
+## Acute bacterial epiglottitis
 
 **young children**
 
@@ -68,7 +68,7 @@ sinusitis**
 
 **pain and airway obstruction**
 
-# Acute laryngitis
+## Acute laryngitis
 
 **inhalation of irritants**
 
@@ -76,13 +76,13 @@ sinusitis**
 
 **agents that produce the common cold**
 
-# Tuberculosis laryngitis
+## Tuberculosis laryngitis
 
 **Consequence of protracted active tuberculosis**
 
 **Infected sputum is coughed up**
 
-# Diphtheritic laryngitis
+## Diphtheritic laryngitis
 
 - **Widespread immunization**
 - **C. diphtheriae implants on the mucosa of the upper airways**
@@ -95,7 +95,7 @@ sinusitis**
 - **Absorption of bacterial exotoxins**
   - **Myocarditis, peripheral neuropathy, or other tissue injury**
 
-# Laryngotracheobronchitis
+## Laryngotracheobronchitis
 
 **Parainfluenza virus most common cause**
 
@@ -108,7 +108,7 @@ sinusitis**
 **laryngeal inflammatory reaction narrow the airway → respiratory
 failure**
 
-# Viral infections in the upper respiratory tract
+## Viral infections in the upper respiratory tract
 
 - **predispose the patient to secondary bacterial infection**
   - **staphylococci, streptococci, and H. influenzae**
@@ -135,9 +135,9 @@ traumatic intubation**
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# NASOPHARYNGEAL CARCINOMA
+## NASOPHARYNGEAL CARCINOMA
 
-# Nasopharyngeal Carcinoma
+## Nasopharyngeal Carcinoma
 
 - **Strong epidemiologic links to EBV**
 - **High frequency of this form of cancer among the Chinese**
@@ -183,10 +183,10 @@ undifferentiated carcinoma**
 **Large neoplastic cells are present admixed with a lymphocytic stroma.
 **
 
-<span style="color:#FFFFFF">Differential Diagnosis in Surgical
+<span style="color:##FFFFFF">Differential Diagnosis in Surgical
 Pathology</span>
 
-# Lymphoepithelioma like carcinoma
+## Lymphoepithelioma like carcinoma
 
 - **The other name for undifferentiated carcinoma**
 - **EBV directly infects B lymphocytes**
@@ -198,7 +198,7 @@ Pathology</span>
   give rise to an appearance similar to that in non-Hodgkin lymphomas**
   - **Immunohistochemical stains may be required**
 
-# Nasopharyngeal carcinomas
+## Nasopharyngeal carcinomas
 
 - **invade locally**
 - **spread to cervical lymph nodes**
@@ -207,9 +207,9 @@ Pathology</span>
 - **5-year survival rates of 50%**
   - **even for advanced cancers**
 
-# LARYNGEAL TUMORS
+## LARYNGEAL TUMORS
 
-# Vocal cord nodules
+## Vocal cord nodules
 
 **Vocal cord polyps**
 
@@ -229,7 +229,7 @@ Pathology</span>
 
 **Rosai and Ackerman’s Surgical Pathology**
 
-# Laryngeal papilloma
+## Laryngeal papilloma
 
 **Squamous papilloma of the larynx**
 
@@ -264,7 +264,7 @@ Pathology</span>
   - **Spontaneously regress at puberty**
   - **Vertical transmission from an infected mother during delivery**
 
-# Carcinoma of the Larynx
+## Carcinoma of the Larynx
 
 - **2% of all cancers**
 - **\>40 years**

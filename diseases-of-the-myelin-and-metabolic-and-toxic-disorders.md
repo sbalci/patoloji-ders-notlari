@@ -3,13 +3,13 @@ Serdar Balcı
 
 ![](./img-local/Diseases-of-the-Myelin-and-Metabolic-and-Toxic-Disorders0.jpg)
 
-# Diseases of the Myelin, Metabolic and Toxic Disorders
+## Diseases of the Myelin, Metabolic and Toxic Disorders
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# PRIMARY DISEASES OF MYELIN
+## PRIMARY DISEASES OF MYELIN
 
-# Myelin
+## Myelin
 
 **Axons are tightly ensheathed by myelin**
 
@@ -30,7 +30,7 @@ plasma membranes**
 **Most diseases of CNS myelin do not involve the peripheral nerves to
 any significant extent, and vice versa**
 
-# Myelin in peripheral nerves
+## Myelin in peripheral nerves
 
 - **Differences of myelin in the CNS and PNS**
 - **Peripheral myelin is made by Schwann cells, not oligodendrocytes**
@@ -42,7 +42,7 @@ any significant extent, and vice versa**
 - **Most diseases of CNS myelin do not involve the peripheral nerves to
   any significant extent, and vice versa**
 
-# Diseases involving myelin
+## Diseases involving myelin
 
 - **Demyelinating diseases of the CNS**
   - **Acquired conditions**
@@ -59,9 +59,9 @@ any significant extent, and vice versa**
   - **Mutations that disrupt the function of proteins that are required
     for the formation of normal myelin sheaths**
 
-# DEMYELINATING DISEASES
+## DEMYELINATING DISEASES
 
-# Multiple Sclerosis
+## Multiple Sclerosis
 
 - **Autoimmune demyelinating disorder**
 
@@ -137,7 +137,7 @@ depressed, glassy-appearing, gray-tan, irregularly shaped lesions**
 **Frequent in the optic nerves and chiasm, brain stem, ascending and
 descending fiber tracts, cerebellum, and spinal cord**
 
-<span style="color:#FFFFFF">Robbins Basic Pathology</span>
+<span style="color:##FFFFFF">Robbins Basic Pathology</span>
 
 ![](./img-local/Diseases-of-the-Myelin-and-Metabolic-and-Toxic-Disorders2.png)
 
@@ -171,7 +171,7 @@ descending fiber tracts, cerebellum, and spinal cord**
   - **Little, no myelin**
   - **Astrocytic proliferation and gliosis are prominent**
 
-# Clinical course of MS
+## Clinical course of MS
 
 **The clinical course is variable**
 
@@ -199,7 +199,7 @@ suspected**
     - **Antibodies are directed against a variety of antigenic targets**
   - **1/3 moderate pleocytosis**
 
-# Other Acquired Demyelinating Diseases
+## Other Acquired Demyelinating Diseases
 
 - **Immune-mediated demyelination after systemic infectious illnesses**
   - **even mild viral diseases**
@@ -208,7 +208,7 @@ suspected**
   - **Immune cells responding to pathogen-associated antigens cross
     react against myelin antigens → myelin damage**
 
-# Postinfectious autoimmune reactions to myelin
+## Postinfectious autoimmune reactions to myelin
 
 - **Associated with acute-onset monophasic illnesses**
 - **Acute disseminated encephalomyelitis**
@@ -223,7 +223,7 @@ suspected**
   - **More devastating disorder**
   - **Typically affects young adults and children**
 
-# Neuromyelitis optica
+## Neuromyelitis optica
 
 **Inflammatory demyelinating disease**
 
@@ -234,7 +234,7 @@ suspected**
 **Antibodies to the water channel aquaporin-4 are both diagnostic and
 pathogenic**
 
-# Central pontine myelinolysis
+## Central pontine myelinolysis
 
 - **Nonimmune process**
 - **Loss of myelin involving the center of the pons**
@@ -247,15 +247,15 @@ pathogenic**
 - **Involvement of fibers in the pons**
   - **rapidly evolving quadriplegia**
 
-# Progressive multifocal leukoencephalopathy
+## Progressive multifocal leukoencephalopathy
 
 **Demyelinating disease**
 
 **Occurs after reactivation of JC virus in immunosuppressed patients**
 
-# DYSMYELINATING DISEASES (LEUKODYSTROPHY)
+## DYSMYELINATING DISEASES (LEUKODYSTROPHY)
 
-# Leukodystrophies
+## Leukodystrophies
 
 **Inherited dysmyelinating diseases**
 
@@ -275,7 +275,7 @@ pathogenic**
 
 **Robbins Basic Pathology**
 
-# Morphology of leukodystrophy
+## Morphology of leukodystrophy
 
 - **Changes in white matter**
 - **Diffusely change in color (gray and translucent)**
@@ -295,7 +295,7 @@ pathogenic**
 - **Specific inclusions created by the accumulation of particular
   lipids**
 
-# Clinical Features of Leukodystrophies
+## Clinical Features of Leukodystrophies
 
 - **Each leukodystrophy has a characteristic clinical presentation**
 - **Most can be diagnosed by genetic or biochemical methods**
@@ -310,9 +310,9 @@ pathogenic**
 - **The earlier the age at onset, the more severe the deficiency and
   clinical course**
 
-# ACQUIRED METABOLIC AND TOXIC DISTURBANCES
+## ACQUIRED METABOLIC AND TOXIC DISTURBANCES
 
-# Acquired Metabolic and Toxic Disturbances
+## Acquired Metabolic and Toxic Disturbances
 
 - **Relatively common causes of neurologic illnesses**
 - **Brain is particularly vulnerable to nutritional diseases and
@@ -329,7 +329,7 @@ pathogenic**
   - **Hepatic Encephalopathy**
 - **Toxic Disorders**
 
-# Thiamine Deficiency
+## Thiamine Deficiency
 
 - **Wernicke encephalopathy**
 - **Abrupt onset of confusion**
@@ -340,7 +340,7 @@ pathogenic**
   - **Irreversible profound memory disturbances**
   - **Korsakoff syndrome**
 
-# Wernicke-Korsakoff syndrome
+## Wernicke-Korsakoff syndrome
 
 - **Chronic alcoholism**
 
@@ -371,7 +371,7 @@ pathogenic**
 - **Lesions in the medial dorsal nucleus of the thalamus best correlate
   with the memory disturbance in Korsakoff syndrome**
 
-# Vitamin B Deficiency
+## Vitamin B Deficiency
 
 **Pernicious anemia**
 
@@ -392,7 +392,7 @@ pathogenic**
 - **Prompt vitamin replacement therapy produces clinical improvement**
 - **If paraplegia has developed, recovery is poor**
 
-# Hypoglycemia
+## Hypoglycemia
 
 **Brain requires glucose as a substrate for energy production**
 
@@ -407,7 +407,7 @@ injury**
 **As with anoxia, if the level and duration of hypoglycemia are
 sufficiently severe, injury is widespread**
 
-# Hyperglycemia
+## Hyperglycemia
 
 - **Inadequately controlled diabetes mellitus**
 - **Ketoacidosis, hyperosmolar coma**
@@ -416,7 +416,7 @@ sufficiently severe, injury is widespread**
 - **Hyperglycemia must be corrected gradually**
   - **Rapid correction can produce severe cerebral edema**
 
-# Hepatic Encephalopathy
+## Hepatic Encephalopathy
 
 - **Decreased hepatic function**
 - **Depressed levels of consciousness and sometimes coma**
@@ -429,7 +429,7 @@ sufficiently severe, injury is widespread**
   - **hyperammonemia → astrocytes in the cortex and basal ganglia
     develop swollen, pale nuclei (called Alzheimer type II cells )**
 
-# Toxic Disorders
+## Toxic Disorders
 
 **Lead**
 
@@ -475,7 +475,7 @@ sufficiently severe, injury is widespread**
   - **Blood vessels with thickened walls containing intramural
     fibrin-like material**
 
-# 
+## 
 
 ![](./img-local/Diseases-of-the-Myelin-and-Metabolic-and-Toxic-Disorders4.png)
 

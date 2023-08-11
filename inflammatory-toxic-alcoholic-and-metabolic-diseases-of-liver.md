@@ -3,13 +3,13 @@ Serdar Balcı
 
 ![](./img-local/Inflammatory%2C-Toxic%2C-Alcoholic-and-Metabolic-Diseases-of-Liver0.jpg)
 
-# Inflammatory, Toxic, Alcoholic and Metabolic Diseases of Liver
+## Inflammatory, Toxic, Alcoholic and Metabolic Diseases of Liver
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# DRUG- OR TOXIN-INDUCED LIVER DISEASE
+## DRUG- OR TOXIN-INDUCED LIVER DISEASE
 
-# Drug- or Toxin-Induced Liver Disease
+## Drug- or Toxin-Induced Liver Disease
 
 - **Liver is the major detoxifying organ**
 - **Injury may result from;**
@@ -25,7 +25,7 @@ Serdar Balcı
 - **Should be in differential diagnosis list always**
 - **Most important agent that produces toxic liver injury is alcohol**
 
-# Drug-induced liver disease
+## Drug-induced liver disease
 
 - **Common condition**
 - **May manifest as**
@@ -44,7 +44,7 @@ Serdar Balcı
 
 **Robbins Basic Pathology**
 
-# Drug reactions
+## Drug reactions
 
 - **Predictable**
   - **Dose-dependent**
@@ -63,7 +63,7 @@ Serdar Balcı
 
 ![](./img-local/Inflammatory%2C-Toxic%2C-Alcoholic-and-Metabolic-Diseases-of-Liver3.jpg)
 
-# Predictable
+## Predictable
 
 - **Acetaminophen**
   - **Most common cause of acute liver failure necessitating
@@ -79,7 +79,7 @@ Serdar Balcı
 - **In severe overdoses the zone of injury extends to the periportal
   hepatocytes, resulting in fulminant hepatic failure**
 
-# Idiosyncratic
+## Idiosyncratic
 
 - **Chlorpromazine**
   - **causes cholestasis in individuals who metabolize it slowly**
@@ -112,9 +112,9 @@ region (zone 3) **
 
 **Robbins Basic Pathology**
 
-# ALCOHOLIC AND NONALCOHOLIC FATTY LIVER DISEASE
+## ALCOHOLIC AND NONALCOHOLIC FATTY LIVER DISEASE
 
-# Fatty Liver Disease
+## Fatty Liver Disease
 
 - **Alcohol**
   - **Steatosis**
@@ -126,7 +126,7 @@ region (zone 3) **
     - **insulin resistance, obesity, diabetes mellitus, hypertension,
       and dyslipidemia**
 
-# Hepatocellular Steatosis
+## Hepatocellular Steatosis
 
 - **Fat accumulation typically begins in centrilobular hepatocytes**
 - **Small (microvesicular), large (macrovesicular)**
@@ -144,7 +144,7 @@ perisinusoidal “chicken wire fence” pattern.**
 
 **Robbins Basic Pathology**
 
-# Steatohepatitis
+## Steatohepatitis
 
 **More with alcohol use than in NAFLD**
 
@@ -179,7 +179,7 @@ perisinusoidal “chicken wire fence” pattern.**
 
 **Robbins Basic Pathology**
 
-# Neutrophil infiltration
+## Neutrophil infiltration
 
 **Predominantly neutrophilic infiltration may permeate the lobule**
 
@@ -189,7 +189,7 @@ containing Mallory-Denk bodies**
 **Lymphocytes and macrophages also may be seen in portal tracts or
 parenchyma**
 
-# Steatohepatitis with fibrosis
+## Steatohepatitis with fibrosis
 
 **First in the centrilobular region, central vein sclerosis**
 
@@ -207,7 +207,7 @@ hepatocytes in a chicken wire fence pattern**
 
 **Classic micronodular or Laennec cirrhosis**
 
-# Course of Fatty Liver Disease
+## Course of Fatty Liver Disease
 
 - **Early**
   - **the liver is yellow-tan, fatty, and enlarged**
@@ -243,7 +243,7 @@ this “burned-out” stage**
 
 **Robbins Basic Pathology**
 
-# Alcoholic liver disease
+## Alcoholic liver disease
 
 **Steatosis, alcoholic hepatitis, and fibrosis may develop
 independently**
@@ -259,7 +259,7 @@ cirrhosis**
 
 **Robbins Basic Pathology**
 
-# Causes of hepatocellular steatosis
+## Causes of hepatocellular steatosis
 
 - **Shunting of substrates away from catabolism and toward lipid
   biosynthesis**
@@ -269,7 +269,7 @@ cirrhosis**
 - **Impaired assembly and secretion of lipoproteins**
 - **Increased peripheral catabolism of fat**
 
-# Causes of alcoholic hepatitis
+## Causes of alcoholic hepatitis
 
 - **Acetaldehyde**
   - **metabolite of ethanol**
@@ -294,7 +294,7 @@ cirrhosis**
 - **Concurrent viral hepatitis, hepatitis C, is a major accelerator of
   liver disease in alcoholics**
 
-# Nonalcoholic Fatty Liver Disease (NAFLD)
+## Nonalcoholic Fatty Liver Disease (NAFLD)
 
 - **Metabolic syndrome**
   - **Having at least two of the following:**
@@ -333,7 +333,7 @@ cirrhosis**
 
 **Robbins and Cotran Pathologic Basis of Disease**
 
-# Drug/Toxin-Mediated Injury with Steatosis
+## Drug/Toxin-Mediated Injury with Steatosis
 
 - **Mitochondrial injury leading to diffuse, hepatocellular
   microvesicular steatosis**
@@ -376,9 +376,9 @@ cirrhosis**
 - **Skeletal muscles, kidneys, and heart also may reveal microvesicular
   fatty change and mitochondrial alterations**
 
-# INHERITED METABOLIC DISEASES
+## INHERITED METABOLIC DISEASES
 
-# Hemochromatosis
+## Hemochromatosis
 
 - **Excessive accumulation of body iron**
 - **Deposited in the liver, pancreas, and heart**
@@ -389,7 +389,7 @@ cirrhosis**
     β-thalassemia and myelodysplastic syndromes), and increased iron
     intake**
 
-# Hereditary Hemochromatosis
+## Hereditary Hemochromatosis
 
 - **Iron accumulates over the lifetime of the affected person**
 - **Excessive intestinal absorption**
@@ -431,7 +431,7 @@ absorption**
 
 **Direct interactions of iron with DNA**
 
-# Hemochromatosis
+## Hemochromatosis
 
 - **Deposition of hemosiderin**
 - **Liver, pancreas, myocardium, pituitary, adrenal, thyroid and
@@ -473,7 +473,7 @@ brown**
 **\>22,000 µg/g dry weight are associated with the development of
 fibrosis and cirrhosis**
 
-# Wilson Disease
+## Wilson Disease
 
 **Autosomal recessive**
 
@@ -549,7 +549,7 @@ into bile**
   - **Green to brown deposits of copper in Descemet membrane in the
     limbus of the cornea**
 
-# α1-Antitrypsin Deficiency
+## α1-Antitrypsin Deficiency
 
 **Autosomal recessive disorder**
 

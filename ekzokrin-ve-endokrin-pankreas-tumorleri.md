@@ -3,11 +3,11 @@ Serdar Balcı
 
 ![](./img-local/Ekzokrin-ve-Endokrin-Pankreas-T%C3%BCm%C3%B6rleri0.jpg)
 
-# Ekzokrin ve Endokrin Pankreas Tümörleri
+## Ekzokrin ve Endokrin Pankreas Tümörleri
 
-# Dr. Serdar BALCI
+## Dr. Serdar BALCI
 
-# PANKREATOBLASTOM
+## PANKREATOBLASTOM
 
 ![](./img-local/Ekzokrin-ve-Endokrin-Pankreas-T%C3%BCm%C3%B6rleri1.png)
 
@@ -19,9 +19,9 @@ Serdar Balcı
 
 **Rosai and Ackerman’s Surgical Pathology**
 
-# PANKREAS EKZOKRIN TÜMÖRLERI
+## PANKREAS EKZOKRIN TÜMÖRLERI
 
-# Pankreas Ekzokrin Tümörleri
+## Pankreas Ekzokrin Tümörleri
 
 - **Kistik**
 - **Solid**
@@ -29,7 +29,7 @@ Serdar Balcı
 - **Malign**
   - **Çoğu ölümcül**
 
-# Kistik neoplaziler
+## Kistik neoplaziler
 
 **Pankreas kistlerinin %5-15’i neoplastik**
 
@@ -37,7 +37,7 @@ Serdar Balcı
 
 ![](./img-local/Ekzokrin-ve-Endokrin-Pankreas-T%C3%BCm%C3%B6rleri2.jpg)
 
-# Seröz Kistadenom
+## Seröz Kistadenom
 
 **Robbins Basic Pathology**
 
@@ -184,7 +184,7 @@ yayılıyor**
 
 **Ankara Atatürk Eğitim ve Araştırma Hastanesi Arşivi**
 
-# Pankreas Kanseri
+## Pankreas Kanseri
 
 - **Pankreas infiltratif duktal karsinom**
 - **Batı toplumlarında 4. en sık kanser ölüm nedeni**
@@ -263,7 +263,7 @@ yayılıyor**
 
 **Robbins Basic Pathology**
 
-# Duktal adenokarsinom
+## Duktal adenokarsinom
 
 - **Belirgin invaziv**
   - **Erken dönem olgular bile peripankreatik yağ dokuya invazyon
@@ -326,14 +326,14 @@ yayılıyor**
 
 **Ankara Atatürk Eğitim ve Araştırma Hastanesi Arşivi**
 
-# Daha az görülen varyantlar
+## Daha az görülen varyantlar
 
 - **Adenoskuamöz karsinomlar**
   - **Glandüler diferansiyasyona ek olarak fokal skuamöz
     diferansiyasyon**
 - **Osteoklast benzeri dev hücreler içeren undiferansiye karsinomlar**
 
-# Pankreas kanserinin klinik bulguları
+## Pankreas kanserinin klinik bulguları
 
 - **Ağrı**
 - **Obstrüktif sarılık**
@@ -344,11 +344,11 @@ yayılıyor**
   - **Tümör ya da nekroz kaynaklı prokoagülan ajanlar**
 - **\<%20 tanı anında rezeksiyon yapılabilir halde**
 
-# PANKRETIK NÖROENDOKRIN TÜMÖRLER
+## PANKRETIK NÖROENDOKRIN TÜMÖRLER
 
 ![](./img-local/Ekzokrin-ve-Endokrin-Pankreas-T%C3%BCm%C3%B6rleri33.png)
 
-# Pankreatik Nöroendokrin Tümörler
+## Pankreatik Nöroendokrin Tümörler
 
 - **Adacık hücre tümörleri**
 - **Pankreas neoplazilerinin %2’si**
@@ -394,7 +394,7 @@ yayılıyor**
 
 **Endocr Pathol. 2014 Mar;25(1):65-79**
 
-# İnsülinomlar
+## İnsülinomlar
 
 **Beta hücre tümörleri**
 
@@ -438,7 +438,7 @@ hranüllerine benzer**
 
 **Robbins Basic Pathology**
 
-# Gastrinom
+## Gastrinom
 
 - **Belirgin gastrin hipersekresyonu**
 - **Duodenum, peripankreatik doku ve pankreasta gelişir**
@@ -494,13 +494,13 @@ hranüllerine benzer**
 
 **Endocr Pathol. 2014 Mar;25(1):65-79**
 
-# SOLID PSÖDOPAPILLER NEOPLAZM
+## SOLID PSÖDOPAPILLER NEOPLAZM
 
 ![](./img-local/Ekzokrin-ve-Endokrin-Pankreas-T%C3%BCm%C3%B6rleri48.png)
 
 **Endocr Pathol. 2014 Mar;25(1):65-79**
 
-# ASINER HÜCRELI KARSINOM
+## ASINER HÜCRELI KARSINOM
 
 ![](./img-local/Ekzokrin-ve-Endokrin-Pankreas-T%C3%BCm%C3%B6rleri49.png)
 

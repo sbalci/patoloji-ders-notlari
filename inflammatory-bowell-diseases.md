@@ -3,11 +3,11 @@ Serdar Balcı
 
 ![](./img-local/Inflammatory-Bowell-Diseases0.jpg)
 
-# Inflammatory Bowell Diseases
+## Inflammatory Bowell Diseases
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# Inflammatory bowel disease (IBD)
+## Inflammatory bowel disease (IBD)
 
 **Chronic condition**
 
@@ -31,7 +31,7 @@ Serdar Balcı
 
 **Robbins Basic Pathology**
 
-# IBD
+## IBD
 
 - **More common in females**
 - **Frequently present during adolescence or in young adults**
@@ -47,7 +47,7 @@ Serdar Balcı
     limit mucosal immune responses early in life**
   - **inappropriate immune responses**
 
-# The cause(s) of IBD remains uncertain
+## The cause(s) of IBD remains uncertain
 
 **Combination of errant host interactions with intestinal microbiota**
 
@@ -55,7 +55,7 @@ Serdar Balcı
 
 **Aberrant mucosal immune responses**
 
-# Genetics
+## Genetics
 
 - **Risk of disease is increased when there is an affected family
   member**
@@ -93,7 +93,7 @@ Serdar Balcı
 
 - **None of these genes are associated with ulcerative colitis**
 
-# Mucosal immune responses
+## Mucosal immune responses
 
 - **Immunosuppressive and immunomodulatory agents remain mainstays of
   IBD therapy**
@@ -114,7 +114,7 @@ disease**
 **Polymorphisms of the IL-10 gene, IL10 receptor gene, have been linked
 to ulcerative colitis but not Crohn disease**
 
-# Epithelial defects
+## Epithelial defects
 
 - **Defects in intestinal epithelial tight junction barrier function**
   - **in patients with Crohn disease and a subset of their healthy
@@ -128,7 +128,7 @@ to ulcerative colitis but not Crohn disease**
   - **abnormal in patients with Crohn disease carrying ATG16L1
     mutations**
 
-# Microbiota
+## Microbiota
 
 - **Intestinal microbiota contribute to IBD pathogenesis**
   - **Metronidazole, can be helpful in maintenance of remission in Crohn
@@ -146,7 +146,7 @@ to ulcerative colitis but not Crohn disease**
 
 ![](./img-local/Inflammatory-Bowell-Diseases6.png)
 
-# Crohn Disease
+## Crohn Disease
 
 - **Regional enteritis**
 - **May occur in any area of the gastrointestinal tract**
@@ -213,7 +213,7 @@ coarsely textured (“cobblestone”) mucosa with fissures**
 
 **Robbins Basic Pathology**
 
-# Active Crohn disease
+## Active Crohn disease
 
 **Abundant neutrophils infiltrate and damage crypt epithelium**
 
@@ -236,7 +236,7 @@ shapes and unusual orientations to one another**
 
 **Robbins Basic Pathology**
 
-# Crohn disease
+## Crohn disease
 
 - **Epithelial metaplasia**
   - **chronic relapsing injury**
@@ -312,7 +312,7 @@ shapes and unusual orientations to one another**
 
 **Robbins Basic Pathology**
 
-# Ulcerative Colitis
+## Ulcerative Colitis
 
 - **Limited to the colon and rectum**
 - **Extraintestinal manifestations of ulcerative colitis overlap with
@@ -388,7 +388,7 @@ normal (top)**
   - **Colonic dilation**
   - **Significant risk of perforation**
 
-# Histologic features of Ulcerative Colitis
+## Histologic features of Ulcerative Colitis
 
 ![](./img-local/Inflammatory-Bowell-Diseases23.png)
 
@@ -405,7 +405,7 @@ normal (top)**
 
 **Robbins Basic Pathology**
 
-# Ulcerative Colitis
+## Ulcerative Colitis
 
 - **In severe cases**
   - **Mucosal damage may be accompanied by ulcers that extend more
@@ -425,14 +425,14 @@ normal (top)**
 **Colectomy cures intestinal disease, but extraintestinal manifestations
 may persist**
 
-# Indeterminate Colitis
+## Indeterminate Colitis
 
 **Histopathologic and clinical overlap between ulcerative colitis and
 Crohn disease is common**
 
 **Not possible to make a distinction in up to 10% of patients with IBD**
 
-# Colitis-Associated Neoplasia
+## Colitis-Associated Neoplasia
 
 - **Long-term complications of ulcerative colitis and colonic Crohn
   disease**

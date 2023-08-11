@@ -3,11 +3,11 @@ Serdar Balcı
 
 ![](./img-local/CNS-Tumors0.jpg)
 
-# Central Nervous System Tumors
+## Central Nervous System Tumors
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# CNS Tumors
+## CNS Tumors
 
 - **Annual incidence of CNS tumors**
   - **10-17/100,000 persons intracranial tumors**
@@ -18,7 +18,7 @@ Serdar Balcı
   - **likely to arise in the posterior fossa**
   - **in adults, mostly supratentorial**
 
-# Characteristics of CNS tumors
+## Characteristics of CNS tumors
 
 - **Do not have detectable premalignant or in situ stages like
   carcinomas**
@@ -36,7 +36,7 @@ Serdar Balcı
   - **Local infiltration**
   - **Spread in subarachnoid space**
 
-# CNS Tumors
+## CNS Tumors
 
 - **Tumors of the CNS may arise from**
 - **Cells of the coverings**
@@ -48,11 +48,11 @@ Serdar Balcı
 - **Elsewhere in the body**
   - **metastases**
 
-# Classification of CNS Tumors
+## Classification of CNS Tumors
 
 ![](./img-local/CNS-Tumors1.jpg)
 
-# Cell of Origin based classification
+## Cell of Origin based classification
 
 ![](./img-local/CNS-Tumors2.png)
 
@@ -66,7 +66,7 @@ Serdar Balcı
 
 ![](./img-local/CNS-Tumors7.png)
 
-# The most important feature for differential diagnosis
+## The most important feature for differential diagnosis
 
 **Localization, localization, localization …**
 
@@ -78,7 +78,7 @@ Serdar Balcı
 
 **Genetic features**
 
-# Localisation of CNS tumors
+## Localisation of CNS tumors
 
 - **Distinct types of tumors affect specific brain regions**
   - **Cerebellum → medulloblastoma**
@@ -87,7 +87,7 @@ Serdar Balcı
   - **Pediatric age → medulloblastoma, pilocytic astrocytomas**
   - **Older patients → glioblastoma, lymphoma**
 
-# Spread of CNS tumors
+## Spread of CNS tumors
 
 **Metastatic spread of brain tumors to other regions of the body is
 rare**
@@ -98,7 +98,7 @@ rare**
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# Grading of CNS tumors
+## Grading of CNS tumors
 
 **Grading is based on histological subtype**
 
@@ -114,9 +114,9 @@ rare**
 
 **Progression can be seen**
 
-# GLIOMAS
+## GLIOMAS
 
-# Gliomas
+## Gliomas
 
 - **Tumors of the brain parenchyma**
 - **Resemblance to different types of glial cells**
@@ -128,7 +128,7 @@ rare**
   - **astrocytic, oligodendroglial, and mixed forms**
 - **Ependymomas form solid masses**
 
-# Grading of CNS gliomas
+## Grading of CNS gliomas
 
 **Increasing tumor malignancy is associated with more cytologic
 anaplasia, increased cell density, necrosis, and mitotic activity**
@@ -141,7 +141,7 @@ anaplasia, increased cell density, necrosis, and mitotic activity**
 
 **Grade IV tumors**
 
-# Astrocytoma
+## Astrocytoma
 
 - **Pilocytic astrocytomas**
   - **Grade I**
@@ -155,7 +155,7 @@ anaplasia, increased cell density, necrosis, and mitotic activity**
     - **Necrosis**
     - **Microvascular (endothelial) proliferation**
 
-# Pilocytic Astrocytoma, Grade I
+## Pilocytic Astrocytoma, Grade I
 
 - **Benign tumor**
 - **Affecting children and young adults**
@@ -178,7 +178,7 @@ anaplasia, increased cell density, necrosis, and mitotic activity**
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# Pilocytic Astrocytoma
+## Pilocytic Astrocytoma
 
 - **Activating mutations in the serine-threonine kinase BRAF**
   - **a partial tandem duplication event**
@@ -206,7 +206,7 @@ often present**
 
 ![](./img-local/CNS-Tumors12.png)
 
-# Diffuse Astrocytomas
+## Diffuse Astrocytomas
 
 - **80% of adult gliomas**
 - **Fourth-sixth decades of life**
@@ -279,7 +279,7 @@ forming a discrete mass**
 
 **Brain Tumor Pathol (2011) 28:177–183**
 
-# Defects in tricyclic carbon cycle
+## Defects in tricyclic carbon cycle
 
 ![](./img-local/CNS-Tumors21.png)
 
@@ -293,7 +293,7 @@ forming a discrete mass**
 
 **N Engl J Med 2009;360:765-73.**
 
-# Well-differentiated astrocytomas
+## Well-differentiated astrocytomas
 
 **Mild to moderate increase in the number of glial cell nuclei**
 
@@ -308,7 +308,7 @@ fibrillary appearance**
 **Tumor cells can be seen infiltrating normal tissue many centimeters
 from the main lesion**
 
-# Anaplastic astrocytomas, Grade III
+## Anaplastic astrocytomas, Grade III
 
 **More densely cellular**
 
@@ -320,7 +320,7 @@ from the main lesion**
 
 **Practical Surgical Neuropathology**
 
-# Glioblastoma, Grade IV
+## Glioblastoma, Grade IV
 
 **Loss-of-function mutations in the p53 and Rb tumor suppressor
 pathways**
@@ -335,7 +335,7 @@ lower-grade astrocytomas**
 diagnostic tool in evaluating biopsy specimens for the presence of
 low-grade astrocytoma**
 
-# Glioblastoma
+## Glioblastoma
 
 - **Appearance similar to that of anaplastic astrocytoma AND**
 - **Necrosis**
@@ -387,9 +387,9 @@ cell nuclei**
 
 **Practical Surgical Neuropathology**
 
-# OLIGODENDROGLIOMA
+## OLIGODENDROGLIOMA
 
-# Oligodendroglioma
+## Oligodendroglioma
 
 - **5-15% of gliomas**
 - **Fourth-fifth decades**
@@ -423,7 +423,7 @@ chemotherapy and radiotherapy**
 
 ![](./img-local/CNS-Tumors31.png)
 
-# Well-differentiated oligodendrogliomas(WHO grade II/IV)
+## Well-differentiated oligodendrogliomas(WHO grade II/IV)
 
 - **Infiltrative tumors**
 - **Gelatinous, gray masses**
@@ -438,7 +438,7 @@ chemotherapy and radiotherapy**
   - **ranges in extent from microscopic foci to massive depositions**
 - **Mitotic activity usually is difficult to detect**
 
-# Anaplastic oligodendroglioma (WHO grade III/IV)
+## Anaplastic oligodendroglioma (WHO grade III/IV)
 
 **More aggressive subtype**
 
@@ -448,9 +448,9 @@ chemotherapy and radiotherapy**
 
 **Mitotic activity**
 
-# EPENDYMOMA
+## EPENDYMOMA
 
-# Ependymoma
+## Ependymoma
 
 - **Arise next to**
   - **the ependyma-lined ventricular system**
@@ -483,7 +483,7 @@ chemotherapy and radiotherapy**
   - **tumor cells are arranged around vessels with an intervening zone
     containing thin ependymal processes**
 
-# Anaplastic ependymoma
+## Anaplastic ependymoma
 
 **Increased cell density**
 
@@ -497,11 +497,11 @@ chemotherapy and radiotherapy**
 
 **Robbins Basic Pathology**
 
-# NEURONAL TUMORS
+## NEURONAL TUMORS
 
-# Neuronal Tumors
+## Neuronal Tumors
 
-# Central neurocytoma
+## Central neurocytoma
 
 **Low-grade neoplasm**
 
@@ -513,7 +513,7 @@ chemotherapy and radiotherapy**
 
 **Islands of neuropil**
 
-# Ganglioglioma
+## Ganglioglioma
 
 - **Manifest with seizures**
 - **Slow-growing**
@@ -524,7 +524,7 @@ chemotherapy and radiotherapy**
 - **Glial component occasionally becomes anaplastic**
   - **then progresses rapidly**
 
-# Dysembryoplastic neuroepithelial tumor (DNET)
+## Dysembryoplastic neuroepithelial tumor (DNET)
 
 - **Low-grade childhood tumor**
 - **Grows slowly**
@@ -539,9 +539,9 @@ chemotherapy and radiotherapy**
 - **Well-differentiated “floating” neurons within pools of
   mucopolysaccharide-rich myxoid fluid**
 
-# EMBRYONAL (PRIMITIVE) NEOPLASMS
+## EMBRYONAL (PRIMITIVE) NEOPLASMS
 
-# Embryonal (Primitive) Neoplasms
+## Embryonal (Primitive) Neoplasms
 
 - **Neuroectodermal origin**
 - **Primitive “small round cell” appearance**
@@ -550,7 +550,7 @@ chemotherapy and radiotherapy**
 - **Differentiation is often limited**
 - **May progress along multiple lineages**
 
-# Medulloblastoma
+## Medulloblastoma
 
 - **Most common Embryonal (Primitive) Neoplasm**
 - **20% of pediatric brain tumors**
@@ -608,7 +608,7 @@ leptomeninges**
 
 **-delicate pink material formed by neuronal processes**
 
-# Genetic of medulloblastoma
+## Genetic of medulloblastoma
 
 - **Morphologically similar tumors commonly exhibit distinct
   alterations**
@@ -622,9 +622,9 @@ leptomeninges**
   - **has a critical role in tumorigenesis but an uncertain relationship
     to outcome**
 
-# LYMPHOMAS
+## LYMPHOMAS
 
-# Primary CNS Lymphoma
+## Primary CNS Lymphoma
 
 - **Mostly diffuse large B cell lymphoma**
 - **2% of extranodal lymphomas**
@@ -654,9 +654,9 @@ leptomeninges**
 - **Malignant cells accumulate around blood vessels**
 - **Infiltrate the surrounding brain parenchyma**
 
-# GERM CELL TUMORS
+## GERM CELL TUMORS
 
-# Primary brain germ cell tumors
+## Primary brain germ cell tumors
 
 - **Occur along the midline**
   - **Most commonly in the pineal and the suprasellar regions**
@@ -670,9 +670,9 @@ leptomeninges**
   - **resembles testicular seminoma**
 - **Metastatic gonadal germ cell tumors also occur**
 
-# MENINGIOMA
+## MENINGIOMA
 
-# Meningioma
+## Meningioma
 
 - **Predominantly benign tumors**
 - **Arise from arachnoid meningothelial cells**
@@ -728,7 +728,7 @@ leptomeninges**
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# Histologic patterns of Meningioma
+## Histologic patterns of Meningioma
 
 - **Syncytial**
   - **whorled clusters of cells without visible cell membranes that sit
@@ -747,7 +747,7 @@ leptomeninges**
 
 **Robbins Basic Pathology**
 
-# Atypical meningiomas(WHO grade II/IV)
+## Atypical meningiomas(WHO grade II/IV)
 
 **prominent nucleoli**
 
@@ -763,7 +763,7 @@ leptomeninges**
 
 **Require therapy in addition to surgery**
 
-# Anaplastic (malignant) meningiomas(WHO grade III/IV)
+## Anaplastic (malignant) meningiomas(WHO grade III/IV)
 
 **Highly aggressive tumors**
 
@@ -771,9 +771,9 @@ leptomeninges**
 
 **usually some histologic evidence of a meningothelial cell origin**
 
-# METASTATIC TUMORS
+## METASTATIC TUMORS
 
-# Metastatic Tumors
+## Metastatic Tumors
 
 **Mostly carcinomas**
 
@@ -792,7 +792,7 @@ microscopic level as well, with surrounding reactive gliosis**
 
 **Direct and localized effects**
 
-# 
+## 
 
 **Metastatic spread of brain tumors to other regions of the body is
 rare**
@@ -815,7 +815,7 @@ presence of melanin**
 
 **Robbins Basic Pathology**
 
-# Paraneoplastic syndromes
+## Paraneoplastic syndromes
 
 - **Subacute cerebellar degeneration**
   - **result in ataxia**
@@ -833,9 +833,9 @@ presence of melanin**
   - **associated with ovarian teratoma**
   - **antibodies against the N-methyl-d-aspartate (NMDA) receptor**
 
-# FAMILIAL TUMOR SYNDROMES
+## FAMILIAL TUMOR SYNDROMES
 
-# Tuberous Sclerosis (TSC)
+## Tuberous Sclerosis (TSC)
 
 - **Autosomal dominant**
 - **Development of hamartomas and benign neoplasms involving the brain
@@ -882,7 +882,7 @@ presence of melanin**
   - **abundant eosinophilic cytoplasm (like gemistocytic astrocytes)**
   - **Similar cells are present in the subependymal nodules**
 
-# von Hippel–Lindau Disease
+## von Hippel–Lindau Disease
 
 - **Autosomal dominant disorder**
 - **Hemangioblastoma**
@@ -920,7 +920,7 @@ presence of melanin**
 
 **Autopsy Pathology: A Manual and Atlas**
 
-<span style="color:#E72E09">Distribution of CNS Tumors</span>
+<span style="color:##E72E09">Distribution of CNS Tumors</span>
 
 ![](./img-local/CNS-Tumors45.jpg)
 
@@ -930,7 +930,7 @@ presence of melanin**
 
 **Glioma of the brainstem – pilocytic astrocytoma**
 
-# GBM. Note the prominent vascularity as well as the area of necrosis at the left with neoplastic cells palisading around it (pseudopalisading necrosis\*).
+## GBM. Note the prominent vascularity as well as the area of necrosis at the left with neoplastic cells palisading around it (pseudopalisading necrosis\*).
 
 ![](./img-local/CNS-Tumors47.jpg)
 
@@ -938,12 +938,12 @@ presence of melanin**
 
 ![](./img-local/CNS-Tumors49.jpg)
 
-# Here is an ependymoma arising from the ependymal lining of the fourth ventricle above the brainstem and bulging toward the cerebellum.
+## Here is an ependymoma arising from the ependymal lining of the fourth ventricle above the brainstem and bulging toward the cerebellum.
 
 ![](./img-local/CNS-Tumors50.jpg)
 
-# This horizontal (CT scan) section of the brain reveals a large ependymoma of the fourth ventricle.
+## This horizontal (CT scan) section of the brain reveals a large ependymoma of the fourth ventricle.
 
 ![](./img-local/CNS-Tumors51.jpg)
 
-# Irregular posterior fossa mass (medulloblastoma) - near the midline of the cerebellum and extending into the fourth ventricle above the brainstem
+## Irregular posterior fossa mass (medulloblastoma) - near the midline of the cerebellum and extending into the fourth ventricle above the brainstem

@@ -3,11 +3,11 @@ Serdar Balcı
 
 ![](./img-local/Ekzokrin-Pankreas-Hastal%C4%B1klar%C4%B10.jpg)
 
-# Ekzokrin Pankreas Hastalıkları
+## Ekzokrin Pankreas Hastalıkları
 
-# Dr. Serdar BALCI
+## Dr. Serdar BALCI
 
-# Pankreas
+## Pankreas
 
 - **Ekzokrin organ**
   - **Asiner hücreler**
@@ -21,7 +21,7 @@ Serdar Balcı
   - **Langerhans adacıkları**
   - **insulin, glukagon, somatostatin**
 
-# İnhibitors of autodigestion of the pancreas
+## İnhibitors of autodigestion of the pancreas
 
 **Pancreatic enzymes are synthesized as inactive proenzymes**
 
@@ -38,7 +38,7 @@ trypsin inhibitor) are secreted by acinar and ductal cells**
 **Acinar cells are remarkably resistant to the action of activated
 enzymes**
 
-# Kistik Fibrozis
+## Kistik Fibrozis
 
 ![](./img-local/Ekzokrin-Pankreas-Hastal%C4%B1klar%C4%B11.png)
 
@@ -68,9 +68,9 @@ tıkalı, parenkim atrofik ve fibröz doku gelişimi**
 
 **Robbins and Cotran Pathologic Basis of Disease**
 
-# KONJENITAL ANOMALILER
+## KONJENITAL ANOMALILER
 
-# Agenezis
+## Agenezis
 
 **Çok nadir**
 
@@ -80,7 +80,7 @@ tıkalı, parenkim atrofik ve fibröz doku gelişimi**
 
 **Pancreatic duodenal homeobox 1, PDX1**
 
-# Pankreas divisum
+## Pankreas divisum
 
 **En sık klinik olarak önemli konjenital anomali**
 
@@ -96,7 +96,7 @@ tıkalı, parenkim atrofik ve fibröz doku gelişimi**
 
 ![](./img-local/Ekzokrin-Pankreas-Hastal%C4%B1klar%C4%B16.png)
 
-# Anüler pankreas
+## Anüler pankreas
 
 **Pankreas füzyon defekti**
 
@@ -104,7 +104,7 @@ tıkalı, parenkim atrofik ve fibröz doku gelişimi**
 
 **Duodenal obstrüksiyon bulguları**
 
-# Ektopik pankreas
+## Ektopik pankreas
 
 **Popülasyonun %2’sinde**
 
@@ -125,7 +125,7 @@ tıkalı, parenkim atrofik ve fibröz doku gelişimi**
 **Pankreatik nöroendokrin tümörlerin %2Si ektopik pankreas dokusundan
 gelişiyor**
 
-# Konjenital kistler
+## Konjenital kistler
 
 **Pankreatik duktusların anormal gelişimi**
 
@@ -143,9 +143,9 @@ gelişiyor**
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# PANKREATIT
+## PANKREATIT
 
-# Akut Pankreatit
+## Akut Pankreatit
 
 - **Geri dönüşebilen inflamatuar bir hastalık**
 - **Ciddiyeti değişken**
@@ -161,7 +161,7 @@ gelişiyor**
 
 **Robbins Basic Pathology**
 
-# Akut pankreatitin diğer nedenleri
+## Akut pankreatitin diğer nedenleri
 
 - **Taş dışı nedenli pankreatik duktus tıkanıklığı**
   - **Ampüller bölge tümörleri, pankreas kanseri, pankreatik divizum,
@@ -188,7 +188,7 @@ gelişiyor**
       parçalayıp inaktif hale getiremiyor**
 - **Akut pankreatitlerin %10-20’si idiopatik**
 
-# Akut pankreatit
+## Akut pankreatit
 
 **Mikrovasküler hasar, ödem**
 
@@ -246,7 +246,7 @@ and peripancreatic fat**
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# Akut pankreatitin patogenezi
+## Akut pankreatitin patogenezi
 
 - **Uygunsuz oalrak aktive olan enzimlerle pankreas parankiminin kendini
   sindirmesi**
@@ -311,7 +311,7 @@ pro-inflamatuar sitokin salgılarlar**
 
 **Robbins Basic Pathology**
 
-# Alkol tüketimi değişik mekanizmalarla etki edebilir
+## Alkol tüketimi değişik mekanizmalarla etki edebilir
 
 **Pankreas ekzokrin sekresyonunu arttırır**
 
@@ -329,7 +329,7 @@ pro-inflamatuar sitokin salgılarlar**
 
 **Pankreatik kanal obstrüksiyonu**
 
-# Komplikasyonlar
+## Komplikasyonlar
 
 - **Dissemine İntravasküler koagülasyon**
 - **ARDS (acute respiratory distress syndrome)**
@@ -350,7 +350,7 @@ pro-inflamatuar sitokin salgılarlar**
 
 **Robbins and Cotran Pathologic Basis of Diseases**
 
-# Pankreatik psödokistler
+## Pankreatik psödokistler
 
 - **Akut pankreatitin sekeli**
 
@@ -401,7 +401,7 @@ chronic inflammation.**
 
 **Robbins Basic Pathology**
 
-# Kronik Pankreatit
+## Kronik Pankreatit
 
 - **Uzun süren inflamasyon**
 - **Fibrozis**
@@ -475,7 +475,7 @@ squamous metaplasia, and ductal concretions may be noted**
 
 **Robbins Basic Pathology**
 
-# Otoimmün pankreatit
+## Otoimmün pankreatit
 
 - **Pankreasta lenfoplazmasitik hücreler**
   - **IgG4 pozitif**
@@ -487,7 +487,7 @@ squamous metaplasia, and ductal concretions may be noted**
 - **Pankreas kanserini taklit eder**
 - **Steroide cevap verir**
 
-# Pathogenesis of chronic pancreatitis
+## Pathogenesis of chronic pancreatitis
 
 - **Ductal obstruction by concretions**
   - **agents (alcohol) increase the protein concentration of pancreatic

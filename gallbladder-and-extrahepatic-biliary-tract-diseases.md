@@ -3,15 +3,15 @@ Serdar Balcı
 
 ![](./img-local/Gallbladder-and-Extrahepatic-Biliary-Tract-Diseases0.jpg)
 
-# Gallbladder and Extrahepatic Biliary Tract Diseases
+## Gallbladder and Extrahepatic Biliary Tract Diseases
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
 ![](./img-local/Gallbladder-and-Extrahepatic-Biliary-Tract-Diseases1.png)
 
-# GALLBLADDER DISEASES
+## GALLBLADDER DISEASES
 
-# Congenital Anomalies
+## Congenital Anomalies
 
 **Agenesis**
 
@@ -29,7 +29,7 @@ Serdar Balcı
 
 ![](./img-local/Gallbladder-and-Extrahepatic-Biliary-Tract-Diseases3.jpg)
 
-# Cholelithiasis (Gallstones)
+## Cholelithiasis (Gallstones)
 
 - **10-20% of adults in Western countries in the Northern Hemisphere**
 - **20-40% in Latin American countries**
@@ -59,7 +59,7 @@ Serdar Balcı
   - **Aggregation into stones**
 - **Precipitates are primarily insoluble calcium bilirubinate salts**
 
-# Risk Factors for Cholelithiasis
+## Risk Factors for Cholelithiasis
 
 - **80% no identifiable risk factors other than age and gender**
 - **Prevalence increases throughout life**
@@ -89,7 +89,7 @@ Serdar Balcı
 
 ![](./img-local/Gallbladder-and-Extrahepatic-Biliary-Tract-Diseases7.png)
 
-# Cholesterol stones
+## Cholesterol stones
 
 **Most common in gallbladder**
 
@@ -120,7 +120,7 @@ impart gray-white to black discoloration**
 
 ![](./img-local/Gallbladder-and-Extrahepatic-Biliary-Tract-Diseases10.png)
 
-# Pigment stones
+## Pigment stones
 
 - **Anywhere in the biliary tree**
 - **Lesser amounts of other calcium salts, mucin glycoproteins, and
@@ -142,7 +142,7 @@ impart gray-white to black discoloration**
 
 ![](./img-local/Gallbladder-and-Extrahepatic-Biliary-Tract-Diseases11.png)
 
-# Cholelithiasis (Gallstones)
+## Cholelithiasis (Gallstones)
 
 - **70-80% asymptomatic throughout life**
 - **pain, often excruciating**
@@ -172,14 +172,14 @@ impart gray-white to black discoloration**
 
 ![](./img-local/Gallbladder-and-Extrahepatic-Biliary-Tract-Diseases15.png)
 
-# Cholecystitis
+## Cholecystitis
 
 - **Inflammation of the gallbladder**
 - **Acute, chronic, or acute superimposed on chronic**
 - **Almost always occurs in association with gallstones**
   - **epidemiologic distribution closely parallels that of gallstones**
 
-# Acute cholecystitis
+## Acute cholecystitis
 
 - **Gallbladder usually is enlarged and tense**
 - **A bright red or blotchy, violaceous color**
@@ -203,7 +203,7 @@ impart gray-white to black discoloration**
   - **Frank abscess formation**
   - **Gangrenous necrosis**
 
-# Acute Calculous Cholecystitis
+## Acute Calculous Cholecystitis
 
 **Acute inflammation of a gallbladder with stones**
 
@@ -247,7 +247,7 @@ impart gray-white to black discoloration**
 - **Dehydration, gallbladder stasis and sludging, vascular compromise,
   bacterial contamination**
 
-# Chronic Cholecystitis
+## Chronic Cholecystitis
 
 **Changes are sometimes subtle**
 
@@ -295,9 +295,9 @@ impart gray-white to black discoloration**
 
 **Robbins and Cotran Pathologic Basis of Diseases**
 
-# DISORDERS OF EXTRAHEPATIC BILE DUCTS
+## DISORDERS OF EXTRAHEPATIC BILE DUCTS
 
-# Choledocholithiasis
+## Choledocholithiasis
 
 - **Choledocholithiasis and Cholangitis frequently occur together**
 - **Choledocholithiasis**
@@ -322,7 +322,7 @@ impart gray-white to black discoloration**
 
 **Acute calculous cholecystitis**
 
-# Cholangitis
+## Cholangitis
 
 - **Acute inflammation of the wall of bile ducts**
 
@@ -360,7 +360,7 @@ impart gray-white to black discoloration**
   - **purulent bile fills and distends bile ducts**
   - **risk of liver abscess formation**
 
-# Secondary Biliary Cirrhosis
+## Secondary Biliary Cirrhosis
 
 - **Prolonged obstruction of the extrahepatic biliary tree may cause
   damage to the liver**
@@ -375,7 +375,7 @@ impart gray-white to black discoloration**
   - **leads to scarring and nodule formation**
   - **generating secondary biliary cirrhosis**
 
-# Biliary Atresia
+## Biliary Atresia
 
 **Major cause of neonatal cholestasis**
 
@@ -392,7 +392,7 @@ impart gray-white to black discoloration**
 **more than half of the referrals of children for liver
 transplantation**
 
-# Features of biliary atresia
+## Features of biliary atresia
 
 - **Inflammation and fibrosing stricture of the hepatic or common bile
   ducts**
@@ -403,9 +403,9 @@ transplantation**
     parenchymal cholestasis**
 - **Periportal fibrosis and cirrhosis within 3 to 6 months of birth**
 
-# TUMORS
+## TUMORS
 
-# Carcinoma of the Gallbladder
+## Carcinoma of the Gallbladder
 
 - **Most frequent malignant tumor of the biliary tract**
 
@@ -482,7 +482,7 @@ transplantation**
 
 ![](./img-local/Gallbladder-and-Extrahepatic-Biliary-Tract-Diseases22.png)
 
-# Cholangiocarcinomas
+## Cholangiocarcinomas
 
 - **Adenocarcinomas**
 - **Arise from cholangiocytes lining the intrahepatic and extrahepatic

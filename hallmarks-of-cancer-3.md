@@ -3,17 +3,17 @@ Serdar Balcı
 
 ![](./img-local/Hallmarks-of-Cancer-30.jpg)
 
-# Hallmarks of Cancer-3
+## Hallmarks of Cancer-3
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
 ![](./img-local/Hallmarks-of-Cancer-31.jpg)
 
-# ABILITY TO INVADE AND METASTASIZE
+## ABILITY TO INVADE AND METASTASIZE
 
 ![](./img-local/Hallmarks-of-Cancer-32.png)
 
-# Metastatic Cascade
+## Metastatic Cascade
 
 **Local invasion**
 
@@ -31,7 +31,7 @@ Serdar Balcı
 
 ![](./img-local/Hallmarks-of-Cancer-33.png)
 
-# Invasion of Extracellular Matrix (ECM)
+## Invasion of Extracellular Matrix (ECM)
 
 - **Tumors interact with different matrix elements**
   - **Basement membrane**
@@ -43,7 +43,7 @@ Serdar Balcı
 
 ![](./img-local/Hallmarks-of-Cancer-34.png)
 
-# Invasion of Epithelial Basement Membrane
+## Invasion of Epithelial Basement Membrane
 
 **Loosening of tumor cells**
 
@@ -134,7 +134,7 @@ Serdar Balcı
 
 ![](./img-local/Hallmarks-of-Cancer-312.png)
 
-# Vascular DisseminationHoming of Tumor Cells
+## Vascular DisseminationHoming of Tumor Cells
 
 **Robbins Basic Pathology**
 
@@ -155,7 +155,7 @@ Serdar Balcı
 
 **Robbins Basic Pathology**
 
-# SNAIL and TWIST
+## SNAIL and TWIST
 
 - **Transcription factors**
 - **Promote epithelial-to-mesenchymal transition (EMT)**
@@ -205,7 +205,7 @@ Serdar Balcı
 
 **Robbins Basic Pathology**
 
-# Homing - Organ tropism
+## Homing - Organ tropism
 
 **Metastasis occur according to dissemination site and vascular
 pathway**
@@ -258,9 +258,9 @@ in metastasis. April 1, 2016**
 
 ![](./img-local/Hallmarks-of-Cancer-332.jpg)
 
-# REPROGRAMMING ENERGY METABOLISM
+## REPROGRAMMING ENERGY METABOLISM
 
-# O2 metabolism
+## O2 metabolism
 
 - **Shifts from mitochondrial to glycolysis**
   - **Even when O** **2** \_\_ is enough\_\_
@@ -275,11 +275,11 @@ in metastasis. April 1, 2016**
 **The Scientist Metabolic Reprogramming How cancer cells fuel their
 rapid growth April 1, 2016**
 
-# 
+## 
 
 **http://www.youtube.com/watch?v=kYmLQP2M-qo**
 
-# Defects in tricyclic carbon cycle
+## Defects in tricyclic carbon cycle
 
 ![](./img-local/Hallmarks-of-Cancer-334.png)
 
@@ -303,9 +303,9 @@ rapid growth April 1, 2016**
 
 ![](./img-local/Hallmarks-of-Cancer-336.jpg)
 
-# EVASION OF THE IMMUNE SYSTEM
+## EVASION OF THE IMMUNE SYSTEM
 
-# Evasion of the Immune System
+## Evasion of the Immune System
 
 **Most tumors arise in immunocompetent hosts**
 
@@ -343,9 +343,9 @@ rapid growth April 1, 2016**
 
 ![](./img-local/Hallmarks-of-Cancer-344.jpg)
 
-# GENOMIC INSTABILITY AS AN ENABLER OF MALIGNANCY
+## GENOMIC INSTABILITY AS AN ENABLER OF MALIGNANCY
 
-# DNA repair
+## DNA repair
 
 - **DNA repair is defected in some inherited cancer syndromes**
 - **Normal DNA repair systems:**
@@ -369,7 +369,7 @@ rapid growth April 1, 2016**
 
 **http://www.nobelprize.org/**
 
-# Hereditary Nonpolyposis Colon Cancer Syndrome
+## Hereditary Nonpolyposis Colon Cancer Syndrome
 
 **Familial carcinomas of the cecum and proximal colon**
 
@@ -381,7 +381,7 @@ rapid growth April 1, 2016**
 
 **Microsatellite instability (MSI) occurs**
 
-# Xeroderma Pigmentosum
+## Xeroderma Pigmentosum
 
 **Ultraviolet rays in sunlight cause cross-linking of pyrimidine
 residues**
@@ -390,7 +390,7 @@ residues**
 
 **Inherited loss of this repair causes many skin tumors**
 
-# Diseases with Defects in DNA Repair by Homologous Recombination
+## Diseases with Defects in DNA Repair by Homologous Recombination
 
 **Autosomal recessive**
 
@@ -401,7 +401,7 @@ residues**
 **DNA cross-linking agents, such as nitrogen mustard (in Fanconi
 anemia)**
 
-# BRCA1 and BRCA2
+## BRCA1 and BRCA2
 
 **DNA repair genes**
 
@@ -419,7 +419,7 @@ and men have a slightly higher risk of prostate cancer**
 men and women, as well as cancer of the ovary, prostate, pancreas, bile
 ducts, stomach, melanocytes, and B lymphocytes**
 
-# Cancers Resulting From Mutations Induced by Regulated Genomic Instability: Lymphoid Neoplasms
+## Cancers Resulting From Mutations Induced by Regulated Genomic Instability: Lymphoid Neoplasms
 
 **A special type of DNA damage plays a central role in the pathogenesis
 of tumors of B and T lymphocytes. As described earlier, adaptive
@@ -434,9 +434,9 @@ somatic hypermutation**
 
 ![](./img-local/Hallmarks-of-Cancer-349.jpg)
 
-# TUMOR-PROMOTING INFLAMMATION AS ENABLER OF MALIGNANCY
+## TUMOR-PROMOTING INFLAMMATION AS ENABLER OF MALIGNANCY
 
-# Inflammation, Friend or Enemy
+## Inflammation, Friend or Enemy
 
 - **Persistent chronic inflammation cause tumor**
 - **Increased risk of malignancy in**
@@ -458,7 +458,7 @@ somatic hypermutation**
   - **Increase DNA damage**
   - **Increase epithelial-mesenchymal transition**
 
-# Specific Drugs for Specific FeaturesTargetted Therapy
+## Specific Drugs for Specific FeaturesTargetted Therapy
 
 ![](./img-local/Hallmarks-of-Cancer-350.png)
 

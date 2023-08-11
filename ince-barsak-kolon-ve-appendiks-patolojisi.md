@@ -3,11 +3,11 @@ Serdar Balcı
 
 ![](./img-local/%C4%B0nce-Barsak%2C-Kolon-ve-Appendiks-Patolojisi0.jpg)
 
-# İnce Barsak, Kolon ve Appendiks Patolojisi
+## İnce Barsak, Kolon ve Appendiks Patolojisi
 
-# Dr. Serdar BALCI
+## Dr. Serdar BALCI
 
-# Barsaklar
+## Barsaklar
 
 - **Barsaklar yabancı maddelerin olduğu dış yüzey ile temas halindedir**
   - **Yiyecekler, bakteriler**
@@ -25,9 +25,9 @@ Serdar Balcı
 - **Sistemik hastalıklara maruz**
 - **Tümör**
 
-# BARSAK OBSTRÜKSIYONU
+## BARSAK OBSTRÜKSIYONU
 
-# Barsak Obstrüksiyonu
+## Barsak Obstrüksiyonu
 
 - **Herhangi bir seviyede olabilir**
 - **İnce barsak en sık olan yer**
@@ -79,9 +79,9 @@ girer**
 
 **Robbins Basic Pathology**
 
-# HIRSCHSPRUNG HASTALIĞI
+## HIRSCHSPRUNG HASTALIĞI
 
-# Hirschsprung Hastalığı
+## Hirschsprung Hastalığı
 
 **1:5000 canlı doğum**
 
@@ -102,7 +102,7 @@ girer**
 **Aganglionik segmentin cerrahirezeksiyonu ve normal kolonun rektuma
 anastomozu**
 
-# Hirschsprung HastalığıKonjenital aganglionik megakolon
+## Hirschsprung HastalığıKonjenital aganglionik megakolon
 
 - **Enterik Nöronal Pleksus**
 - **Nöral krest hücreleri embriyogenez sırasında barsak duvarına
@@ -132,9 +132,9 @@ anastomozu**
 - **Etkilenen bölgedeki ganglion hücrelerinin yokluğunun gösterilmesi
   ile tanı konur**
 
-# ABDOMINAL HERNI
+## ABDOMINAL HERNI
 
-# Abdominal Herni
+## Abdominal Herni
 
 ![](./img-local/%C4%B0nce-Barsak%2C-Kolon-ve-Appendiks-Patolojisi9.png)
 
@@ -173,9 +173,9 @@ anastomozu**
   kısımın hacmi artar→kalıcı sıkışma, inkarserasyon → arterial ve venöz
   dolşaım bozukluğu, strangülasyon→ infarkt**
 
-# İSKEMIK BARSAK HASTALIĞI
+## İSKEMIK BARSAK HASTALIĞI
 
-# İskemik Barsak Hastalığı
+## İskemik Barsak Hastalığı
 
 - **İskemik hasar**
 - **Mukozal infarkt**
@@ -338,7 +338,7 @@ görülebilir**
     hastalığa neden oluyor**
   - **Immünsüpresif tedavinin komplikasyonu**
 
-# Radyasyon enterekoliti
+## Radyasyon enterekoliti
 
 **Epitelyal hasar**
 
@@ -347,7 +347,7 @@ olur**
 
 **Stromada belirgin bizar “radyasyon fibroblastları” görülür**
 
-# Nekrotizan enterokolit
+## Nekrotizan enterokolit
 
 **İnce ve kalın barsakların akut bir hastalığı**
 
@@ -361,7 +361,7 @@ olur**
 
 **Patogenezinde iskemik hasarın etken olduğu düşünülür**
 
-# Anjiodisplazi
+## Anjiodisplazi
 
 - **Malforme submukozal ve mukozal damarlar**
 - **Çekum ve sağ kolon**
@@ -369,9 +369,9 @@ olur**
 - **Erişkin popülasyonda prevelansı \<%1**
   - **Majör alt GIS kanamalarının %20’sinde etken**
 
-# DIVERTIKÜLIT
+## DIVERTIKÜLIT
 
-# Divertikülit
+## Divertikülit
 
 - **Akkiz psödodivertiküler mukozal ve submukozal çıkıntılar**
 - **\<30 yaş nadir**
@@ -434,7 +434,7 @@ olur**
 - **Hypertrophy of the circular layer of the muscularis propria in the
   affected bowel segment**
 
-# Diverticulitis
+## Diverticulitis
 
 - **Divertikülün obstrüksiyonu→ İnflamasyon→ Divertikülit ve
   peridivertikülit→ Perforasyon**
@@ -448,13 +448,13 @@ olur**
 
 ![](./img-local/%C4%B0nce-Barsak%2C-Kolon-ve-Appendiks-Patolojisi25.png)
 
-# Meckel Divertikülü
+## Meckel Divertikülü
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# HEMOROID
+## HEMOROID
 
-# Hemoroid
+## Hemoroid
 
 - **Toplumun %5’inde**
 
@@ -488,9 +488,9 @@ olur**
 
 - **İnflamasyon, tromboz ve rekanalizasyon**
 
-# APPENDIKS
+## APPENDIKS
 
-# Akut Appendisit
+## Akut Appendisit
 
 - **Adolesan ve genç erişkinlerde**
 

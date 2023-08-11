@@ -3,11 +3,11 @@ Serdar Balcı
 
 ![](./img-local/Atelectasis-and-Acute-Lung-Injury0.jpg)
 
-# Atelectasis and Acute Lung Injury
+## Atelectasis and Acute Lung Injury
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# Lungs
+## Lungs
 
 - **Bronchi**
 - **Bronchioles**
@@ -71,7 +71,7 @@ Serdar Balcı
 
 **Robbins Basic Pathology**
 
-# Alveoli
+## Alveoli
 
 - **Alveolar walls**
   - **Not solid**
@@ -82,9 +82,9 @@ Serdar Balcı
   - **Lie free within the alveolar space**
   - **Phagocytosed carbon particles**
 
-# ATELECTASIS
+## ATELECTASIS
 
-# Atelectasis
+## Atelectasis
 
 **Collapse**
 
@@ -101,7 +101,7 @@ veins**
 
 ![](./img-local/Atelectasis-and-Acute-Lung-Injury5.png)
 
-# Resorption atelectasis
+## Resorption atelectasis
 
 **Obstruction prevents air from reaching distal airways**
 
@@ -141,7 +141,7 @@ veins**
 
 ![](./img-local/Atelectasis-and-Acute-Lung-Injury8.png)
 
-# Compression atelectasis
+## Compression atelectasis
 
 - **Passive or relaxation atelectasis**
 - **Accumulation within the pleural cavity**
@@ -175,7 +175,7 @@ veins**
 
 ![](./img-local/Atelectasis-and-Acute-Lung-Injury11.png)
 
-# Contraction atelectasis
+## Contraction atelectasis
 
 **Cicatrization atelectasis**
 
@@ -187,9 +187,9 @@ veins**
 
 **Robbins Basic Pathology**
 
-# PULMONARY EDEMA
+## PULMONARY EDEMA
 
-# Pulmonary Edema
+## Pulmonary Edema
 
 **Leakage and accumulation of excessive interstitial fluid in the
 alveolar space**
@@ -206,9 +206,9 @@ alveolar space**
 
 ![](./img-local/Atelectasis-and-Acute-Lung-Injury14.png)
 
-# ACUTE LUNG INJURY
+## ACUTE LUNG INJURY
 
-# Acute lung Injury
+## Acute lung Injury
 
 - **Endothelial and epithelial pulmonary damage**
 - **Clinically**
@@ -219,7 +219,7 @@ alveolar space**
     radiograph**
 - **No primary left-sided heart failure**
 
-# Acute Respiratory Distress Syndrome (ARDS)
+## Acute Respiratory Distress Syndrome (ARDS)
 
 - **Diffuse alveolar capillary and epithelial damage**
   - **Rapid onset**
@@ -234,11 +234,11 @@ alveolar space**
 
 **Robbins Basic Pathology**
 
-# Respiratory distress syndrome of the newborn
+## Respiratory distress syndrome of the newborn
 
 **Caused by a primary deficiency of surfactant**
 
-# Acute Respiratory Distress Syndrome (ARDS)
+## Acute Respiratory Distress Syndrome (ARDS)
 
 - **The alveolar-capillary membrane has two separate barriers**
   - **Microvascular endothelium**
@@ -262,7 +262,7 @@ alveolar space**
 
 ![](./img-local/Atelectasis-and-Acute-Lung-Injury18.png)
 
-# 1. Endothelial activation
+## 1. Endothelial activation
 
 - **30 minutes after acute insult**
 - **Macrophages**
@@ -274,7 +274,7 @@ alveolar space**
 
 ![](./img-local/Atelectasis-and-Acute-Lung-Injury19.png)
 
-# 2. Adhesion and extravasation of neutrophils
+## 2. Adhesion and extravasation of neutrophils
 
 - **Neutrophils**
   - **sequestration in the pulmonary microvasculature**
@@ -289,7 +289,7 @@ alveolar space**
 
 ![](./img-local/Atelectasis-and-Acute-Lung-Injury20.png)
 
-# 3. Accumulation of intraalveolar fluid and formation of hyaline membranes
+## 3. Accumulation of intraalveolar fluid and formation of hyaline membranes
 
 - **Activated neutrophils release**
   - **Leukotrienes**
@@ -306,7 +306,7 @@ alveolar space**
 
 ![](./img-local/Atelectasis-and-Acute-Lung-Injury21.png)
 
-# 4. Resolution of Injury
+## 4. Resolution of Injury
 
 - **Macrophage**
   - **TGF-β, PGDF**
@@ -318,7 +318,7 @@ alveolar space**
 
 **Robbins Basic Pathology**
 
-# Acute phase of ARDS
+## Acute phase of ARDS
 
 - **Lungs are dark red, firm, airless, and heavy**
 - **Microscopic examination**
@@ -352,7 +352,7 @@ alveolar space**
 
 ![](./img-local/Atelectasis-and-Acute-Lung-Injury24.png)
 
-# Hyaline membranes
+## Hyaline membranes
 
 **Fibrin-rich edema fluid**
 
@@ -360,7 +360,7 @@ alveolar space**
 
 **Similar to respiratory distress syndrome in the newborn**
 
-# Resolution of Injury and Organizing stage
+## Resolution of Injury and Organizing stage
 
 **Proliferation of type II pneumocytes**
 

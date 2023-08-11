@@ -3,11 +3,11 @@ Serdar Balcı
 
 ![](./img-local/General-Features-of-Pathology-of-Liver0.jpg)
 
-# General Features of Pathology of Liver
+## General Features of Pathology of Liver
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# Liver
+## Liver
 
 - **1400-1600 gr**
 - **Dual blood supply**
@@ -68,15 +68,15 @@ Serdar Balcı
 
 ![](./img-local/General-Features-of-Pathology-of-Liver14.png)
 
-# LIVER INJURY
+## LIVER INJURY
 
-# Degenerative, potentially reversible changes
+## Degenerative, potentially reversible changes
 
 **Accumulation of fat (steatosis)**
 
 **Accumulation of bilirubin (cholestasis)**
 
-# When injury is not reversible:Necrosis or Apoptosis
+## When injury is not reversible:Necrosis or Apoptosis
 
 - **Necrosis**
   - **Ischemic/hypoxic injury**
@@ -86,7 +86,7 @@ Serdar Balcı
   - **Councilman bodies (yellow fever)**
   - **Acidophil bodies**
 
-# Necrosis
+## Necrosis
 
 - **Confluent necrosis**
   - **a severe, zonal loss of hepatocytes**
@@ -141,7 +141,7 @@ tracts. Portal tracts are remnants, often with no portal vein**
 
 ![](./img-local/General-Features-of-Pathology-of-Liver22.png)
 
-# Regeneration of lost hepatocytes
+## Regeneration of lost hepatocytes
 
 - **Occurs primarily by mitotic replication of hepatocytes adjacent to
   those that have died, even when there is significant confluent
@@ -162,7 +162,7 @@ tracts. Portal tracts are remnants, often with no portal vein**
 
 **Robbins and Cotran Pathologic Basis of Disease**
 
-# Scar Formation and Regression
+## Scar Formation and Regression
 
 - **Principal cell type involved in scar deposition is the hepatic
   stellate cell**
@@ -194,13 +194,13 @@ tracts. Portal tracts are remnants, often with no portal vein**
 
 **Robbins Basic Pathology**
 
-# ACUTE HEPATITIS
+## ACUTE HEPATITIS
 
 ![](./img-local/General-Features-of-Pathology-of-Liver29.png)
 
 **Robbins Basic Pathology**
 
-# Acute Hepatitis
+## Acute Hepatitis
 
 - **Mild acute hepatitis gross inspection**
 
@@ -298,13 +298,13 @@ necrosis is seen in the perivenular region (zone 3)**
 
 **Robbins and Cotran’s Pathological Basis of Diseases**
 
-# CHRONIC HEPATITIS
+## CHRONIC HEPATITIS
 
 ![](./img-local/General-Features-of-Pathology-of-Liver40.png)
 
 **Robbins Basic Pathology**
 
-# Chronic Hepatitis
+## Chronic Hepatitis
 
 **Portal inflammation in acute hepatitis is minimal or absent**
 
@@ -340,7 +340,7 @@ leads to the development of cirrhosis**
 
 ![](./img-local/General-Features-of-Pathology-of-Liver45.png)
 
-# Grading and Staging of Chronic Hepatitis
+## Grading and Staging of Chronic Hepatitis
 
 - **Staging**
   - **Accessing the severity of fibrosis**

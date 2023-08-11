@@ -3,11 +3,11 @@ Serdar Balcı
 
 ![](./img-local/Chronic-Interstitial-Lung-Diseases0.jpg)
 
-# Chronic Interstitial Lung Diseases
+## Chronic Interstitial Lung Diseases
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# Chronic Interstitial Lung Diseases
+## Chronic Interstitial Lung Diseases
 
 **Chronic Interstitial (Restrictive, Infiltrative) Lung Diseases**
 
@@ -35,13 +35,13 @@ Serdar Balcı
 
 ![](./img-local/Chronic-Interstitial-Lung-Diseases2.png)
 
-# FIBROSING DISEASES
+## FIBROSING DISEASES
 
 ![](./img-local/Chronic-Interstitial-Lung-Diseases3.png)
 
-# IDIOPATHIC PULMONARY FIBROSIS
+## IDIOPATHIC PULMONARY FIBROSIS
 
-# Idiopathic Pulmonary Fibrosis
+## Idiopathic Pulmonary Fibrosis
 
 - *Cryptogenic fibrosing alveolitis*
 - **Unknown etiology**
@@ -154,9 +154,9 @@ myxoid extracellular matrix. Honeycombing is present to the left.**
 
 ![](./img-local/Chronic-Interstitial-Lung-Diseases13.png)
 
-# NONSPECIFIC INTERSTITIAL PNEUMONIA
+## NONSPECIFIC INTERSTITIAL PNEUMONIA
 
-# Nonspecific Interstitial Pneumonia
+## Nonspecific Interstitial Pneumonia
 
 **Chronic bilateral interstitial lung disease**
 
@@ -178,9 +178,9 @@ myxoid extracellular matrix. Honeycombing is present to the left.**
 
 ![](./img-local/Chronic-Interstitial-Lung-Diseases14.png)
 
-# CRYPTOGENIC ORGANIZING PNEUMONIA
+## CRYPTOGENIC ORGANIZING PNEUMONIA
 
-# Cryptogenic Organizing Pneumonia
+## Cryptogenic Organizing Pneumonia
 
 **Bronchiolitis obliterans organizing pneumonia (BOOP)**
 
@@ -208,9 +208,9 @@ myxoid extracellular matrix. Honeycombing is present to the left.**
 
 ![](./img-local/Chronic-Interstitial-Lung-Diseases16.png)
 
-# PULMONARY INVOLVEMENT IN COLLAGEN VASCULAR DISEASES
+## PULMONARY INVOLVEMENT IN COLLAGEN VASCULAR DISEASES
 
-# Pulmonary Involvement inCollagen Vascular Diseases
+## Pulmonary Involvement inCollagen Vascular Diseases
 
 - **Systemic lupus erythematosus, rheumatoid arthritis, systemic
   sclerosis, dermatomyositis-polymyositis**
@@ -222,9 +222,9 @@ myxoid extracellular matrix. Honeycombing is present to the left.**
 
 ![](./img-local/Chronic-Interstitial-Lung-Diseases17.png)
 
-# PNEUMOCONIOSES
+## PNEUMOCONIOSES
 
-# Pneumoconioses
+## Pneumoconioses
 
 - **Non-neoplastic lung reaction to inhalation of mineral dusts**
   - **coal dust, silica, asbestos**
@@ -259,7 +259,7 @@ myxoid extracellular matrix. Honeycombing is present to the left.**
 - **Tobacco smoking worsens the effects of all inhaled dusts**
   - **espescially with asbestos**
 
-# Coal Worker’s Pneumoconiosis
+## Coal Worker’s Pneumoconiosis
 
 - **Pulmonary anthracosis**
   - **Most innocuous coal-induced pulmonary lesion in coal miners**
@@ -301,7 +301,7 @@ pneumoconiosis**
   - **No increased frequency of lung carcinoma in coal miners**
     - **Different from silica and asbestos exposures**
 
-# Silicosis
+## Silicosis
 
 - **Most prevalent chronic occupational disease in the world**
 - **Inhalation of crystalline silica, in occupational settings**
@@ -375,7 +375,7 @@ silicosis**
   - **The relationship between silica exposure and subsequent lung
     cancer is controversial**
 
-# Asbestosis andAsbestos-Related Diseases
+## Asbestosis andAsbestos-Related Diseases
 
 **Occupational exposure to asbestos**
 
@@ -403,7 +403,7 @@ silicosis**
 
 **Robbins Basic Pathology**
 
-# Asbestos
+## Asbestos
 
 **Concentration, size, shape, and solubility of the different forms of
 asbestos affect pathogenesis**
@@ -416,7 +416,7 @@ asbestos affect pathogenesis**
 
 **Both are pathogenic for all diseases**
 
-# Serpentine
+## Serpentine
 
 **Fiber is curly and flexible**
 
@@ -429,7 +429,7 @@ mucociliary elevator**
 **Those that are trapped in the lungs are gradually leached from the
 tissues, because they are more soluble than amphiboles **
 
-# Amphibole
+## Amphibole
 
 **Fiber is straight, stiff, and brittle**
 
@@ -438,7 +438,7 @@ tissues, because they are more soluble than amphiboles **
 **Align themselves in the airstream → delivered deeper into the lungs →
 penetrate epithelial cells to reach the interstitium**
 
-# Both forms cause disease
+## Both forms cause disease
 
 - **Increasing exposure to either form**
   - **associated with a higher incidence of all asbestos-related
@@ -450,7 +450,7 @@ penetrate epithelial cells to reach the interstitium**
   - **Potentially toxic chemicals adsorbed onto the asbestos fibers**
     - **Tobacco smoking**
 
-# Asbestosis
+## Asbestosis
 
 **Diffuse pulmonary interstitial fibrosis**
 
@@ -458,7 +458,7 @@ penetrate epithelial cells to reach the interstitium**
 
 **Except for the presence of asbestos bodies**
 
-# Asbestos Bodies
+## Asbestos Bodies
 
 - **Golden brown, fusiform or beaded rods with a translucent center**
 - **Coated with an iron-containing proteinaceous material**
@@ -472,7 +472,7 @@ penetrate epithelial cells to reach the interstitium**
 
 **Robbins Basic Pathology**
 
-# Asbestosis
+## Asbestosis
 
 - **Begins in the lower lobes and subpleurally**
   - **In contrast with CWP and silicosis**
@@ -500,7 +500,7 @@ diaphragmatic surface**
 
 ![](./img-local/Chronic-Interstitial-Lung-Diseases27.png)
 
-# Pleural plaques
+## Pleural plaques
 
 **Most common manifestation of asbestos exposure**
 
@@ -523,7 +523,7 @@ pleural fibrosis.**
 
 ![](./img-local/Chronic-Interstitial-Lung-Diseases28.png)
 
-# Asbestosis
+## Asbestosis
 
 **End stage lung and heart diseases**
 
@@ -536,9 +536,9 @@ carcinoma but not that of mesothelioma**
 
 ![](./img-local/Chronic-Interstitial-Lung-Diseases29.png)
 
-# DRUG- AND RADIATION-INDUCED PULMONARY DISEASES
+## DRUG- AND RADIATION-INDUCED PULMONARY DISEASES
 
-# Bleomycin
+## Bleomycin
 
 **Anticancer agent**
 
@@ -548,13 +548,13 @@ carcinoma but not that of mesothelioma**
 
 **Stimulating the influx of inflammatory cells into the alveoli**
 
-# Amiodarone
+## Amiodarone
 
 **An antiarrhythmic agent**
 
 **Associated with risk for pneumonitis and fibrosis**
 
-# Radiation pneumonitis
+## Radiation pneumonitis
 
 - **Complication of therapeutic irradiation of pulmonary and other
   thoracic tumors**
@@ -571,13 +571,13 @@ carcinoma but not that of mesothelioma**
 
 ![](./img-local/Chronic-Interstitial-Lung-Diseases30.png)
 
-# GRANULOMATOUS DISEASES
+## GRANULOMATOUS DISEASES
 
 ![](./img-local/Chronic-Interstitial-Lung-Diseases31.png)
 
-# SARCOIDOSIS
+## SARCOIDOSIS
 
-# Sarcoidosis
+## Sarcoidosis
 
 - **A multisystem disease**
 
@@ -645,7 +645,7 @@ carcinoma but not that of mesothelioma**
   - **Viruses, mycobacteria, Borrelia, pollen**
   - **No proof**
 
-# Histopathologic feature of sarcoidosis
+## Histopathologic feature of sarcoidosis
 
 - **Noncaseating epithelioid granuloma, irrespective of the organ
   involved**
@@ -681,7 +681,7 @@ cells**
 
 ![](./img-local/Chronic-Interstitial-Lung-Diseases35.jpg)
 
-# Sarcoidosis
+## Sarcoidosis
 
 - **Skin**
   - **Erythema nodosum**
@@ -702,9 +702,9 @@ cells**
 
 ![](./img-local/Chronic-Interstitial-Lung-Diseases36.png)
 
-# HYPERSENSITIVITY PNEUMONITIS
+## HYPERSENSITIVITY PNEUMONITIS
 
-# Hypersensitivity Pneumonitis
+## Hypersensitivity Pneumonitis
 
 **Allergic alveolitis**
 
@@ -748,9 +748,9 @@ characteristic**
 
 ![](./img-local/Chronic-Interstitial-Lung-Diseases39.png)
 
-# PULMONARY EOSINOPHILIA
+## PULMONARY EOSINOPHILIA
 
-# Pulmonary Eosinphilia
+## Pulmonary Eosinphilia
 
 **Infiltration and activation of eosinophils**
 
@@ -758,7 +758,7 @@ characteristic**
 
 **Diverse diseases of immunologic origin**
 
-# Acute eosinophilic pneumonia with respiratory failure
+## Acute eosinophilic pneumonia with respiratory failure
 
 **Rapid onset of fever, dyspnea, hypoxia**
 
@@ -767,7 +767,7 @@ characteristic**
 **Bronchoalveolar lavage fluid typically contains more than 25%
 eosinophils Prompt response to corticosteroids**
 
-# Simple pulmonary eosinophilia
+## Simple pulmonary eosinophilia
 
 **Loeffler syndrome**
 
@@ -785,7 +785,7 @@ and occasional giant cells**
   - **Drug allergies**
   - **Vasculitis**
 
-# Idiopathic chronic eosinophilic pneumonia
+## Idiopathic chronic eosinophilic pneumonia
 
 **Aggregates of lymphocytes and eosinophils within the septal walls and
 the alveolar spaces**
@@ -794,9 +794,9 @@ the alveolar spaces**
 
 ![](./img-local/Chronic-Interstitial-Lung-Diseases40.png)
 
-# SMOKING-RELATED INTERSTITIAL DISEASES
+## SMOKING-RELATED INTERSTITIAL DISEASES
 
-# Smoking-Related Interstitial Diseases
+## Smoking-Related Interstitial Diseases
 
 - **Obstructive pulmonary disease**
   - **Emphysema**
@@ -805,7 +805,7 @@ the alveolar spaces**
   - **Desquamative interstitial pneumonia (DIP)**
   - **Respiratory bronchiolitis**
 
-# Desquamative interstitial pneumonia
+## Desquamative interstitial pneumonia
 
 **Accumulation of large numbers of macrophages**
 
@@ -832,7 +832,7 @@ spaces, **
 - **Good prognosis with excellent response to steroid therapy and
   smoking cessation**
 
-# Respiratory bronchiolitis
+## Respiratory bronchiolitis
 
 **Pigmented intraluminal macrophages similar to DIP**
 

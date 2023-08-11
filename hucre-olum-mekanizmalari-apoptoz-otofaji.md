@@ -3,9 +3,9 @@ Serdar Balcı
 
 ![](./img-local/H%C3%BCcre-%C3%96l%C3%BCm-Mekanizmalar%C4%B1-Apoptoz-Otofaji0.jpg)
 
-# Hücre Ölüm Mekanizmaları
+## Hücre Ölüm Mekanizmaları
 
-# Dr. Serdar BALCI
+## Dr. Serdar BALCI
 
 ![](./img-local/H%C3%BCcre-%C3%96l%C3%BCm-Mekanizmalar%C4%B1-Apoptoz-Otofaji1.png)
 
@@ -39,7 +39,7 @@ Serdar Balcı
 
 ![](./img-local/H%C3%BCcre-%C3%96l%C3%BCm-Mekanizmalar%C4%B1-Apoptoz-Otofaji8.png)
 
-# SHRINKAGE/HYPERCHROMASIA
+## SHRINKAGE/HYPERCHROMASIA
 
 **medicalschoolpathology.com**
 
@@ -47,9 +47,9 @@ Serdar Balcı
 
 **Core Pathology , Third Edition**
 
-# APOPTOZ
+## APOPTOZ
 
-# Apoptoz (dağılma)
+## Apoptoz (dağılma)
 
 **Bir hücre ölüm yolağı**
 
@@ -59,21 +59,21 @@ Serdar Balcı
 
 **Hücreden fragmanlar tomurcuklanarak ayrılır**
 
-# Apoptoz
+## Apoptoz
 
 - **Plazma membranı intakt (bozulmadan) kalır**
 - **Membranların yüzeyinde fagositleri uyaran sinyaller vardır**
 - **Hücre içeriği dışarıya sızmaz**
   - **Inflamatuar cevap yoktur**
 
-# Apoptoz erken evre
+## Apoptoz erken evre
 
 ![](./img-local/H%C3%BCcre-%C3%96l%C3%BCm-Mekanizmalar%C4%B1-Apoptoz-Otofaji10.png)
 
 **Wheater’s Basic Pathology: A Text, Atlas and Review of Histopathology
 , Fifth Edition**
 
-# Apoptoz geç evre
+## Apoptoz geç evre
 
 ![](./img-local/H%C3%BCcre-%C3%96l%C3%BCm-Mekanizmalar%C4%B1-Apoptoz-Otofaji11.png)
 
@@ -82,7 +82,7 @@ Serdar Balcı
 **Wheater’s Basic Pathology: A Text, Atlas and Review of Histopathology
 , Fifth Edition**
 
-# Apoptozu kontrol eden faktörler
+## Apoptozu kontrol eden faktörler
 
 - *İnhibitörler*
   - **Büyüme faktörleri, ekstraselüler hücre matriksi, steroidler, viral
@@ -92,13 +92,13 @@ Serdar Balcı
     glukokortikoidler, bazı virüsler, serbest radikaller, iyonlaştırıcı
     radyasyon, DNA hasarı, “ölüm reseptörlerine” ligand bağlanması**
 
-# Apoptoz nedenleri
+## Apoptoz nedenleri
 
 **Fizyolojik**
 
 **Patolojik**
 
-# Apoptozun fizyolojik nedenleri
+## Apoptozun fizyolojik nedenleri
 
 ![](./img-local/H%C3%BCcre-%C3%96l%C3%BCm-Mekanizmalar%C4%B1-Apoptoz-Otofaji13.jpg)
 
@@ -124,9 +124,9 @@ Serdar Balcı
 
 **Hücre, doku ve organizmadaki olası ileri hasarı engellemek için**
 
-# Apoptozun patolojik nedenleri
+## Apoptozun patolojik nedenleri
 
-# Apoptozun patolojik nedenleriDNA hasarı
+## Apoptozun patolojik nedenleriDNA hasarı
 
 - **Radyasyon, sitotoksik antineoplastik ilaçlar, ekstrem sıcaklıklar,
   hipoksi**
@@ -137,19 +137,19 @@ Serdar Balcı
 - **Bazı antineoplastik ilaçlar DNA’ya hasar vererek hücreyi apoptoza
   zorlar**
 
-# Apoptozun patolojik nedenleriHatalı katlanan proteinler
+## Apoptozun patolojik nedenleriHatalı katlanan proteinler
 
 **Hatalı katlanan proteinler ER’de birikir**
 
 **Apoptoz indüklenir**
 
-# Apoptozun patolojik nedenleriVirüsler
+## Apoptozun patolojik nedenleriVirüsler
 
 **Adenovirus ve HIV hücre ölümünü indükler**
 
 **Viral hepatit, konak cevabı hücre ölümünü tetikler**
 
-# Apoptozun patolojik nedenleriPatolojik atrofi
+## Apoptozun patolojik nedenleriPatolojik atrofi
 
 - **Duktus tıkanmasından sonra**
   - **Pankreas**
@@ -180,18 +180,18 @@ Serdar Balcı
 
 ![](./img-local/H%C3%BCcre-%C3%96l%C3%BCm-Mekanizmalar%C4%B1-Apoptoz-Otofaji16.png)
 
-**Apoptoz mekanizması ** <span style="color:#FF0000">kaspaz </span>
-**enzimleri ile ** <span style="color:#FF0000">iki yolakla</span> \_\_
+**Apoptoz mekanizması ** <span style="color:##FF0000">kaspaz </span>
+**enzimleri ile ** <span style="color:##FF0000">iki yolakla</span> \_\_
 olur\_\_
 
 ![](./img-local/H%C3%BCcre-%C3%96l%C3%BCm-Mekanizmalar%C4%B1-Apoptoz-Otofaji17.png)
 
 **Apoptotik ve anti-apoptotik sinyaller arası **
-<span style="color:#FF0000">denge</span> \_\_ vardır\_\_
+<span style="color:##FF0000">denge</span> \_\_ vardır\_\_
 
 ![](./img-local/H%C3%BCcre-%C3%96l%C3%BCm-Mekanizmalar%C4%B1-Apoptoz-Otofaji18.png)
 
-# Mitokondriyal (İç) yolak
+## Mitokondriyal (İç) yolak
 
 - **Uyarana cevap**
 - **Büyüme faktörlerinin kaybı**
@@ -220,7 +220,7 @@ olur\_\_
 
 ![](./img-local/H%C3%BCcre-%C3%96l%C3%BCm-Mekanizmalar%C4%B1-Apoptoz-Otofaji22.png)
 
-# Ölüm Reseptörü (Dış) Yolak
+## Ölüm Reseptörü (Dış) Yolak
 
 - **Ligand-bağlanması**
 - **Hücre yüzeyindeki ölüm reseptörleri**
@@ -248,7 +248,7 @@ olur\_\_
 **Bazı virsüler FLIP homologları üreterek infekte ettikleri hücreleri
 hayatta tutmaya çalışırlar**
 
-# Kaspazların aktivasyon ve fonksiyonları
+## Kaspazların aktivasyon ve fonksiyonları
 
 - **Mitokondriyal ve ölüm reseptör yolağında**
 - **Başlangıç kaspazları uyarılır**
@@ -260,7 +260,7 @@ hayatta tutmaya çalışırlar**
 - **Nükleer matrix ve hücre iskeleti yıkılır**
 - **Hücre fragmanlara ayrılır**
 
-# Apoptotik cisimciklerin temizlenmesi
+## Apoptotik cisimciklerin temizlenmesi
 
 - **Apoptotik cisimcikler üzerinde “beni ye” sinyalleri vardır**
   - **Normal hücre membranında fofotidilserine iç yüzeyde bulunur**
@@ -276,7 +276,7 @@ hayatta tutmaya çalışırlar**
 
 **İnflamatuar yanıt yoktur**
 
-# Apoptoz ve nekroz birlikte olabilir
+## Apoptoz ve nekroz birlikte olabilir
 
 - **DNA hasarında**
   - **poly-ADP(ribose) polimeraz aktive olur**
@@ -287,9 +287,9 @@ hayatta tutmaya çalışırlar**
   - **Erken dönem hücre ölümleri apoptotiktir**
   - **İskemi kötüleştikçe nekroz başlar**
 
-# APOPTOZ ÖRNEKLERİ
+## APOPTOZ ÖRNEKLERİ
 
-# Büyüme Faktörü Azalması
+## Büyüme Faktörü Azalması
 
 - **Hormon-sensitif hücreler (hormonlar)**
 - **Lenfositler (antijenler ve sitokinler)**
@@ -298,7 +298,7 @@ hayatta tutmaya çalışırlar**
   - **Bcl-2 ailesinin pro-apoptotik üyeleri aktive olur**
   - **Bcl-2 ve Bcl-xL sentezi azalır**
 
-# DNA Hasarı
+## DNA Hasarı
 
 - **Radyasyon, kemoterapötik ajanlar → DNA hasarı**
 - **p53 proteini hücre içinde birikir**
@@ -312,7 +312,7 @@ hayatta tutmaya çalışırlar**
   - **Mutasyonlar birikir**
   - **Neoplastik transformasyon oluşur**
 
-# Hatalı katlanan proteinlerin birikimiEndomplazmik Retikulum Stresi
+## Hatalı katlanan proteinlerin birikimiEndomplazmik Retikulum Stresi
 
 - **Normal protein sentezi**
   - **ER’deki şaperonlar yeni sentezlenen proteinlerin düzgün
@@ -337,14 +337,14 @@ hayatta tutmaya çalışırlar**
 
 ![](./img-local/H%C3%BCcre-%C3%96l%C3%BCm-Mekanizmalar%C4%B1-Apoptoz-Otofaji28.png)
 
-# Oto-reaktif hücrelerin apoptozu
+## Oto-reaktif hücrelerin apoptozu
 
 - **Oto-antijenleri tespit eden lenfositler normalde timusta üretilir**
 - **Oto-antijenlerle karşılaştıklarında bu hücreler apoptoza gider**
   - **Hem mitokondriyal hem de Fas yolağı aktive olur**
 - **Bu mekanizmadaki aksaklıklar otoimmün hastalıkların nedenidir**
 
-# Sitotoksik T-hücre ilişkili apoptoz
+## Sitotoksik T-hücre ilişkili apoptoz
 
 - **Sitotoksik T hücreleri infekte hücrelerin ve neoplastik hücrelerin
   yüzeyindeki antijenleri tespit eder**
@@ -357,7 +357,7 @@ hayatta tutmaya çalışırlar**
 
 ![](./img-local/H%C3%BCcre-%C3%96l%C3%BCm-Mekanizmalar%C4%B1-Apoptoz-Otofaji29.png)
 
-# Nekroptoz
+## Nekroptoz
 
 **Hem nekroz hem de apoptozun özelliklerini içerir**
 
@@ -405,7 +405,7 @@ tetiklenir**
 - **Konağın yedek koruyucu mekanizması**
   - **Kaspaz inhibitörü salgılayan (sitomegalovirüs) virüslere karşı**
 
-# Piroptoz
+## Piroptoz
 
 - **Mikroplarla infekte hücrelerde**
 - **Kaspaz-1 aktivasyonu**
@@ -416,13 +416,13 @@ tetiklenir**
 
 ![](./img-local/H%C3%BCcre-%C3%96l%C3%BCm-Mekanizmalar%C4%B1-Apoptoz-Otofaji32.png)
 
-# OTOFAJİ
+## OTOFAJİ
 
 ![](./img-local/H%C3%BCcre-%C3%96l%C3%BCm-Mekanizmalar%C4%B1-Apoptoz-Otofaji33.png)
 
 ![](./img-local/H%C3%BCcre-%C3%96l%C3%BCm-Mekanizmalar%C4%B1-Apoptoz-Otofaji34.png)
 
-# Otofaji: kendini yeme
+## Otofaji: kendini yeme
 
 - **Hücrenin kendine ait ögeleri lizozomlarla sindirmesi**
 - **Gıda eksikliğindeki bir hayatta kalma mekanizması**

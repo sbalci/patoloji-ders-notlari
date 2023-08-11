@@ -3,15 +3,15 @@ Serdar Balcı
 
 ![](./img-local/Kanserin-Ozellikleri-2-Metastaz0.jpg)
 
-# Kanserin Başlıca Özellikleri-2, Metastaz
+## Kanserin Başlıca Özellikleri-2, Metastaz
 
-# Dr. Serdar BALCI
+## Dr. Serdar BALCI
 
 ![](./img-local/Kanserin-Ozellikleri-2-Metastaz1.jpg)
 
-# SÜREGIDEN BIR ANJIOGENEZ OLUŞUMU
+## SÜREGIDEN BIR ANJIOGENEZ OLUŞUMU
 
-# Tümör Damarları
+## Tümör Damarları
 
 - **Damarsız ortamda tümörler ancak 1-2 mm büyüyebilirler**
 - **Kanser hücreleri ve büyük benign tümörler neo-anjiogenezi
@@ -24,7 +24,7 @@ Serdar Balcı
   - **Geniş, geçirgendir**
   - **Biribirlerine bağlantıları gelişigüzeldir**
 
-# Vaskülarizasyonun tümör üzerindeki etkisi
+## Vaskülarizasyonun tümör üzerindeki etkisi
 
 - **Oksijen ve metabolit ihtiyacını sağlar**
 - **Yeni endotel hücreleri, yanındaki tümör hücrelerinin büyümesini
@@ -34,7 +34,7 @@ Serdar Balcı
 - **Devam eden tümör büyümesi için gereklidir**
 - **Metastaz için gereklidir**
 
-# Anjiogenezdeki faktörler
+## Anjiogenezdeki faktörler
 
 - **Vascular endothelial growth factor (VEGF)**
   - **Anjiogenezi indükler**
@@ -47,7 +47,7 @@ Serdar Balcı
   - **İnflamatuar hücreler (makrofajlar)**
   - **Diğer tümör stromal hücreleri**
 
-# Production of Factors in Angiogenesis
+## Production of Factors in Angiogenesis
 
 - **Proteases**
   - **elaborated by the tumor cells directly or from stromal cells**
@@ -61,7 +61,7 @@ Serdar Balcı
 - **TSP-1 is produced by stromal fibroblasts themselves in response to
   signals from the tumor cells**
 
-# Normoksi
+## Normoksi
 
 **HIF-1α, hücrenin VEGF sentezini uyarır**
 
@@ -75,7 +75,7 @@ Serdar Balcı
 
 **Normal durumda VEGF sentezlenmez**
 
-# Hipoksi
+## Hipoksi
 
 **Tümör kritik bir boyuta ulaştığında olur**
 
@@ -92,7 +92,7 @@ Serdar Balcı
 **Anjiogenez inhibitörleri (Anti-VEGF antibody) tedavide
 kullanılmaktadır**
 
-# von Hippel–Lindau (VHL) sendromu
+## von Hippel–Lindau (VHL) sendromu
 
 - **VHL tümör supresör gen olarak çalışır**
 - **Germ hücre mutasyonu olduğunda**
@@ -104,11 +104,11 @@ kullanılmaktadır**
 
 ![](./img-local/Kanserin-Ozellikleri-2-Metastaz2.jpg)
 
-# INVAZYON VE METASTAZ KABILIYETI
+## INVAZYON VE METASTAZ KABILIYETI
 
 ![](./img-local/Kanserin-Ozellikleri-2-Metastaz3.png)
 
-# Metastatik Yol
+## Metastatik Yol
 
 **Lokal invazyon**
 
@@ -126,7 +126,7 @@ kullanılmaktadır**
 
 ![](./img-local/Kanserin-Ozellikleri-2-Metastaz4.png)
 
-# Ekstraselüler Matriksin İnvazyonu
+## Ekstraselüler Matriksin İnvazyonu
 
 - **Tümörler değişik matriksler ile karşılaşır**
   - **Bazal membran**
@@ -138,7 +138,7 @@ kullanılmaktadır**
 
 ![](./img-local/Kanserin-Ozellikleri-2-Metastaz5.png)
 
-# Epitel bazal membranın invazyonu
+## Epitel bazal membranın invazyonu
 
 **Tümör hücrelerinin gevşemesi**
 
@@ -173,7 +173,7 @@ kullanılmaktadır**
 
 ![](./img-local/Kanserin-Ozellikleri-2-Metastaz8.png)
 
-# 
+## 
 
 - **Tümör hücreleri**
   - **Kendileri proteolitik enzimleri salgılar**
@@ -230,7 +230,7 @@ kullanılmaktadır**
 
 ![](./img-local/Kanserin-Ozellikleri-2-Metastaz13.png)
 
-# Vasküler yayılım ve uzak organlara yerleşme (homing)
+## Vasküler yayılım ve uzak organlara yerleşme (homing)
 
 **Robbins Basic Pathology**
 
@@ -251,7 +251,7 @@ kullanılmaktadır**
 
 **Robbins Basic Pathology**
 
-# SNAIL ve TWIST
+## SNAIL ve TWIST
 
 - **Transkripsiyon Faktörleri**
 - **Epitelyal mezenkimal değişimi uyarır (EMT)**
@@ -303,7 +303,7 @@ kullanılmaktadır**
 
 **Robbins Basic Pathology**
 
-# Homing - Organ tropizmi
+## Homing - Organ tropizmi
 
 **Metastazlar genelde vasküler yolla uyumlu alanlara olur**
 
@@ -348,9 +348,9 @@ metastaz yaptığı organlarda görülür**
 
 ![](./img-local/Kanserin-Ozellikleri-2-Metastaz32.jpg)
 
-# ENERJI METABOLIZMASININ YENIDEN DÜZENLENMESI
+## ENERJI METABOLIZMASININ YENIDEN DÜZENLENMESI
 
-# O2 metabolizması
+## O2 metabolizması
 
 - **Mitokondriyel yıkımdan sitoplazmik glikolize geçiş**
   - **O** **2** \_\_ yeterli olduğunda da bu olur\_\_
@@ -361,11 +361,11 @@ metastaz yaptığı organlarda görülür**
 - **Pirüvat ATP kaynağı olarak değil de biyosentetik yolaklarda yapıtaşı
   olarak kullanılır**
 
-# 
+## 
 
 **http://www.youtube.com/watch?v=kYmLQP2M-qo**
 
-# Trisiklik karbon siklusundaki defektler
+## Trisiklik karbon siklusundaki defektler
 
 ![](./img-local/Kanserin-Ozellikleri-2-Metastaz33.png)
 
@@ -390,9 +390,9 @@ olur**
 
 ![](./img-local/Kanserin-Ozellikleri-2-Metastaz35.jpg)
 
-# IMMÜN SISTEMDEN KAÇIŞ
+## IMMÜN SISTEMDEN KAÇIŞ
 
-# İmmün Sistemden kaçış
+## İmmün Sistemden kaçış
 
 **Çoğu tümör immünkompetan kişilerde ortaya çıkar**
 
@@ -402,9 +402,9 @@ olur**
 
 ![](./img-local/Kanserin-Ozellikleri-2-Metastaz36.jpg)
 
-# GENOMIK INSTABILITE
+## GENOMIK INSTABILITE
 
-# DNA tamiri
+## DNA tamiri
 
 - **DNA tamiri bazı kalıtsal kanser sendromlarında bozuktur**
 - **Normal DNA tamir sistemleri:**
@@ -412,7 +412,7 @@ olur**
   - **Nükleotid eksizyon tamiri**
   - **Rekombinasyon tamiri**
 
-# Herediter nonpolipozis kolorektal karsinom sendromu
+## Herediter nonpolipozis kolorektal karsinom sendromu
 
 **Ailesel çekum ve proksimal kolon karsinomları**
 
@@ -424,7 +424,7 @@ olur**
 
 **Mikrosatellit instabilite (MSI) meydana gelir**
 
-# Xeroderma Pigmentosum
+## Xeroderma Pigmentosum
 
 **Güneşin UV ışıkları primidinlerde çapraz bağ oluşturur**
 
@@ -432,7 +432,7 @@ olur**
 
 **Bu mekanizmanın kalıtsal kaybında çok sayıda deri tümörleri görülür**
 
-# Diseases with Defects in DNA Repair by Homologous Recombination
+## Diseases with Defects in DNA Repair by Homologous Recombination
 
 **Autosomal recessive**
 
@@ -443,12 +443,12 @@ olur**
 **DNA cross-linking agents, such as nitrogen mustard (in Fanconi
 anemia)**
 
-# BRCA1 ve BRCA2
+## BRCA1 ve BRCA2
 
 **Herediter ve sporadik meme ve over tümörlerinde kaybı görülen DNA
 tamir genleri**
 
-# BRCA1 and BRCA2
+## BRCA1 and BRCA2
 
 **Genes involved in homologous recombination DNA repair pathway **
 
@@ -461,7 +461,7 @@ and men have a slightly higher risk of prostate cancer**
 men and women, as well as cancer of the ovary, prostate, pancreas, bile
 ducts, stomach, melanocytes, and B lymphocytes**
 
-# Cancers Resulting From Mutations Induced by Regulated Genomic Instability: Lymphoid Neoplasms
+## Cancers Resulting From Mutations Induced by Regulated Genomic Instability: Lymphoid Neoplasms
 
 **A special type of DNA damage plays a central role in the pathogenesis
 of tumors of B and T lymphocytes. As described earlier, adaptive
@@ -476,9 +476,9 @@ somatic hypermutation**
 
 ![](./img-local/Kanserin-Ozellikleri-2-Metastaz37.jpg)
 
-# TÜMÖRÜ DESTEKLEYEN INFLAMASYON
+## TÜMÖRÜ DESTEKLEYEN INFLAMASYON
 
-# İnflamasyon, Dost mu Düşman mı?
+## İnflamasyon, Dost mu Düşman mı?
 
 - **Süregiden kalıcı inflamasyon tümöre neden olur**
 - **Malignite riskini artıran inflamatuar durumlar**
@@ -500,7 +500,7 @@ somatic hypermutation**
   - **DNA hasarını artırıyor**
   - **Epitelyal- mezenkimal dönüşümü artırıyor**
 
-# Spesifik Özellikler için Spesifik İlaçlarHedefe Yönelik Tedavi
+## Spesifik Özellikler için Spesifik İlaçlarHedefe Yönelik Tedavi
 
 ![](./img-local/Kanserin-Ozellikleri-2-Metastaz38.png)
 

@@ -3,11 +3,11 @@ Serdar Balcı
 
 ![](./img-local/Intracellular-Accumulations-Cellular-Aging0.jpg)
 
-# Intracellular Accumulations and Cellular Aging
+## Intracellular Accumulations and Cellular Aging
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# Intracellular Accumulations
+## Intracellular Accumulations
 
 - **One of the mechanisms of disease formation**
 - **Cells may accumulate abnormal amounts of various substances**
@@ -17,7 +17,7 @@ Serdar Balcı
   - **In nucleus**
   - **May be exogenous or endogenous**
 
-# INTRACELLULAR ACCUMULATION MECHANISMS
+## INTRACELLULAR ACCUMULATION MECHANISMS
 
 ![](./img-local/Intracellular-Accumulations-Cellular-Aging1.png)
 
@@ -48,7 +48,7 @@ mechanisms of packaging and transport**
 
 **Carbon or silica particles**
 
-# Fatty Change (Steatosis)
+## Fatty Change (Steatosis)
 
 - **Abnormal accumulation of triglycerides within parenchymal cells**
 - **Most often seen in the liver**
@@ -68,7 +68,7 @@ mechanisms of packaging and transport**
 **Wheater’s Basic Pathology: A Text, Atlas and Review of Histopathology
 , Fifth Edition**
 
-# Cholesterol and Cholesteryl Esters
+## Cholesterol and Cholesteryl Esters
 
 - **Phagocytic cells may become overloaded with lipid**
   - **triglycerides, cholesterol, and cholesteryl esters **
@@ -76,7 +76,7 @@ mechanisms of packaging and transport**
 
 ![](./img-local/Intracellular-Accumulations-Cellular-Aging7.png)
 
-# Proteins
+## Proteins
 
 - **Excess proteins are presented to the cells**
 - **Cells synthesize excessive amounts**
@@ -97,7 +97,7 @@ mechanisms of packaging and transport**
 
 ![](./img-local/Intracellular-Accumulations-Cellular-Aging9.png)
 
-# Glycogen
+## Glycogen
 
 - **abnormalities in the metabolism of glucose or glycogen**
 - **poorly controlled diabetes mellitus**
@@ -106,9 +106,9 @@ mechanisms of packaging and transport**
 - **glycogen storage diseases, glycogenoses**
   - **genetic disorders**
 
-# PIGMENTS
+## PIGMENTS
 
-# Carbon
+## Carbon
 
 **coal dust**
 
@@ -138,7 +138,7 @@ tracheobronchial lymph nodes**
 
 **http://kobiljak.msu.edu/cai/HM561_Pathology/Injury/Lab1-Image23.html**
 
-# Lipofuscin “wear-and-tear pigment”
+## Lipofuscin “wear-and-tear pigment”
 
 **insoluble brownish-yellow granular intracellular material**
 
@@ -159,7 +159,7 @@ called brown atrophy**
 **By electron microscopy, the pigment appears as perinuclear
 electron-dense granules**
 
-# Melanin
+## Melanin
 
 **an endogenous, brown-black pigment**
 
@@ -175,7 +175,7 @@ electron-dense granules**
 
 **Differential Diagnosis in Surgical Pathology Figure 2-65: Blue Nevus**
 
-# Hemosiderin
+## Hemosiderin
 
 **hemoglobin-derived granular pigment**
 
@@ -199,13 +199,13 @@ micelles**
   - **hemosiderosis**
   - **hereditary hemochromatosis**
 
-# Other accumulations
+## Other accumulations
 
 **Amyloid**
 
 **Hyaline change**
 
-# 
+## 
 
 **Usually, the word hyaline is used descriptively to refer to an
 accumulation of pink, glassy material.** **Many processes can lead to
@@ -270,9 +270,9 @@ transfusions.**
 
 ![](./img-local/Intracellular-Accumulations-Cellular-Aging22.jpg)
 
-# PATHOLOGIC CALCIFICATION
+## PATHOLOGIC CALCIFICATION
 
-# Pathologic Calcification
+## Pathologic Calcification
 
 **Abnormal deposition of calcium salts**
 
@@ -288,7 +288,7 @@ transfusions.**
 - **Hypercalcemia is not a prerequisite for dystrophic calcification,
   but it can exacerbate it.**
 
-# Dystrophic Calcification
+## Dystrophic Calcification
 
 - **In areas of necrosis of any type**
 - **Atheromas of advanced atherosclerosis**
@@ -304,7 +304,7 @@ transfusions.**
 
 ![](./img-local/Intracellular-Accumulations-Cellular-Aging23.png)
 
-# Pathogenesis of dystrophic calcification
+## Pathogenesis of dystrophic calcification
 
 **initiation (or nucleation) and propagation**
 
@@ -312,7 +312,7 @@ transfusions.**
 
 **end product is crystalline calcium phosphate**
 
-# Initiation in extracellular sites
+## Initiation in extracellular sites
 
 - **Occurs in membrane-bound vesicles about 200 nm in diameter**
   - **in normal cartilage and bone they are known as matrix vesicles**
@@ -322,12 +322,12 @@ transfusions.**
 - **Phosphates accumulate as a result of the action of membrane-bound
   phosphatases**
 
-# Intracellular calcification
+## Intracellular calcification
 
 **in the mitochondria of dead or dying cells that have lost their
 ability to regulate intracellular calcium**
 
-# Propagation of crystal formation
+## Propagation of crystal formation
 
 - **depends on:**
   - **the concentration of Ca2+ and PO4−**
@@ -335,13 +335,13 @@ ability to regulate intracellular calcium**
   - **degree of collagenization**
     - **enhances the rate of crystal growth**
 
-# Metastatic calcification
+## Metastatic calcification
 
 **Occur in normal tissues**
 
 **There is hypercalcemia**
 
-# Causes of hypercalcemia
+## Causes of hypercalcemia
 
 - **Increased secretion of parathyroid hormone**
   - **primary parathyroid tumors**
@@ -362,14 +362,14 @@ ability to regulate intracellular calcium**
 - **Renal failure**
   - **Phosphate retention leads to secondary hyperparathyroidism**
 
-# Morphology of Calcification
+## Morphology of Calcification
 
 - **White granules or clumps, often felt as gritty deposits**
 - **Dystrophic calcification is common in caseous necrosis in
   tuberculosis**
   - **tuberculous lymph node is seen as a radiopaque stone**
 
-# Morphology
+## Morphology
 
 **intracellular and/or extracellular basophilic deposits**
 
@@ -381,9 +381,9 @@ ability to regulate intracellular calcium**
 
 **Peyronie disease. focal dystrophic calcification. **
 
-# CELLULAR AGING
+## CELLULAR AGING
 
-# Why do we age?
+## Why do we age?
 
 ![](./img-local/Intracellular-Accumulations-Cellular-Aging25.jpg)
 
@@ -394,7 +394,7 @@ ability to regulate intracellular calcium**
   pathways**
   - **observed from yeast to mammals**
 
-# DNA damage
+## DNA damage
 
 **Metabolic insults that accumulate over time**
 
@@ -411,7 +411,7 @@ damage are enhanced or proteins that stabilize DNA are introduced**
 
 **Role of free radicals remains controversial**
 
-# Decreased cellular replication
+## Decreased cellular replication
 
 - **Normal cells have a limited capacity for replication**
 - **Cells become arrested in a terminally nondividing state replicative
@@ -422,7 +422,7 @@ damage are enhanced or proteins that stabilize DNA are introduced**
   - **a rare disease characterized by premature aging**
   - **Cells have a markedly reduced in vitro life span**
 
-# Telomeres
+## Telomeres
 
 **short repeated sequences of DNA present at the ends of linear
 chromosomes**
@@ -437,14 +437,14 @@ DNA**
 
 ![](./img-local/Intracellular-Accumulations-Cellular-Aging26.png)
 
-# Telomerase
+## Telomerase
 
 **Telomere length is maintained by nucleotide addition**
 
 **a specialized RNA-protein complex that uses its own RNA as a template
 for adding nucleotides to the ends of chromosomes**
 
-# Telomerase activity
+## Telomerase activity
 
 - **present in germ cells**
 - **present at low levels in stem cells**
@@ -458,7 +458,7 @@ for adding nucleotides to the ends of chromosomes**
 
 ![](./img-local/Intracellular-Accumulations-Cellular-Aging27.png)
 
-# Defective protein homeostasis
+## Defective protein homeostasis
 
 - **increased turnover**
 - **decreased synthesis**

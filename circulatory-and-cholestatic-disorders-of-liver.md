@@ -3,13 +3,13 @@ Serdar Balcı
 
 ![](./img-local/Circulatory-and-Cholestatic-Disorders-of-Liver0.jpg)
 
-# Circulatory and Cholestatic Disorders of Liver
+## Circulatory and Cholestatic Disorders of Liver
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# CHOLESTATIC LIVER DISEASES
+## CHOLESTATIC LIVER DISEASES
 
-# Cholestasis
+## Cholestasis
 
 - **Impaired bile flow**
 - **Accumulation of bile pigment in the hepatic parenchyma**
@@ -45,7 +45,7 @@ Serdar Balcı
 
 ![](./img-local/Circulatory-and-Cholestatic-Disorders-of-Liver7.png)
 
-# Cholestatic Liver Diseases
+## Cholestatic Liver Diseases
 
 - **Primary hepatocellular dysfunction**
   - **neonatal cholestasis, drug cholestasis, sepsis**
@@ -85,7 +85,7 @@ spaces.**
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# Large bile duct obstruction
+## Large bile duct obstruction
 
 - **Associated with**
   - **Gallstones**
@@ -106,7 +106,7 @@ neutrophils**
 **Large bile duct obstruction → static bile → bacterial infections
 within the biliary tree**
 
-# Primary hepatolithiasis
+## Primary hepatolithiasis
 
 **Disorder of intrahepatic gallstone formation**
 
@@ -119,7 +119,7 @@ parenchymal destruction**
 
 ![](./img-local/Circulatory-and-Cholestatic-Disorders-of-Liver14.png)
 
-# Neonatal Cholestasis
+## Neonatal Cholestasis
 
 - **Mild transient elevations in serum unconjugated bilirubin are common
   in normal newborns**
@@ -148,7 +148,7 @@ parenchymal destruction**
   - **surgery**
 - **Idiopathic hepatitis**
 
-# Cholestasis of Sepsis
+## Cholestasis of Sepsis
 
 - **Intrahepatic bacterial infection**
   - **Abscess formation**
@@ -158,7 +158,7 @@ parenchymal destruction**
 - **In response to circulating microbial products**
   - **gram-negative organisms**
 
-# Cholestasis of SepsisCanalicular cholestasis
+## Cholestasis of SepsisCanalicular cholestasis
 
 **Bile plugs within predominantly centrilobular canaliculi**
 
@@ -172,7 +172,7 @@ parenchymal destruction**
 
 **Robbins Basic Pathology**
 
-# Cholestasis of SepsisDuctular cholestasis
+## Cholestasis of SepsisDuctular cholestasis
 
 **Canals of Hering and bile ductules at the interface of portal tracts
 and parenchyma become dilated and contain prominent bile plugs**
@@ -190,15 +190,15 @@ sepsis, is related to endotoxemia.**
 
 **Robbins Basic Pathology**
 
-# AUTOIMMUNE CHOLANGIOPATHIES
+## AUTOIMMUNE CHOLANGIOPATHIES
 
 ![](./img-local/Circulatory-and-Cholestatic-Disorders-of-Liver18.png)
 
 **Robbins Basic Pathology**
 
-# PRIMARY BILIARY CIRRHOSIS (PBC)
+## PRIMARY BILIARY CIRRHOSIS (PBC)
 
-# Primary Biliary Cirrhosis (PBC)
+## Primary Biliary Cirrhosis (PBC)
 
 - **Autoimmune disease**
 - **Inflammatory, often granulomatous**
@@ -214,7 +214,7 @@ sepsis, is related to endotoxemia.**
 - **Associated with other autoimmune diseases Sjögren syndrome and
   Hashimoto thyroiditis**
 
-# Primary Biliary Cirrhosis
+## Primary Biliary Cirrhosis
 
 - **High titers of autoantibodies directed against several mitochondrial
   acid dehydrogenases**
@@ -270,7 +270,7 @@ bile duct undergoing destruction (florid duct lesion)**
   - **When the hepatitic component is very prominent and there are
     serologic findings typical for autoimmune hepatitis**
 
-# Primary Biliary CirrhosisTwo paths to end-stage liver disease
+## Primary Biliary CirrhosisTwo paths to end-stage liver disease
 
 - **Prominent portal hypertension**
   - **Widespread nodularity without the surrounding scar tissue seen in
@@ -302,9 +302,9 @@ green discoloration due to cholestasis**
 
 **Robbins Basic Pathology**
 
-# PRIMARY SCLEROSING CHOLANGITIS (PSC)
+## PRIMARY SCLEROSING CHOLANGITIS (PSC)
 
-# Primary Sclerosing Cholangitis (PSC)
+## Primary Sclerosing Cholangitis (PSC)
 
 - **Autoimmune disease**
 
@@ -336,7 +336,7 @@ green discoloration due to cholestasis**
 
 **Robbins and Cotran Pathologic Basis of Disease**
 
-# Primary Sclerosing Cholangitis
+## Primary Sclerosing Cholangitis
 
 - **Seen in association with inflammatory bowel disease**
 
@@ -382,7 +382,7 @@ entrapped in a dense, “onion-skin” concentric scar.**
 - **Biliary intraepithelial neoplasia may appear**
   - **cholangiocarcinoma,10-15% in 5 years**
 
-# Drug/Toxin-Induced Cholestasis
+## Drug/Toxin-Induced Cholestasis
 
 - **May be seen alone or in combination with hepatitic features**
   - **Alkylated anabolic or contraceptive steroids**
@@ -391,17 +391,17 @@ entrapped in a dense, “onion-skin” concentric scar.**
 - **Loss of bile ducts**
   - **chlorpromazine, amitryptyline, and organic arsenicals**
 
-# CIRCULATORY DISORDERS
+## CIRCULATORY DISORDERS
 
 ![](./img-local/Circulatory-and-Cholestatic-Disorders-of-Liver27.png)
 
 **Robbins Basic Pathology**
 
-# Impaired Blood Flow into the Liver
+## Impaired Blood Flow into the Liver
 
 ![](./img-local/Circulatory-and-Cholestatic-Disorders-of-Liver28.png)
 
-# Hepatic Artery Inflow
+## Hepatic Artery Inflow
 
 - **Liver infarcts are rare**
   - **double blood supply**
@@ -434,7 +434,7 @@ and necrosis**
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# Portal Vein Obstruction and Thrombosis
+## Portal Vein Obstruction and Thrombosis
 
 - **Extrahepatic portal vein obstruction may arise from:**
   - **Peritoneal sepsis**
@@ -468,7 +468,7 @@ and necrosis**
   - **Peritonitis**
   - **Exposure to arsenicals**
 
-# Impaired Blood Flow Through the Liver
+## Impaired Blood Flow Through the Liver
 
 ![](./img-local/Circulatory-and-Cholestatic-Disorders-of-Liver32.png)
 
@@ -484,7 +484,7 @@ and necrosis**
 
 ![](./img-local/Circulatory-and-Cholestatic-Disorders-of-Liver33.png)
 
-# Passive Congestion and Centrilobular Necrosis
+## Passive Congestion and Centrilobular Necrosis
 
 - **Right-sided cardiac decompensation**
 
@@ -540,11 +540,11 @@ and necrosis**
 
 **Robbins Basic Pathology**
 
-# Hepatic Vein Outflow Obstruction
+## Hepatic Vein Outflow Obstruction
 
 ![](./img-local/Circulatory-and-Cholestatic-Disorders-of-Liver38.png)
 
-# Hepatic Vein Thrombosis(Budd-Chiari Syndrome)
+## Hepatic Vein Thrombosis(Budd-Chiari Syndrome)
 
 - **Thrombosis one or more major hepatic veins**
 - **Associated with**
@@ -573,7 +573,7 @@ profound hepatic congestion.**
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# Sinusoidal Obstruction Syndrome
+## Sinusoidal Obstruction Syndrome
 
 **Venoocclusive disease**
 

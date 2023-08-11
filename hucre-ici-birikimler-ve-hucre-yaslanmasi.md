@@ -3,11 +3,11 @@ Serdar Balcı
 
 ![](./img-local/H%C3%BCcre-i%C3%A7i-birikimler-ve-H%C3%BCcre-Ya%C5%9Flanmas%C4%B10.jpg)
 
-# Hücre içi birikimler veHücre Yaşlanması
+## Hücre içi birikimler veHücre Yaşlanması
 
-# Dr. Serdar BALCI
+## Dr. Serdar BALCI
 
-# Hücre içi birikimler
+## Hücre içi birikimler
 
 **Hücre içinde anormal düzeylerde değişik maddelerin birikimi**
 
@@ -19,7 +19,7 @@ Serdar Balcı
 
 **Eksojen ya da endojen olabilir**
 
-# HÜCRE İÇİ BİRİKİM MEKANİZMALARI
+## HÜCRE İÇİ BİRİKİM MEKANİZMALARI
 
 ![](./img-local/H%C3%BCcre-i%C3%A7i-birikimler-ve-H%C3%BCcre-Ya%C5%9Flanmas%C4%B11.png)
 
@@ -52,7 +52,7 @@ edilememesi**
 
 **Karbon ve silika parçacıkları**
 
-# Yağlı değişim (Steatoz)
+## Yağlı değişim (Steatoz)
 
 - **Parankimal hücrelerde trigliseritlerin anormal birikimi**
 - **En sık karaciğerde görülür**
@@ -72,7 +72,7 @@ edilememesi**
 **Wheater’s Basic Pathology: A Text, Atlas and Review of Histopathology
 , Fifth Edition**
 
-# Kolesterol ve kolesterol esterleri
+## Kolesterol ve kolesterol esterleri
 
 **Fagositik hücrelerin yağ ile aşırı yüklenmeleri (Trigliseritler,
 Kolesterol ve kolesterol esterleri) **
@@ -81,7 +81,7 @@ Kolesterol ve kolesterol esterleri) **
 
 ![](./img-local/H%C3%BCcre-i%C3%A7i-birikimler-ve-H%C3%BCcre-Ya%C5%9Flanmas%C4%B17.png)
 
-# Proteinler
+## Proteinler
 
 - **Hücrelere fazla protein yüklenmesi**
 - **Hücre fazla miktarda sentezler**
@@ -102,7 +102,7 @@ Kolesterol ve kolesterol esterleri) **
 
 ![](./img-local/H%C3%BCcre-i%C3%A7i-birikimler-ve-H%C3%BCcre-Ya%C5%9Flanmas%C4%B19.png)
 
-# Glikojen
+## Glikojen
 
 - **Glukoz veya glikojen metabolizmasındaki anormallikler**
 - **Kötü kontrol edilen diyabet mellit**
@@ -111,9 +111,9 @@ Kolesterol ve kolesterol esterleri) **
 - **Glikojen depo hastalıkları, glikojenozlar**
   - **Genetik hastalıklar**
 
-# PIGMENTLER
+## PIGMENTLER
 
-# Karbon
+## Karbon
 
 **Kömür tozu**
 
@@ -142,7 +142,7 @@ Kolesterol ve kolesterol esterleri) **
 
 **http://kobiljak.msu.edu/cai/HM561_Pathology/Injury/Lab1-Image23.html**
 
-# Lipofuskin“yıpranma ve aşınma pigmenti”
+## Lipofuskin“yıpranma ve aşınma pigmenti”
 
 **Çözünür olmayan, kahverengi-sarı, granüler, hücre içi madde**
 
@@ -165,7 +165,7 @@ işareti**
 **Elektron mikroskobunda, perinükleer elektron yoğun granüller olarak
 görülür**
 
-# Melanin
+## Melanin
 
 **Endojen, kahverengi-siyah pigment**
 
@@ -181,7 +181,7 @@ görülür**
 
 **Differential Diagnosis in Surgical Pathology Figure 2-65: Blue Nevus**
 
-# Hemosiderin
+## Hemosiderin
 
 **Hemoglobin kökenli granüler pigment**
 
@@ -205,13 +205,13 @@ miçellerini oluşturur**
 
 **Herediter hemosiderozis**
 
-# Diğer birikimler
+## Diğer birikimler
 
 **Amiloid**
 
 **Hyalen değişim**
 
-# 
+## 
 
 **Usually, the word hyaline is used descriptively to refer to an
 accumulation of pink, glassy material.** **Many processes can lead to
@@ -239,9 +239,9 @@ center of the photo.**
 
 ![](./img-local/H%C3%BCcre-i%C3%A7i-birikimler-ve-H%C3%BCcre-Ya%C5%9Flanmas%C4%B120.jpg)
 
-# PATOLOJİK KALSİFİKASYON
+## PATOLOJİK KALSİFİKASYON
 
-# Patolojik Kalsifikasyon
+## Patolojik Kalsifikasyon
 
 - **Kalsiyum tuzlarının anormal birikimi**
   - **Küçük miktarda demir, magnezyum ve diğer mineraller de birikir**
@@ -255,7 +255,7 @@ center of the photo.**
 - **Hiperkalsemi distrofik kalsifikasyon için bir ön koşul değil ama onu
   daha da şiddetlendirebilir**
 
-# Distrofik Kalsifikasyon
+## Distrofik Kalsifikasyon
 
 - **Herhangi bir tip nekroz varlığında**
 - **İlerlemiş aterosklerozdaki aterom plaklarında**
@@ -271,7 +271,7 @@ center of the photo.**
 
 ![](./img-local/H%C3%BCcre-i%C3%A7i-birikimler-ve-H%C3%BCcre-Ya%C5%9Flanmas%C4%B121.png)
 
-# Distrofik kalsifikasyonun patogenezi
+## Distrofik kalsifikasyonun patogenezi
 
 **Başlangıç (çekirdek oluşması)**
 
@@ -281,7 +281,7 @@ center of the photo.**
 
 **Son ürün kalsiyum fosfat kristalleri**
 
-# Ekstraselüler alanlarda başlangıç
+## Ekstraselüler alanlarda başlangıç
 
 **Membrana bağlı 200 nm çapındaki veziküllerle başlar**
 
@@ -296,26 +296,26 @@ fosfolipidlerine afinitesi vardır**
 
 **Membrandaki fosfatazların aktivitesi ile de fosfat birikimi başlar**
 
-# Intraselüler kalsifikasyon
+## Intraselüler kalsifikasyon
 
 **Ölen ya da ölmekte olan hücrelerin mitokondrilerinde**
 
 **Hücreler intraselüler kalsiyum dengesini kaybetmişlerdir**
 
-# Kristal oluşumunun ilerlemesi
+## Kristal oluşumunun ilerlemesi
 
 - **Ca2+ ve PO4− konsantrasyonlarına bağlı**
 - **Mineral inhibitörlerinin varlığına bağlı**
 - **Kolljenizasyon miktarına bağlı**
   - **Kollojenizasyon kristal büyümesini kolaylaştırır**
 
-# Metastatik kalsifikasyon
+## Metastatik kalsifikasyon
 
 **Normal dokularda olur**
 
 **Hiperkalsemi vardır**
 
-# Hiperkalsemi nedenleri
+## Hiperkalsemi nedenleri
 
 - **PTH fazlalığı**
   - **Primer paratiroid tümörleri**
@@ -335,7 +335,7 @@ fosfolipidlerine afinitesi vardır**
 - **Böbrek yetmezliği**
   - **Fosfat birikimi sekonder hiperparatiroidizme neden olur**
 
-# Morfoloji
+## Morfoloji
 
 - **Beyaz renkli granüller, topaklar, pütürlü görünüm**
 - **Tüberkülozdaki kazeifikasyon nekrozunda distrofik kalsifikasyon
@@ -352,9 +352,9 @@ fosfolipidlerine afinitesi vardır**
 
 **Peyronie disease. focal dystrophic calcification. **
 
-# HÜCRE YAŞLANMASI
+## HÜCRE YAŞLANMASI
 
-# Niçin yaşlanıyoruz?
+## Niçin yaşlanıyoruz?
 
 ![](./img-local/H%C3%BCcre-i%C3%A7i-birikimler-ve-H%C3%BCcre-Ya%C5%9Flanmas%C4%B123.jpg)
 
@@ -364,7 +364,7 @@ fosfolipidlerine afinitesi vardır**
 - **Yaşlanma bazı genler ve sinyal yolakları tarafından kontrol edilir**
   - **Mantarlardan, memelilere kadar**
 
-# DNA hasarı
+## DNA hasarı
 
 **Zaman içinde biriken metabolik yükler**
 
@@ -381,7 +381,7 @@ proteinler verildiğinde yaşam süresi uzatılabilmektedir**
 
 **Serbest radikallerin rolü hala tartışmalıdır**
 
-# Hücre çoğalmasında azalma
+## Hücre çoğalmasında azalma
 
 - **Normal hücrelerin çoğalma kapasitesi sınırlıdır**
 - **Belli bir çoğalma sonrası hücreler replikatif yaşlanma denen durumda
@@ -391,7 +391,7 @@ proteinler verildiğinde yaşam süresi uzatılabilmektedir**
   - **Prematür yaşlanma ile karakterize ender bir hastalık**
   - **Hücrelerin bariz azalmış in vitro yaşam süreleri var**
 
-# Telomerler
+## Telomerler
 
 **Kromozomların ucunda tekrarlayan kısa DNA sekansları var**
 
@@ -404,7 +404,7 @@ kısalır**
 
 ![](./img-local/H%C3%BCcre-i%C3%A7i-birikimler-ve-H%C3%BCcre-Ya%C5%9Flanmas%C4%B124.png)
 
-# Telomeraz
+## Telomeraz
 
 **Telomer uzunluğu nükleotid eklenerek korunur**
 
@@ -413,7 +413,7 @@ kısalır**
 **Kendi RNA’sını kalıp olarak kullanır, kromozomların uçlarına
 nükleotidler eklenir**
 
-# Telomeraz aktivitesi
+## Telomeraz aktivitesi
 
 - **Germ hücrelerinde mevcuttur**
 - **Kök hücrelerinde düşük seviyelerde mevcuttur**
@@ -427,7 +427,7 @@ nükleotidler eklenir**
 
 ![](./img-local/H%C3%BCcre-i%C3%A7i-birikimler-ve-H%C3%BCcre-Ya%C5%9Flanmas%C4%B125.png)
 
-# Protein homeostazında sorun
+## Protein homeostazında sorun
 
 - **Artmış döngü**
 - **Azalmış sentez**

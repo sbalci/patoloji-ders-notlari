@@ -3,11 +3,11 @@ Serdar Balcı
 
 ![](./img-local/Heart-Failure-and-Arryhtmias0.jpg)
 
-# Heart Failure and Arryhtmias
+## Heart Failure and Arryhtmias
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# Heart failure
+## Heart failure
 
 **Congestive heart failure**
 
@@ -17,7 +17,7 @@ Serdar Balcı
 
 **Extremely poor prognosis**
 
-# Diastolic dysfunction
+## Diastolic dysfunction
 
 **Inability of the heart to adequately relax and fill**
 
@@ -28,7 +28,7 @@ or constrictive pericarditis**
 
 **Valve dysfunction**
 
-# Congestive heart failure
+## Congestive heart failure
 
 - **Occurs when the heart cannot generate sufficient output to meet the
   metabolic demands of the tissues**
@@ -56,7 +56,7 @@ or constrictive pericarditis**
 **Inadequate cardiac output (forward failure) almost always accompanied
 by increased congestion of the venous circulation (backward failure)**
 
-# The Frank-Starling mechanism
+## The Frank-Starling mechanism
 
 **Increased end-diastolic filling volume**
 
@@ -73,7 +73,7 @@ by increased congestion of the venous circulation (backward failure)**
 **Dilation → increased wall tension → Increase the oxygen requirements→
 Decompensated heart failure**
 
-# Neurohumoral systems
+## Neurohumoral systems
 
 - **Norepinephrine**
   - **Increases heart rate, myocardial contractility, vascular
@@ -85,7 +85,7 @@ Decompensated heart failure**
   - **Diuresis**
   - **Vascular smooth muscle relaxation**
 
-# Myocardial structural changes
+## Myocardial structural changes
 
 - **Increased muscle mass**
   - **Increased numbers of sarcomeres**
@@ -106,7 +106,7 @@ Decompensated heart failure**
 
 ![](./img-local/Heart-Failure-and-Arryhtmias4.png)
 
-# Hypertrophy in pressure overload
+## Hypertrophy in pressure overload
 
 **Hypertension, valvular stenosis**
 
@@ -120,7 +120,7 @@ of the chamber**
 
 ![](./img-local/Heart-Failure-and-Arryhtmias5.png)
 
-# Hypertrophy in volume overload
+## Hypertrophy in volume overload
 
 **Valvular regurgitation, shunts**
 
@@ -135,7 +135,7 @@ of the chamber**
 **Heart weight is the best measure of hypertrophy in volume-overloaded
 cases**
 
-# Compensatory hypertrophy
+## Compensatory hypertrophy
 
 - **Myocardium vulnerable to ischemic injury**
 - **Altered patterns of gene expression**
@@ -146,13 +146,13 @@ cases**
 - **Cytoskeletal alterations**
 - **Increased extracellular matrix deposition**
 
-# Pathologic compensatory cardiac hypertrophy
+## Pathologic compensatory cardiac hypertrophy
 
 **Increased mortality**
 
 **Independent risk factor for sudden cardiac death**
 
-# Volume-loaded hypertrophy induced by regular aerobic exercise
+## Volume-loaded hypertrophy induced by regular aerobic exercise
 
 **Physiologic hypertrophy**
 
@@ -162,7 +162,7 @@ cases**
 
 **Reduce overall cardiovascular morbidity and mortality**
 
-# Left-Sided Heart Failure
+## Left-Sided Heart Failure
 
 - **Ischemic heart disease**
 - **Systemic hypertension**
@@ -172,7 +172,7 @@ cases**
 - **Diminished systemic perfusion**
 - **Elevated back-pressures within the pulmonary circulation**
 
-# Heart in Left-Sided Heart Failure
+## Heart in Left-Sided Heart Failure
 
 - **The gross cardiac findings depend on the underlying disease
   process**
@@ -183,7 +183,7 @@ cases**
   - **Myocyte hypertrophy with interstitial fibrosis of variable
     severity**
 
-# Lungs in Left-Sided Heart Failure
+## Lungs in Left-Sided Heart Failure
 
 - **Congestion**
 - **Edema**
@@ -202,7 +202,7 @@ cases**
 
 **http://www.pathguy.com/lectures/heart_failure_cells.jpg**
 
-# Left-Sided Heart Failure
+## Left-Sided Heart Failure
 
 - **Renin-angiotension-aldosterone axis**
 - **Exacerbate the pulmonary edema**
@@ -212,7 +212,7 @@ cases**
 - **Diminished cerebral perfusion**
   - **Hypoxic encephalopathy**
 
-# Right-Sided Heart Failure
+## Right-Sided Heart Failure
 
 - **Consequence of left-sided heart failure**
   - **Increase in the pulmonary circulation**
@@ -251,9 +251,9 @@ cases**
   - **Presacral in bedridden patients**
   - **Anasarca**
 
-# ARRHYTHMIAS
+## ARRHYTHMIAS
 
-# Arrhythmias
+## Arrhythmias
 
 - **Ischemic injury is the most common cause of rhythm disorders**
   - **Direct damage**
@@ -263,7 +263,7 @@ cases**
   - **Mutations ion channels**
   - **Channelopathies**
 
-# Sudden Cardiac Death
+## Sudden Cardiac Death
 
 **Sustained ventricular arrhythmia**
 
@@ -284,7 +284,7 @@ cases**
 
 **Robbins Basic Pathology**
 
-# Nonatherosclerotic causes of SCD
+## Nonatherosclerotic causes of SCD
 
 **Younger **
 
@@ -303,7 +303,7 @@ conduction system**
 
 **Myocardial hypertrophy**
 
-# Sudden Cardiac Death
+## Sudden Cardiac Death
 
 - **Increased cardiac mass is an independent risk factor for SCD**
 - **In some young persons who die suddenly, including athletes**
@@ -312,7 +312,7 @@ conduction system**
 
 ![](./img-local/Heart-Failure-and-Arryhtmias9.jpg)
 
-# The mechanism of SCD
+## The mechanism of SCD
 
 **Lethal arrhythmia **
 

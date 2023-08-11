@@ -3,9 +3,9 @@ Serdar Balcı
 
 ![](./img-local/Embolizm%2C-Infarkt%2C-%C5%9Eok0.jpg)
 
-# Embolizm, İnfarkt ve Şok
+## Embolizm, İnfarkt ve Şok
 
-# Dr. Serdar BALCI
+## Dr. Serdar BALCI
 
 ![](./img-local/Embolizm%2C-Infarkt%2C-%C5%9Eok1.png)
 
@@ -15,7 +15,7 @@ Serdar Balcı
 
 **medicalschoolpathology.com**
 
-# Emboli
+## Emboli
 
 **İntravasküler katı, sıvı veya gaz kitlesi**
 
@@ -44,7 +44,7 @@ Serdar Balcı
 - **Pulmoner dolaşımdaki embolizasyon hipoksi, hipotansiyon ve sağ kalp
   yetmezliğine neden olur**
 
-# Pulmoner tromboemboli
+## Pulmoner tromboemboli
 
 ![](./img-local/Embolizm%2C-Infarkt%2C-%C5%9Eok4.png)
 
@@ -107,7 +107,7 @@ Serdar Balcı
 **Zaman içinde gelişen birden fazla emboli, pulmoner hipertansiyon ve
 sağ ventrikül yetmezliğine neden olur (kor pulmonale)**
 
-# Sistemik Tromboembolizm
+## Sistemik Tromboembolizm
 
 - **%80 intrakardiak mural trombüs**
 
@@ -138,7 +138,7 @@ sağ ventrikül yetmezliğine neden olur (kor pulmonale)**
   - **Kolloteral akım**
   - **Etkilenen dokunun anoksiye olan hassasiyeti**
 
-# Yağ embolisi
+## Yağ embolisi
 
 - **Yumuşak dokuda künt yaralanma**
   - **Büyük kemik travmalarında kemik iliği damar sinüzoidlerinde
@@ -151,7 +151,7 @@ sağ ventrikül yetmezliğine neden olur (kor pulmonale)**
     embolisi olur**
   - **%10’un daha azında klinik bulgu görülür**
 
-# Yağ embolisi sendromu
+## Yağ embolisi sendromu
 
 - **Pulmoner yetmezlik**
 - **Nörolojik bulgular**
@@ -180,7 +180,7 @@ sağ ventrikül yetmezliğine neden olur (kor pulmonale)**
 
 **Robbins Basic Pathology**
 
-# Amniyon sıvısı embolisi
+## Amniyon sıvısı embolisi
 
 **Nadir**
 
@@ -231,7 +231,7 @@ sağ ventrikül yetmezliğine neden olur (kor pulmonale)**
 
 **Robbins Basic Pathology**
 
-# Hava embolisi
+## Hava embolisi
 
 - **Vasküler akımı gaz baloncukları tıkar**
 - **Distal iskemik hasara neden olur**
@@ -243,7 +243,7 @@ sağ ventrikül yetmezliğine neden olur (kor pulmonale)**
 - **Büyük miktarda venöz gaz embolisi kalpte tıkalı kalır ve ölüme neden
   olur**
 
-# Dekompresyon hastalığı (Vurgun)
+## Dekompresyon hastalığı (Vurgun)
 
 - **Dalgıçlar, su altı işçileri, ani basınç değişimi olan uçuşlarda**
 - **Caisson hastalığı**
@@ -251,9 +251,9 @@ sağ ventrikül yetmezliğine neden olur (kor pulmonale)**
     nekroza neden olur**
 - **Basınçlı odada tedavi olabilirler**
 
-# İNFARKT
+## İNFARKT
 
-# İnfarkt
+## İnfarkt
 
 - **İskemik nekroz alanı**
 - **Vasküler tıkanıklık**
@@ -265,7 +265,7 @@ sağ ventrikül yetmezliğine neden olur (kor pulmonale)**
   - **Ekstremiteler (gangren)**
     - **diyabet**
 
-# İnfarkt nedenleri
+## İnfarkt nedenleri
 
 - **Arteryel tromboz ve emboli**
 - **Vazospazm**
@@ -289,7 +289,7 @@ sağ ventrikül yetmezliğine neden olur (kor pulmonale)**
 **Tek eferent venli organlarda venöz tromboz infarkta neden olur
 (testis, over)**
 
-# İnfarklar
+## İnfarklar
 
 **Kırmızı infarkt**
 
@@ -303,7 +303,7 @@ sağ ventrikül yetmezliğine neden olur (kor pulmonale)**
 
 Robbins Basic Pathology
 
-# Kırmızı infarkt
+## Kırmızı infarkt
 
 - **Venöz tıkanıklıklar**
   - **Over torsiyonu**
@@ -324,7 +324,7 @@ Robbins Basic Pathology
 
 **Robbins Basic Pathology**
 
-# Beyaz infarkt
+## Beyaz infarkt
 
 ![](./img-local/Embolizm%2C-Infarkt%2C-%C5%9Eok11.png)
 
@@ -342,7 +342,7 @@ Robbins Basic Pathology
 
 **Zaman içinde sınırlar belirgin hale gelir**
 
-# İskemik koagülatif nekroz
+## İskemik koagülatif nekroz
 
 - **Infarkt periferinde inflamatuar yanıt oluşur**
   - **Birkaç saatte başlar, 1-2 gün içinde tablo yerleşir**
@@ -357,13 +357,13 @@ Robbins Basic Pathology
 
 **Robbins Basic Pathology**
 
-# Septik infarkt
+## Septik infarkt
 
 **İnfekte valvüler vejetasyonların embolisi**
 
 **Mikroorganizmalar nekrotik dokuya yerleşince abse oluşturur**
 
-# İnfarkt oluşumunu etkileyen faktörler
+## İnfarkt oluşumunu etkileyen faktörler
 
 - **Vasküler yapının anatomisi**
 - **Tıkanmasın oluşum zamanı**
@@ -371,9 +371,9 @@ Robbins Basic Pathology
 - **Dokunun iskemik hasara yanıt verme kapasitesi**
 - **Kan oksijen miktarı**
 
-# ŞOK
+## ŞOK
 
-# Şok
+## Şok
 
 **Çok sayıdaki ölümcül etkenin son ortak yolağı**
 
@@ -395,7 +395,7 @@ Robbins Basic Pathology
 
 **Başlangıçta geri dönüşüm mümkün, ilerleyen dönemlerde ölümcül**
 
-# En sık şok nedenleri
+## En sık şok nedenleri
 
 - **Kardiyojenik şok**
   - **Kalp yetmezliği nedeniyle atım miktarında azalma**
@@ -405,7 +405,7 @@ Robbins Basic Pathology
 
 ![](./img-local/Embolizm%2C-Infarkt%2C-%C5%9Eok13.png)
 
-# Septik şok
+## Septik şok
 
 - **En sık neden Gram-pozitif bakteriler, sonrasında gram-negatifler ve
   mantarlar**
@@ -424,7 +424,7 @@ Robbins Basic Pathology
 - **Süperantijenler**
   - **Toksik şok sendromu**
 
-# Şokun evreleri
+## Şokun evreleri
 
 - **Başlangıç (Nonprogressive stage)**
   - **Dengeleyici refleks mekanizmalar**

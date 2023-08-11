@@ -3,11 +3,11 @@ Serdar Balcı
 
 ![](./img-local/Ateroskleroz-d%C4%B1s%CC%A7%C4%B1-damar-hastal%C4%B1klar%C4%B1pptx-kopyas%C4%B10.jpg)
 
-# Ateroskleroz dışı damar hastalıkları
+## Ateroskleroz dışı damar hastalıkları
 
-# Dr. Serdar BALCI
+## Dr. Serdar BALCI
 
-# Damar Patolojileri
+## Damar Patolojileri
 
 - **Damar lümeninde daralma ve tümüyle tıkanma**
   - **Progresif**
@@ -23,7 +23,7 @@ Serdar Balcı
 
 **Robbins Basic Pathology**
 
-# Damar tabakaları
+## Damar tabakaları
 
 - **İntima**
   - **Tek sıralı endotel hücre tabakası**
@@ -36,7 +36,7 @@ Serdar Balcı
 - **Adventisya**
   - **Vazo vazorum**
 
-# Arterler
+## Arterler
 
 - **Büyük elastik arterler**
   - **Aort, iliak ve pulmoner arterler**
@@ -66,7 +66,7 @@ Serdar Balcı
 
 **Kan akımı belli bir hızda olur, atım şeklinde olmaz**
 
-# Kapillerler
+## Kapillerler
 
 **7-8µm, eritrosit kalınlığı**
 
@@ -81,7 +81,7 @@ Serdar Balcı
 **Metabolik oalrak aktif dokular (kalp) yüksek kapiller yoğunluğa
 sahiptir**
 
-# Venler
+## Venler
 
 - **Postkapiller venüller**
 
@@ -104,7 +104,7 @@ sahiptir**
 
   - **Kapakçıklar yerçekimine karşı çalışır**
 
-# Lenfatikler
+## Lenfatikler
 
 **İnce duvarlı, endotelle döşeli kanallar**
 
@@ -120,7 +120,7 @@ sahiptir**
 
 **Robbins Basic Pathology**
 
-# Endotel
+## Endotel
 
 - **Kesintisiz tabaka halinde**
 
@@ -156,7 +156,7 @@ sahiptir**
   - **VEGF**
   - **Bazal membrana kuvvetli adhezyonu**
 
-# Endotelyal aktivasyon
+## Endotelyal aktivasyon
 
 **Bakteriyal ürünler**
 
@@ -174,7 +174,7 @@ sahiptir**
 
 **Metabolik uyaranlar (hipoksi)**
 
-# Aktive endotelyal hücreler
+## Aktive endotelyal hücreler
 
 - **Şekil değişikliği**
 - **Adhezyon molekülü eksprese ederler**
@@ -186,7 +186,7 @@ sahiptir**
 - **Günler**
   - **Gen ve protein ekspresyonunda değişiklikler**
 
-# Endotel disfonksiyonu
+## Endotel disfonksiyonu
 
 **Endotel bağlı vazodilatasyon**
 
@@ -200,7 +200,7 @@ sahiptir**
 
 **Hipertansiyon ve diyabetteki vasküler değişiklikler**
 
-# Vasküler düz kas hücreleri
+## Vasküler düz kas hücreleri
 
 **Normal vasküler tamir**
 
@@ -231,7 +231,7 @@ sahiptir**
 
 **Robbins Basic Pathology**
 
-# Berry anevrizması
+## Berry anevrizması
 
 **Serebral damarlardan çıkan ince duvarlı anevrizmalar**
 
@@ -251,7 +251,7 @@ sahiptir**
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# Arteriovenöz fistüller
+## Arteriovenöz fistüller
 
 - **Arter ve venler arasında anormal birleşimler**
 - **Arada kapiller yatak yok**
@@ -262,7 +262,7 @@ sahiptir**
 - **Cerrahi → hemodiyaliz**
 - **Belirgin durumlarda → yüksek atımlı kalp yetmezliği**
 
-# Fibromüsküler displazi
+## Fibromüsküler displazi
 
 - **Orta ve geniş çaplı müsküler damarların fokal irregüler
   kalınlaşması**
@@ -273,7 +273,7 @@ sahiptir**
   - **Renovasküler hipertansiyon**
 - **Fokal segmentler arasında damarlarda çıkıntılar ve rüptür**
 
-# Raynaud olgusu
+## Raynaud olgusu
 
 - **Arter ve arteriollerin aşırı vazokonstriksiyonu**
 - **Ekstremitelerde, el ve ayak parmaklarında**
@@ -283,7 +283,7 @@ sahiptir**
   - **Proksimal vazodilatasyon, santral vazokonstriksiyon ve distalde
     siyanoz**
 
-# Primer Raynaud
+## Primer Raynaud
 
 - **Soğuk ve heyecana aşırı santral ve lokal vazomotor cevap**
 - **Genel popülasyonun %3-5’inda, genç kadınlarda**
@@ -294,7 +294,7 @@ sahiptir**
   - **Deri, subkütan doku ve kaslarda atrofi**
   - **Ülserasyon ve iskemik hasar nadir**
 
-# Sekonder Raynaud
+## Sekonder Raynaud
 
 - **Arterial hastalıklara ikincil vasküler yetmezlik**
   - **Sistemik lupus eritemaztozus**
@@ -302,7 +302,7 @@ sahiptir**
   - **Buerger hastalığı**
   - **Ateroskleroz**
 
-# Myokardial damar spazmı
+## Myokardial damar spazmı
 
 - **Belirgin konstriksiyon iskemiye neden olur**
 - **Sürekli vazospazm doku infarktına neden olur**
@@ -325,7 +325,7 @@ arttırır → vazospazma ikincil iskemide artış**
 
 **İskemik dilate kardiyomyopati**
 
-# Ekstremitelerde variköz venler
+## Ekstremitelerde variköz venler
 
 **Anormal dilate, tortüyöz venler**
 
@@ -350,7 +350,7 @@ arttırır → vazospazma ikincil iskemide artış**
     - **Yavaş yara iyileşimi, infeksiyonlar**
 - **Bu süperfisyal damarlardan emboli çok nadir**
 
-# Portal sistem Konjesyonları
+## Portal sistem Konjesyonları
 
 - **Özefagus varisleri**
   - **Karaciğer siroz**
@@ -361,7 +361,7 @@ arttırır → vazospazma ikincil iskemide artış**
 - **Periumbilikal ven**
   - **Kaput medusa**
 
-# Tromboflebit ve Flebotromboz
+## Tromboflebit ve Flebotromboz
 
 **Tromboz ve inflamasyon**
 
@@ -377,7 +377,7 @@ arttırır → vazospazma ikincil iskemide artış**
 
 **Hiperkoagülabilite (Polisitemia vera)**
 
-# Bacaklarda derin ven trombozu
+## Bacaklarda derin ven trombozu
 
 - **Uzamış immobilizasyon**
   - **Uzamış yatak istirahati, yatalak**
@@ -403,7 +403,7 @@ arttırır → vazospazma ikincil iskemide artış**
   - **Ayak kaslarını sıkarken, ayağa zorlu dorsifleksiyon yapınca ağrı**
 - **Pulmoner emboli**
 
-# Süperior vena cava sendromu
+## Süperior vena cava sendromu
 
 **Süperior vena kavayı invaze eden ya da bası yapan neoplaziler**
 
@@ -417,7 +417,7 @@ arttırır → vazospazma ikincil iskemide artış**
 
 **Pulmoner damarlara bası → Solunum sıkıntısı**
 
-# Inferior vena kava sendromu
+## Inferior vena kava sendromu
 
 **İnferior vena kavaya bası yapan ya da infiltre eden neoplaziler**
 
@@ -430,7 +430,7 @@ büyümeye eğilimli**
 
 **Proteinüri**
 
-# Lenfanjit
+## Lenfanjit
 
 **Bakteriyel nedenli akut inflamasyon**
 
@@ -440,7 +440,7 @@ büyümeye eğilimli**
 
 **Bakteremi, sepsis**
 
-# Lenfödem
+## Lenfödem
 
 - **Primer lenfödem**
   - **İzole konjenita kayıp (basit konjenital lenfödem)**
@@ -467,7 +467,7 @@ büyümeye eğilimli**
 
 **Robbins Basic Pathology**
 
-# Damar tümörleri
+## Damar tümörleri
 
 - **Büyük damarların primer tümörleri**
   - **Oldukça nadir ve çoğunlukla sarkom**
@@ -482,7 +482,7 @@ büyümeye eğilimli**
   - **İmmünohistokimya ile ayırt edilebilir**
     - **CD31, von Willebrand factor**
 
-# Damar ektazileri
+## Damar ektazileri
 
 - **Damar dilatasyonu**
   - **Konjenital ya d akkiz**
@@ -492,7 +492,7 @@ büyümeye eğilimli**
 - **Spider telenjiektazi, gebelik, siroz**
 - **Herediter hemorajik talenjiektazi (Osler-Weber-Rendu hastalığı)**
 
-# Kapiller hemanjiom
+## Kapiller hemanjiom
 
 **En sık tip**
 
@@ -514,7 +514,7 @@ büyümeye eğilimli**
 
 **Robbins Basic Pathology**
 
-# Juvenil hemanjiomÇilek hemanjiom
+## Juvenil hemanjiomÇilek hemanjiom
 
 **Yenideoğan derisi**
 
@@ -525,7 +525,7 @@ büyümeye eğilimli**
 **İlk birkaç ay hızlı büyür, 1-3 yaş arası silinmeye başlar, 7 yaşta
 kaybolur**
 
-# Piyojenik granülom
+## Piyojenik granülom
 
 **Kapiller hemanjiom**
 
@@ -542,7 +542,7 @@ lezyonlar**
 
 **Robbins Basic Pathology**
 
-# Kavernöz hemanjiom
+## Kavernöz hemanjiom
 
 **İri, dilate vasküler yapılar, konnektif doku ile ayrılır**
 
@@ -558,7 +558,7 @@ lezyonlar**
 
 **Robbins Basic Pathology**
 
-# Lenfanjiom
+## Lenfanjiom
 
 - **Basit (kapiller) lenfanjiom**
   - **Baş, boyun, aksiller subkütenöz doku**
@@ -569,7 +569,7 @@ lezyonlar**
   - **Lenfoid agregat içeren stroması var**
   - **Sınırları düzensiz, kapsülsüz, definitif rezeksiyon zor**
 
-# Glomus Tümör (Glomanjiom)
+## Glomus Tümör (Glomanjiom)
 
 **Benign, ağrılı tümörler**
 
@@ -581,7 +581,7 @@ lezyonlar**
 
 **Eksizyon ile tedavi edilir**
 
-# Basiller anjiomatozis
+## Basiller anjiomatozis
 
 **AIDS hastalarında**
 
@@ -616,7 +616,7 @@ demonstrates clusters of tangled bacilli (black)**
 
 **Robbins Basic Pathology**
 
-# Kaposi Sarkomu
+## Kaposi Sarkomu
 
 - **HHV-8**
 - **Yaşlılarda klaisk form**
@@ -638,7 +638,7 @@ demonstrates clusters of tangled bacilli (black)**
 
 **Robbins Basic Pathology**
 
-# Hemanjioendotelyom
+## Hemanjioendotelyom
 
 **İntermediate derece neoplazi**
 
@@ -652,7 +652,7 @@ demonstrates clusters of tangled bacilli (black)**
 
 **%15 tümör ilişkili ölüm**
 
-# Anjiosarkom
+## Anjiosarkom
 
 **Malign endotelyal neoplazi**
 
@@ -708,7 +708,7 @@ marker CD31**
 
 **Robbins Basic Pathology**
 
-# Vasküler girişimler
+## Vasküler girişimler
 
 **Tromboz, intimal kalınlaşma ateroskleroz stent ya da greft sonrası
 görülebilir**

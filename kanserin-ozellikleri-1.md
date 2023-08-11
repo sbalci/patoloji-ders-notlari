@@ -1,11 +1,11 @@
 # Title
 Serdar Balcı
 
-# Hallmarks of Cancer
+## Hallmarks of Cancer
 
-# Kanserin ayırıcı özellikleri
+## Kanserin ayırıcı özellikleri
 
-# Kanser nedir?
+## Kanser nedir?
 
 **A neoplasm is an abnormal mass of tissue, the growth of which exceeds
 and is uncoordinated with that of the normal tissues and persists in the
@@ -17,9 +17,9 @@ mutations affecting a single cell and its clonal progeny**
 
 ![](./img-local/Kanserin-Ozellikleri-10.jpg)
 
-# Kanserin Başlıca Özellikleri-1
+## Kanserin Başlıca Özellikleri-1
 
-# Dr. Serdar BALCI
+## Dr. Serdar BALCI
 
 ![](./img-local/Kanserin-Ozellikleri-11.jpg)
 
@@ -35,26 +35,26 @@ mutations affecting a single cell and its clonal progeny**
 
 ![](./img-local/Kanserin-Ozellikleri-16.png)
 
-<span style="color:#FFFFFF"> *Cell* </span>
-<span style="color:#FFFFFF"> 2011 144, 646-674DOI:
+<span style="color:##FFFFFF"> *Cell* </span>
+<span style="color:##FFFFFF"> 2011 144, 646-674DOI:
 (10.1016/j.cell.2011.02.013) </span>
 
 **Cell. 2011 Mar 4;144(5):646-74**
 
-<span style="color:#FFFFFF">Copyright © 2011 Elsevier Inc.</span>
+<span style="color:##FFFFFF">Copyright © 2011 Elsevier Inc.</span>
 *[Terms and Conditions](http://www.elsevier.com/termsandconditions)*
 
 ![](./img-local/Kanserin-Ozellikleri-17.jpg)
 
 ![](./img-local/Kanserin-Ozellikleri-18.png)
 
-<span style="color:#FFFFFF"> *Cell* </span>
-<span style="color:#FFFFFF"> 2011 144, 646-674DOI:
+<span style="color:##FFFFFF"> *Cell* </span>
+<span style="color:##FFFFFF"> 2011 144, 646-674DOI:
 (10.1016/j.cell.2011.02.013) </span>
 
 **Cell. 2011 Mar 4;144(5):646-74**
 
-<span style="color:#FFFFFF">Copyright © 2011 Elsevier Inc.</span>
+<span style="color:##FFFFFF">Copyright © 2011 Elsevier Inc.</span>
 *[Terms and Conditions](http://www.elsevier.com/termsandconditions)*
 
 ![](./img-local/Kanserin-Ozellikleri-19.png)
@@ -65,13 +65,13 @@ mutations affecting a single cell and its clonal progeny**
 
 ![](./img-local/Kanserin-Ozellikleri-111.png)
 
-<span style="color:#FFFFFF"> *Cell* </span>
-<span style="color:#FFFFFF"> 2011 144, 646-674DOI:
+<span style="color:##FFFFFF"> *Cell* </span>
+<span style="color:##FFFFFF"> 2011 144, 646-674DOI:
 (10.1016/j.cell.2011.02.013) </span>
 
 **Cell. 2011 Mar 4;144(5):646-74**
 
-<span style="color:#FFFFFF">Copyright © 2011 Elsevier Inc.</span>
+<span style="color:##FFFFFF">Copyright © 2011 Elsevier Inc.</span>
 *[Terms and Conditions](http://www.elsevier.com/termsandconditions)*
 
 ![](./img-local/Kanserin-Ozellikleri-112.png)
@@ -82,13 +82,13 @@ mutations affecting a single cell and its clonal progeny**
 
 ![](./img-local/Kanserin-Ozellikleri-114.png)
 
-<span style="color:#FFFFFF"> *Cell* </span>
-<span style="color:#FFFFFF"> 2011 144, 646-674DOI:
+<span style="color:##FFFFFF"> *Cell* </span>
+<span style="color:##FFFFFF"> 2011 144, 646-674DOI:
 (10.1016/j.cell.2011.02.013) </span>
 
 **Cell. 2011 Mar 4;144(5):646-74**
 
-<span style="color:#FFFFFF">Copyright © 2011 Elsevier Inc.</span>
+<span style="color:##FFFFFF">Copyright © 2011 Elsevier Inc.</span>
 *[Terms and Conditions](http://www.elsevier.com/termsandconditions)*
 
 ![](./img-local/Kanserin-Ozellikleri-115.png)
@@ -99,29 +99,29 @@ mutations affecting a single cell and its clonal progeny**
 
 ![](./img-local/Kanserin-Ozellikleri-117.png)
 
-<span style="color:#FFFFFF"> *Cell* </span>
-<span style="color:#FFFFFF"> 2011 144, 646-674DOI:
+<span style="color:##FFFFFF"> *Cell* </span>
+<span style="color:##FFFFFF"> 2011 144, 646-674DOI:
 (10.1016/j.cell.2011.02.013) </span>
 
 **Cell. 2011 Mar 4;144(5):646-74**
 
-<span style="color:#FFFFFF">Copyright © 2011 Elsevier Inc.</span>
+<span style="color:##FFFFFF">Copyright © 2011 Elsevier Inc.</span>
 *[Terms and Conditions](http://www.elsevier.com/termsandconditions)*
 
 ![](./img-local/Kanserin-Ozellikleri-118.jpg)
 
 ![](./img-local/Kanserin-Ozellikleri-119.png)
 
-<span style="color:#FFFFFF"> *Cell* </span>
-<span style="color:#FFFFFF"> 2011 144, 646-674DOI:
+<span style="color:##FFFFFF"> *Cell* </span>
+<span style="color:##FFFFFF"> 2011 144, 646-674DOI:
 (10.1016/j.cell.2011.02.013) </span>
 
 **Cell. 2011 Mar 4;144(5):646-74**
 
-<span style="color:#FFFFFF">Copyright © 2011 Elsevier Inc.</span>
+<span style="color:##FFFFFF">Copyright © 2011 Elsevier Inc.</span>
 *[Terms and Conditions](http://www.elsevier.com/termsandconditions)*
 
-# 
+## 
 
 **http://www.cellsignal.com/common/content/content.jsp?id=science-pathways**
 
@@ -129,7 +129,7 @@ mutations affecting a single cell and its clonal progeny**
 
 **Robbins Basic Pathology**
 
-# Kanserin Başlıca Özellikleri
+## Kanserin Başlıca Özellikleri
 
 **Proliferasyon sinyalleri bakımından kendi kendine yeterli olmak**
 
@@ -149,7 +149,7 @@ mutations affecting a single cell and its clonal progeny**
 
 ![](./img-local/Kanserin-Ozellikleri-121.jpg)
 
-# BÜYÜME SINYALLERI BAKIMINDAN KENDI KENDINE YETERLI OLMAK
+## BÜYÜME SINYALLERI BAKIMINDAN KENDI KENDINE YETERLI OLMAK
 
 ![](./img-local/Kanserin-Ozellikleri-122.jpg)
 
@@ -185,7 +185,7 @@ mutations affecting a single cell and its clonal progeny**
 
 ![](./img-local/Kanserin-Ozellikleri-138.jpg)
 
-# Büyüme sinyalleri bakımından kendi kendine yeterli olmak
+## Büyüme sinyalleri bakımından kendi kendine yeterli olmak
 
 - **Fizyolojik Büyüme**
   - **Büyüme faktörü, hücre zarındaki spesifik reseptöre bağlanır**
@@ -201,7 +201,7 @@ mutations affecting a single cell and its clonal progeny**
 
 **Robbins Basic Pathology**
 
-# Büyüme Faktörleri
+## Büyüme Faktörleri
 
 - **Kanser hücreleri kendilerini uyaracak büyüme faktörleri
   sentezlerler**
@@ -215,7 +215,7 @@ mutations affecting a single cell and its clonal progeny**
   - **Tümör hücreleri, stromal hücreleri uyaran sinyaller gönderir**
   - **Stroma hücreleri de tümörü uyaran büyüme faktörleri sentezler**
 
-# Büyüme faktörü reseptörleri ve reseptör olmayan tirozin kinazlar
+## Büyüme faktörü reseptörleri ve reseptör olmayan tirozin kinazlar
 
 **Mutant reseptör proteinleri:**
 
@@ -238,7 +238,7 @@ mutations affecting a single cell and its clonal progeny**
     prognoz**
   - **Anti-HER2/NEU antikorlar meme kanseri tedavisinde kullanılıyor**
 
-# İlerleme yönünde sinyal ileten proteinler
+## İlerleme yönünde sinyal ileten proteinler
 
 - **Uyarıyı reseptörden alırlar**
 - **Uyarıyı nükleusa taşırlar**
@@ -249,7 +249,7 @@ mutations affecting a single cell and its clonal progeny**
 - **RAS**
 - **ABL**
 
-# RAS protein
+## RAS protein
 
 - **İnsan tümörlerinde en çok mutasyona uğrayan proto-onkogen**
 - **Tüm tümörlerin %30’u RAS mutasyonu içerir**
@@ -259,7 +259,7 @@ mutations affecting a single cell and its clonal progeny**
 
 ![](./img-local/Kanserin-Ozellikleri-140.png)
 
-# RAS
+## RAS
 
 - **Normal**
   - **GTP’ye bağlandığında aktif**
@@ -273,7 +273,7 @@ mutations affecting a single cell and its clonal progeny**
 
 ![](./img-local/Kanserin-Ozellikleri-141.png)
 
-# GAPs
+## GAPs
 
 - **GTPase-activating protein**
 - **Neurofibromin-1 (NF-1)**
@@ -285,7 +285,7 @@ mutations affecting a single cell and its clonal progeny**
 
 ![](./img-local/Kanserin-Ozellikleri-142.png)
 
-# RAF/ERK/MAP kinaz yolağı
+## RAF/ERK/MAP kinaz yolağı
 
 **Melanomların %60’ında aktif**
 
@@ -293,7 +293,7 @@ mutations affecting a single cell and its clonal progeny**
 
 **Robbins Basic Pathology**
 
-# ABL
+## ABL
 
 - **Reseptör ilişkisiz tirozin kinaz**
 - **Kronik Myelojenik Lösemi**
@@ -308,12 +308,12 @@ mutations affecting a single cell and its clonal progeny**
 
 **Robbins and Cotran’s Pathological Basis of Diseases**
 
-# Nükleer Transkripsiyon Faktörleri
+## Nükleer Transkripsiyon Faktörleri
 
 - **MYC, MYB, JUN, FOS, ve REL onkogenleri**
   - **Büyümeyi uyaran genlerin (Cyclin) ekspresyonlarını düzenlerler**
 
-# MYC
+## MYC
 
 - **Büyümeyi uyaran Siklin bağımlı kinazları aktive eder
   (cyclin-dependent kinases, CDKs)**
@@ -337,7 +337,7 @@ mutations affecting a single cell and its clonal progeny**
 
 ![](./img-local/Kanserin-Ozellikleri-146.jpg)
 
-# Siklin ve siklin bağımlı kinazlar
+## Siklin ve siklin bağımlı kinazlar
 
 - **Kontrol noktaları**
 - **G0 → G1**
@@ -366,15 +366,15 @@ mutations affecting a single cell and its clonal progeny**
 
 **Robbins Basic Pathology**
 
-# Homework
+## Homework
 
 **Rous sarcoma virus**
 
 ![](./img-local/Kanserin-Ozellikleri-149.jpg)
 
-# BÜYÜME INHIBITÖRLERINE DUYARSIZLIK
+## BÜYÜME INHIBITÖRLERINE DUYARSIZLIK
 
-# RB geni: Hücre siklusunun yöneticisi
+## RB geni: Hücre siklusunun yöneticisi
 
 - **13q14**
 - **Retinoblastoma hem sporadik hem de ailesel formda benzer şekilde
@@ -385,7 +385,7 @@ mutations affecting a single cell and its clonal progeny**
 - **Retinoblastom hastaları osteosarkom ve yumuşak doku sarkomları için
   artmış risk taşır**
 
-# Retinoblastom
+## Retinoblastom
 
 ![](./img-local/Kanserin-Ozellikleri-150.jpg)
 
@@ -403,7 +403,7 @@ PMC3530407**
 **Figure 7.4b ** \_ The Biology of Cancer\_ \_\_ (© Garland Science
 2007)\_\_
 
-# Knudson çift darbe hipotezi
+## Knudson çift darbe hipotezi
 
 ![](./img-local/Kanserin-Ozellikleri-155.png)
 
@@ -413,7 +413,7 @@ PMC3530407**
 
 **Robbins Basic Pathology**
 
-# Sadece bir Rb geni mutant ise hücre neoplastik olur mu?
+## Sadece bir Rb geni mutant ise hücre neoplastik olur mu?
 
 **Hayır**
 
@@ -448,7 +448,7 @@ gelişir**
 
 **Robbins Basic Pathology**
 
-# TP53 GeniGenomun Koruyucusu
+## TP53 GeniGenomun Koruyucusu
 
 - **Sessizlik**
   - **Geçici olarak hücre siklusunun durdurulması**
@@ -459,7 +459,7 @@ gelişir**
 
 **Rb dış uyaranlara, p53 iç uyaranlara cevap verir**
 
-# p53 aktivasyonuna neden olanlar
+## p53 aktivasyonuna neden olanlar
 
 **Anoksi**
 
@@ -469,7 +469,7 @@ gelişir**
 
 **p53 bir DNA hasar cevabı proteinidir**
 
-# p53
+## p53
 
 - **Normal**
   - **Kısa bir yarı ömrü var**
@@ -488,7 +488,7 @@ gelişir**
 
 **Robbins Basic Pathology**
 
-# p53 kontrolünde hücre siklusunda durma
+## p53 kontrolünde hücre siklusunda durma
 
 **P53, CDKI ekspresyonunu sağlar: CDKN1A (p21)**
 
@@ -500,7 +500,7 @@ gelişir**
 
 **DNA hasarını tamir etmeye vakit kalır**
 
-# p53 nedenli yaşlılık (senescence)
+## p53 nedenli yaşlılık (senescence)
 
 **Global kromatin değişiklikleri**
 
@@ -508,13 +508,13 @@ gelişir**
 
 **Hücre siklusunda kalıcı blok oluşur**
 
-# p53 nedenli apoptoz
+## p53 nedenli apoptoz
 
 **Kalıcı DNA hasarı**
 
 **Pro-apoptotik genler (BAX ve PUMA) aktif olur**
 
-# p53
+## p53
 
 - **Kanserlerin %70’inde p53’ün her iki allelinde kayıp vardır**
 - **Diğerlerinde TP53’ün üst ve altındaki yolaklarda hasar vardır**
@@ -522,7 +522,7 @@ gelişir**
   - **Hepatit B**
   - **EBV**
 
-# Li-Fraumeni sendromu
+## Li-Fraumeni sendromu
 
 **Mutant TP53 alleli kalıtılır**
 
@@ -535,7 +535,7 @@ karsinomları**
 
 **Çok sayıda primer tümör**
 
-# Transforming Growth Factor-β Yolağı
+## Transforming Growth Factor-β Yolağı
 
 - **Proliferasyonun belirgin inhibitörü**
 - **TGF-β Reseptör I ve II**
@@ -554,7 +554,7 @@ karsinomları**
 **Figure 5.21 ** \_ The Biology of Cancer\_ \_\_ (© Garland Science
 2007)\_\_
 
-# Transforming Growth Factor-β Yolağındaki değişiklikler
+## Transforming Growth Factor-β Yolağındaki değişiklikler
 
 - **Mutasyonlar**
   - **TGF-β reseptör tip II**
@@ -569,7 +569,7 @@ karsinomları**
 **Figure 6.29d ** \_ The Biology of Cancer\_ \_\_ (© Garland Science
 2007)\_\_
 
-# Kontakt inhibisyon
+## Kontakt inhibisyon
 
 - **Normal hücreler kültürde büyütüldüklerinde**
   - **Büyüme tek bir tabaka oluşana kadar devam eder**
@@ -597,7 +597,7 @@ karsinomları**
 
 **Figure 3.7 from The Biology Of Cancer (2007) - Weinberg**
 
-# E-cadherin
+## E-cadherin
 
 - **E-cadherin epitelyal hücrelerdeki hücre-hücre bağlantılarını
   sağlar**
@@ -638,7 +638,7 @@ karsinomları**
 
 **Robbins Basic Pathology**
 
-# Adenomatous Polyposis Coli
+## Adenomatous Polyposis Coli
 
 - **APC bir tümör baskılayıcı gendir**
 - **Tek alleldeki mutasyonda**
@@ -664,11 +664,11 @@ karsinomları**
 
 ![](./img-local/Kanserin-Ozellikleri-171.jpg)
 
-# HÜCRE ÖLÜMÜNDEN KAÇIŞ
+## HÜCRE ÖLÜMÜNDEN KAÇIŞ
 
 ![](./img-local/Kanserin-Ozellikleri-172.png)
 
-# Dış yolak
+## Dış yolak
 
 **TNF reseptörü CD95 (Fas) ligandı olan CD95L’a bağlanır**
 
@@ -688,7 +688,7 @@ karsinomları**
 
 ![](./img-local/Kanserin-Ozellikleri-173.png)
 
-# İç yolak
+## İç yolak
 
 **Büyüme faktörlerinin kaybı, stres, hasar**
 
@@ -704,7 +704,7 @@ karsinomları**
 
 **Robbins Basic Pathology**
 
-# Intrinsic Yolak (İç yolak)
+## Intrinsic Yolak (İç yolak)
 
 - **Pro-apoptotik proteinler**
   - **BAX ve BAK**
@@ -718,7 +718,7 @@ karsinomları**
 
 **Robbins Basic Pathology**
 
-# Folliküler B Hücreli Lenfoma
+## Folliküler B Hücreli Lenfoma
 
 - **t(14;18) (q32;q21) translokasyonu**
 - **14q32**
@@ -733,7 +733,7 @@ karsinomları**
   - **Aktif proliferasyona neden olan bir mutasyon değil, ölümü
     engelleyen bir mutasyon olduğu için**
 
-# Otofaji
+## Otofaji
 
 - **Stres altında hücrenin kendi parçalarını tüketmesi**
 - **Kanser hücreleri otofajiye engel olan mutasyonlar oluşturabilir**
@@ -743,9 +743,9 @@ karsinomları**
 
 ![](./img-local/Kanserin-Ozellikleri-174.jpg)
 
-# SINIRSIZ ÇOĞALMA POTANSIYELI
+## SINIRSIZ ÇOĞALMA POTANSIYELI
 
-# Normal hücrelerde telomerler kısalır
+## Normal hücrelerde telomerler kısalır
 
 ![](./img-local/Kanserin-Ozellikleri-175.png)
 
@@ -759,7 +759,7 @@ karsinomları**
 
 **Robbins Basic Pathology**
 
-# Neoplazide telomer kısalması
+## Neoplazide telomer kısalması
 
 ![](./img-local/Kanserin-Ozellikleri-176.png)
 

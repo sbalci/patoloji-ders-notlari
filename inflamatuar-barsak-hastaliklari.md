@@ -3,11 +3,11 @@ Serdar Balcı
 
 ![](./img-local/Inflamatuar-Barsak-Hastal%C4%B1klar%C4%B10.jpg)
 
-# Inflamatuar Barsak Hastalıkları
+## Inflamatuar Barsak Hastalıkları
 
-# Dr. Serdar BALCI
+## Dr. Serdar BALCI
 
-# İnflamatuar Barsak Hastalığı (IBH)
+## İnflamatuar Barsak Hastalığı (IBH)
 
 **Kronik hastalık**
 
@@ -31,7 +31,7 @@ Serdar Balcı
 
 **Robbins Basic Pathology**
 
-# IBH
+## IBH
 
 - **Daha çok kadınlarda**
 - **Adolesan ve genç erişkinlerde**
@@ -46,7 +46,7 @@ Serdar Balcı
   - **Mukozal immünitenin gelişmesine engel**
   - **Uygunsuz immün cevap**
 
-# IBH nedenleri hala belirsiz
+## IBH nedenleri hala belirsiz
 
 **İntestinal mikroplarla uygunsuz interaksiyon**
 
@@ -54,7 +54,7 @@ Serdar Balcı
 
 **Aberan mukozal immün yanıt**
 
-# Genetik
+## Genetik
 
 - **Aile öyküüs varsa risk artıyor**
 
@@ -88,7 +88,7 @@ Serdar Balcı
 
 - **Bu genlerin UC ile ilişkisi yok**
 
-# Mukozal immün cevap
+## Mukozal immün cevap
 
 - **İmmünmodülator ve immünsüpresif ajanlar IBH tedavisinde
   kullanılıyor**
@@ -105,7 +105,7 @@ Serdar Balcı
 **IL-10 geni ve IL-10 reseptör genindeki polimorfizmler UC ile ilişkili,
 CD ile ilişkili değil**
 
-# Epitelyal defekt
+## Epitelyal defekt
 
 - **İntestinal epitel “tight junction” bariyerleri**
   - **CD hastalarında ve sağlıklı birinci derece yakınlarında**
@@ -116,7 +116,7 @@ CD ile ilişkili değil**
   - **Antimikrobiyal peptid içerirler**
   - **CD hastalarında anormal, ATG16L1 mutasyonları**
 
-# Mikrobiyal içerik
+## Mikrobiyal içerik
 
 - **İntestinal mikrobiyal içerik IBH patogenezine etken**
   - **Metronidazol CD tedavisinde kullanılıyor**
@@ -132,7 +132,7 @@ CD ile ilişkili değil**
 
 ![](./img-local/Inflamatuar-Barsak-Hastal%C4%B1klar%C4%B16.png)
 
-# Crohn Hastalığı
+## Crohn Hastalığı
 
 - **Bölgesel enterit**
 - **GIS her bölgesinde olabilir**
@@ -198,7 +198,7 @@ coarsely textured (“cobblestone”) mucosa with fissures**
 
 **Robbins Basic Pathology**
 
-# Aktif Crohn Hastalığı
+## Aktif Crohn Hastalığı
 
 **Belirgin nötrofilik infiltrasyon ve kript epitel hasarı**
 
@@ -221,7 +221,7 @@ düzensiz kriptler**
 
 **Robbins Basic Pathology**
 
-# Crohn Hastalığı
+## Crohn Hastalığı
 
 - **Epitelyal metaplazi**
   - **Kronik tekrarlayan hasar**
@@ -292,7 +292,7 @@ düzensiz kriptler**
 
 **Robbins Basic Pathology**
 
-# Ülseratif Kolit
+## Ülseratif Kolit
 
 - **Kolon ve rektuma sınırlı**
 - **Ekstraintestinal bulgular Crohn ile örtüşür**
@@ -361,7 +361,7 @@ düzensiz kriptler**
   - **Kolonda dilatasyon**
   - **Belirign bir perforasyon riski**
 
-# Histolojik Bulgular
+## Histolojik Bulgular
 
 ![](./img-local/Inflamatuar-Barsak-Hastal%C4%B1klar%C4%B123.png)
 
@@ -377,7 +377,7 @@ düzensiz kriptler**
 
 **Robbins Basic Pathology**
 
-# Ülseratif Kolit
+## Ülseratif Kolit
 
 - **İleri olfularda**
   - **Submukozaya ilerleyen ülserler**
@@ -393,13 +393,13 @@ düzensiz kriptler**
 **Kolektomi ile intestinal hastalık tedavi edilir, ekstraintestinal
 bulgular kalır**
 
-# Indeterminate Kolit
+## Indeterminate Kolit
 
 **UC ve CD ayırt edilemediği durumlarda**
 
 **IBH %10’u**
 
-# Kolit ilişkili neoplazi
+## Kolit ilişkili neoplazi
 
 - **UC ve CD uzun dönem komplikasyonu**
 - **Displazi olarak başlar**

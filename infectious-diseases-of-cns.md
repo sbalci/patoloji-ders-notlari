@@ -3,11 +3,11 @@ Serdar Balcı
 
 ![](./img-local/Infectious-Diseases-of-CNS0.jpg)
 
-# Infectious Diseases of CNS
+## Infectious Diseases of CNS
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# Infectious Diseases of CNS
+## Infectious Diseases of CNS
 
 - **Agents specific for CNS**
   - **Rabies**
@@ -18,7 +18,7 @@ Serdar Balcı
     microbial toxins**
   - **consequence of the host innate or adaptive immune response**
 
-# How do infectious agents reach the nervous system
+## How do infectious agents reach the nervous system
 
 - **Hematogenous spread**
   - **Arterial blood supply**
@@ -43,13 +43,13 @@ Serdar Balcı
     - **Rabies**
     - **Herpes zoster viruses**
 
-# Epidural and Subdural Infections
+## Epidural and Subdural Infections
 
 **Bacterial or fungal infections**
 
 **Usually as a consequence of direct local spread**
 
-# Epidural Infections
+## Epidural Infections
 
 - **Epidural abscesses**
   - **Arise from an adjacent focus of infection**
@@ -58,7 +58,7 @@ Serdar Balcı
   - **Cause spinal cord compression**
   - **Neurosurgical emergency**
 
-# Subdural Infections
+## Subdural Infections
 
 - **Subdural empyema**
   - **When infections of the skull or air sinuses spread to the subdural
@@ -70,7 +70,7 @@ Serdar Balcı
   - **Venous occlusion**
   - **Infarction of the brain**
 
-# Meningitis
+## Meningitis
 
 - **Inflammatory process involving the leptomeninges within the
   subarachnoid space**
@@ -82,7 +82,7 @@ Serdar Balcı
   - **aseptic (usually viral)**
   - **chronic (usually tuberculous, spirochetal, or cryptococcal)**
 
-# Acute Pyogenic Meningitis (Bacterial Meningitis)
+## Acute Pyogenic Meningitis (Bacterial Meningitis)
 
 - **Most likely organisms vary with patient age**
 - **Neonates**
@@ -122,7 +122,7 @@ surface**
 
 **Robbins Basic Pathology**
 
-# Acute meningitis
+## Acute meningitis
 
 - **Neutrophils**
   - **fill the entire subarachnoid space in severely affected areas**
@@ -134,7 +134,7 @@ surface**
   infarction of the underlying brain**
 - **If treated early, there may be little or no morphologic residuum**
 
-# Aseptic Meningitis (Viral Meningitis)
+## Aseptic Meningitis (Viral Meningitis)
 
 - **Meningeal irritation, fever, and alterations in consciousness**
 - **Relatively acute onset**
@@ -152,7 +152,7 @@ surface**
   - **no recognizable abnormality**
   - **mild to moderate leptomeningeal lymphocytic infiltrate**
 
-# Chronic Meningitis
+## Chronic Meningitis
 
 **Mycobacteria**
 
@@ -160,7 +160,7 @@ surface**
 
 **They may involve the brain parenchyma**
 
-# Tuberculous Meningitis
+## Tuberculous Meningitis
 
 - **Generalized signs and symptoms of headache, malaise, mental
   confusion, and vomiting**
@@ -189,7 +189,7 @@ surface**
   - **well-formed granulomas**
   - **caseous necrosis and giant cells**
 
-# Spirochetal Infections
+## Spirochetal Infections
 
 - **Neurosyphilis**
   - **tertiary syphilis**
@@ -216,7 +216,7 @@ surface**
   - **sensory disturbances, “lightning pains”**
   - **absence of deep tendon reflexes**
 
-# Neuroborreliosis
+## Neuroborreliosis
 
 - **Borrelia burgdorferi**
 - **Lyme disease**
@@ -226,7 +226,7 @@ surface**
   - **mild encephalopathy**
   - **polyneuropathies**
 
-# Brain Abscesses
+## Brain Abscesses
 
 - **Nearly always caused by bacterial infections**
 - **Direct implantation of organisms**
@@ -291,7 +291,7 @@ surface**
 
 **Zone of reactive gliosis**
 
-# Viral Encephalitis
+## Viral Encephalitis
 
 - **Parenchymal infection**
 - **Meningoencephalitis**
@@ -318,7 +318,7 @@ surface**
 **Herpes encephalitis showing extensive destruction of inferior frontal
 and anterior temporal lobes**
 
-<span style="color:#FFFFFF">Robbins Basic Pathology</span>
+<span style="color:##FFFFFF">Robbins Basic Pathology</span>
 
 ![](./img-local/Infectious-Diseases-of-CNS12.png)
 
@@ -327,7 +327,7 @@ nodule and multinucleate giant cell**
 
 **Robbins Basic Pathology**
 
-# Arboviruses
+## Arboviruses
 
 - **Arthropod-borne viruses**
 - **Epidemic encephalitis**
@@ -342,7 +342,7 @@ nodule and multinucleate giant cell**
 - **Phagocytosis of neuronal debris**
 - **In severe cases necrotizing vasculitis, focal hemorrhages**
 
-# HSV-1 encephalitis
+## HSV-1 encephalitis
 
 - **most common in children and young adults**
 - **alterations in mood, memory, and behavior**
@@ -356,14 +356,14 @@ nodule and multinucleate giant cell**
 - **Large eosinophilic intranuclear viral inclusions (Cowdry type A
   bodies) in neurons and glial cells**
 
-# HSV-2
+## HSV-2
 
 **Meningitis in adults**
 
 **Disseminated severe encephalitis neonates born by vaginal delivery to
 women with active primary HSV genital infections**
 
-# Varicella-zoster virus (VZV)
+## Varicella-zoster virus (VZV)
 
 **chickenpox during primary infection**
 
@@ -371,7 +371,7 @@ women with active primary HSV genital infections**
 
 **Reactivation in the distribution of one or a few dermatomes**
 
-# Cytomegalovirus
+## Cytomegalovirus
 
 - **Fetuses and immunosuppressed persons**
 - **All cells within the CNS (neurons, glial cells, ependyma, and
@@ -384,7 +384,7 @@ women with active primary HSV genital infections**
 - **Most severe in the periventricular region**
 - **Lesions can be hemorrhagic, contain typical viral inclusions**
 
-# Poliovirus
+## Poliovirus
 
 - **Enterovirus**
 - **Secondarily invades the nervous system**
@@ -393,7 +393,7 @@ women with active primary HSV genital infections**
 - **Postpolio syndrome**
   - **25-35 years after the initial illness**
 
-# Rabies Virus
+## Rabies Virus
 
 **Virus enters the CNS by ascending along the peripheral nerves from the
 wound site**
@@ -401,7 +401,7 @@ wound site**
 **Incubation period depends on the distance between the wound and the
 brain**
 
-# Human Immunodeficiency Virus
+## Human Immunodeficiency Virus
 
 - **Direct effects of virus on the nervous system**
 - **Opportunistic infections**
@@ -412,7 +412,7 @@ brain**
   - **Cytokine-induced inflammation and toxic effects of HIV-derived
     proteins**
 
-# HIV encephalitis
+## HIV encephalitis
 
 - **Chronic inflammatory reaction**
 - **Widely distributed infiltrates of microglial nodules**
@@ -428,7 +428,7 @@ brain**
 - **HIV is present in CD4+ mononuclear and multinucleate macrophages and
   microglia**
 
-# Polyomavirus and Progressive Multifocal Leukoencephalopathy
+## Polyomavirus and Progressive Multifocal Leukoencephalopathy
 
 - **JC virus**
   - **Polyomavirus**
@@ -464,7 +464,7 @@ by glassy-appearing amphophilic viral inclusions**
 
 **Robbins Basic Pathology**
 
-# Fungal Encephalitis
+## Fungal Encephalitis
 
 - **Parenchymal granulomas or abscesses**
 - **Often associated with meningitis**
@@ -484,7 +484,7 @@ by glassy-appearing amphophilic viral inclusions**
     dermatitidis**
   - **Immunosuppression**
 
-# Cryptococcus neoformans
+## Cryptococcus neoformans
 
 - **Both meningitis and meningoencephalitis**
 - **immunosuppression**
@@ -505,7 +505,7 @@ by glassy-appearing amphophilic viral inclusions**
 
 **Robbins Basic Pathology**
 
-# Cerebral Toxoplasmosis
+## Cerebral Toxoplasmosis
 
 - **Toxoplasma gondii**
 - **immunosuppressed adults**
@@ -529,7 +529,7 @@ by glassy-appearing amphophilic viral inclusions**
 
 **Robbins Basic Pathology**
 
-# Cysticercosis
+## Cysticercosis
 
 **End-stage infection by the tapeworm Tenia solium**
 
@@ -544,14 +544,14 @@ including eosinophils**
 
 **Associated with marked gliosis**
 
-# Amebiasis
+## Amebiasis
 
 - **Naegleria spp.**
   - **rapidly fatal necrotizing encephalitis**
 - **Acanthamoeba**
   - **chronic granulomatous meningoencephalitis**
 
-# Prion Diseases
+## Prion Diseases
 
 - **Sporadic, familial, iatrogenic, and variant forms of
   Creutzfeldt-Jakob disease (CJD)**
@@ -576,13 +576,13 @@ including eosinophils**
 
 **Robbins Basic Pathology**
 
-# Sporadic cases of prion disease (sCJD)
+## Sporadic cases of prion disease (sCJD)
 
 **PrP c also may change its conformation spontaneously**
 
 **Extremely low rate **
 
-# Early-onset familial forms of prion disease (fCJD)
+## Early-onset familial forms of prion disease (fCJD)
 
 **Certain mutations in the gene encoding PrP c ( PRNP ) accelerate the
 rate of spontaneous conformational change**
@@ -609,7 +609,7 @@ additional molecules of PrPc into PrPsc through physical interaction**
 
 **Robbins Basic Pathology**
 
-# Creutzfeldt-Jakob Disease
+## Creutzfeldt-Jakob Disease
 
 - **Rapidly progressive dementing illness**
 - **Sporadic in approximately 85% of cases**
@@ -648,7 +648,7 @@ K–resistant PrP sc in tissue**
 **Western blotting of tissue extracts after partial protease digestion
 allows detection of diagnostic PrP sc .**
 
-# Variant Creutzfeldt-Jakob Disease
+## Variant Creutzfeldt-Jakob Disease
 
 - **Starting in 1995, cases of a CJD-like illness appeared in the United
   Kingdom**

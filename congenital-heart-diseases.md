@@ -3,11 +3,11 @@ Serdar Balcı
 
 ![](./img-local/Congenital-Heart-Diseases0.jpg)
 
-# Congenital Heart Diseases
+## Congenital Heart Diseases
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# Congenital heart diseases
+## Congenital heart diseases
 
 **Abnormalities of the heart or great vessels that are present at
 birth**
@@ -24,7 +24,7 @@ birth**
 
 ![](./img-local/Congenital-Heart-Diseases2.png)
 
-# Surgery
+## Surgery
 
 **May correct the hemodynamic abnormalities**
 
@@ -37,7 +37,7 @@ birth**
 **Secondary arrhythmias, ischemia, and myocardial dysfunction, appear
 many years after surgical correction**
 
-# Pathogenesis
+## Pathogenesis
 
 - **Faulty embryogenesis during gestational 3-8 weeks**
 - **Cause is unknown in almost 90% of cases**
@@ -49,7 +49,7 @@ many years after surgical correction**
     - **Familial forms of congenital heart disease**
     - **Trisomies 13, 15, 18, and 21, and Turner syndrome**
 
-# Cardiac morphogenesis
+## Cardiac morphogenesis
 
 - **Multiple genes**
   - **Commitment of progenitor cells to the myocardial lineage**
@@ -72,7 +72,7 @@ many years after surgical correction**
 
 **Robbins Basic Pathology**
 
-# Shunt
+## Shunt
 
 **abnormal communication between chambers or blood vessels**
 
@@ -88,7 +88,7 @@ vice versa**
 
 ![](./img-local/Congenital-Heart-Diseases5.png)
 
-# Left-to-right shunts
+## Left-to-right shunts
 
 **Most common type of congenital cardiac malformation**
 
@@ -107,7 +107,7 @@ causes pulmonary hypertension**
 
 **Reversal of blood flow occurs, right-to-left shunting, cyanosis**
 
-# 
+## 
 
 **In contrast, ** *left-to-right shunts* \_\_ (e.g., ASD, VSD, and
 patent ductus arteriosus \[PDA\]) increase pulmonary blood flow, but are
@@ -129,7 +129,7 @@ original left-to-right shunt becomes a right-to-left shunt that
 introduces poorly oxygenated blood into the systemic circulation **
 *(Eisenmenger syndrome).*
 
-# Left-to-right shunts
+## Left-to-right shunts
 
 - **Reversal of flow and shunting of unoxygenated blood into the
   systemic circulation**
@@ -138,7 +138,7 @@ introduces poorly oxygenated blood into the systemic circulation **
   - **The structural defects of congenital heart disease are considered
     irreversible**
 
-# Patent Foramen Ovale
+## Patent Foramen Ovale
 
 - **Septum primum and septum secundum grow to occlude the foramen
   ovale**
@@ -149,7 +149,7 @@ introduces poorly oxygenated blood into the systemic circulation **
 
 ![](./img-local/Congenital-Heart-Diseases6.png)
 
-# Atrial Septal Defect
+## Atrial Septal Defect
 
 **Abnormal fixed opening in the atrial septum**
 
@@ -159,7 +159,7 @@ introduces poorly oxygenated blood into the systemic circulation **
 
 ![](./img-local/Congenital-Heart-Diseases7.png)
 
-# Ostium secundum ASDs
+## Ostium secundum ASDs
 
 **90% of ASDs**
 
@@ -174,7 +174,7 @@ and dilation of the pulmonary artery**
 
 ![](./img-local/Congenital-Heart-Diseases8.png)
 
-# Ostium primum ASDs
+## Ostium primum ASDs
 
 **5%**
 
@@ -189,7 +189,7 @@ canal**
 
 ![](./img-local/Congenital-Heart-Diseases9.png)
 
-# Sinus venosus ASDs
+## Sinus venosus ASDs
 
 **5%**
 
@@ -200,7 +200,7 @@ superior vena cava**
 
 **Robbins Basic Pathology**
 
-# Ventricular Septal Defects
+## Ventricular Septal Defects
 
 ![](./img-local/Congenital-Heart-Diseases10.png)
 
@@ -246,7 +246,7 @@ virtually the entire interventricular wall**
 
 **Robbins Basic Pathology**
 
-# Patent Ductus Arteriosus
+## Patent Ductus Arteriosus
 
 ![](./img-local/Congenital-Heart-Diseases14.png)
 
@@ -269,7 +269,7 @@ virtually the entire interventricular wall**
 
 ![](./img-local/Congenital-Heart-Diseases16.png)
 
-# Right-to-Left Shunts
+## Right-to-Left Shunts
 
 - **Severe, systemic, early cyanosis**
 - **Clubbing of the tips of the fingers and toes**
@@ -281,7 +281,7 @@ virtually the entire interventricular wall**
 
 ![](./img-local/Congenital-Heart-Diseases17.png)
 
-# Tetralogy of Fallot
+## Tetralogy of Fallot
 
 **Most common cause of cyanotic congenital heart disease**
 
@@ -340,7 +340,7 @@ virtually the entire interventricular wall**
 
 **Robbins Basic Pathology**
 
-# Transposition of the Great Arteries
+## Transposition of the Great Arteries
 
 **Separation of the systemic and pulmonary circulations**
 
@@ -363,7 +363,7 @@ ventricle**
 
 ![](./img-local/Congenital-Heart-Diseases25.png)
 
-# Transposition of the Great Arteries with VSD
+## Transposition of the Great Arteries with VSD
 
 - **1/3 of cases**
 - **Provide stable shunts**
@@ -385,7 +385,7 @@ ventricle**
 
 **Robbins Basic Pathology**
 
-# Obstructive Lesions
+## Obstructive Lesions
 
 - **At the level of the heart valves**
 - **More distally within a great vessel**
@@ -396,7 +396,7 @@ ventricle**
 - **Aortic valve atresia**
 - **Coarctation of the aorta**
 
-# Aortic Coarctation
+## Aortic Coarctation
 
 ![](./img-local/Congenital-Heart-Diseases27.png)
 
@@ -417,7 +417,7 @@ ventricle**
 **Aortic valve stenosis, ASD, VSD, or mitral regurgitation also can be
 present **
 
-# Coarctation of AortaInfantile form
+## Coarctation of AortaInfantile form
 
 ![](./img-local/Congenital-Heart-Diseases28.png)
 
@@ -433,7 +433,7 @@ present **
 
 **Robbins Basic Pathology**
 
-# Coarctation of AortaAdult form
+## Coarctation of AortaAdult form
 
 ![](./img-local/Congenital-Heart-Diseases29.png)
 

@@ -3,9 +3,9 @@ Serdar Balcı
 
 ![](./img-local/Hallmarks-of-Cancer-10.jpg)
 
-# Hallmarks of Cancer-1
+## Hallmarks of Cancer-1
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
 ![](./img-local/Hallmarks-of-Cancer-11.jpg)
 
@@ -21,26 +21,26 @@ Serdar Balcı
 
 ![](./img-local/Hallmarks-of-Cancer-16.png)
 
-<span style="color:#FFFFFF"> *Cell* </span>
-<span style="color:#FFFFFF"> 2011 144, 646-674DOI:
+<span style="color:##FFFFFF"> *Cell* </span>
+<span style="color:##FFFFFF"> 2011 144, 646-674DOI:
 (10.1016/j.cell.2011.02.013) </span>
 
 **Cell. 2011 Mar 4;144(5):646-74**
 
-<span style="color:#FFFFFF">Copyright © 2011 Elsevier Inc.</span>
+<span style="color:##FFFFFF">Copyright © 2011 Elsevier Inc.</span>
 *[Terms and Conditions](http://www.elsevier.com/termsandconditions)*
 
 ![](./img-local/Hallmarks-of-Cancer-17.jpg)
 
 ![](./img-local/Hallmarks-of-Cancer-18.png)
 
-<span style="color:#FFFFFF"> *Cell* </span>
-<span style="color:#FFFFFF"> 2011 144, 646-674DOI:
+<span style="color:##FFFFFF"> *Cell* </span>
+<span style="color:##FFFFFF"> 2011 144, 646-674DOI:
 (10.1016/j.cell.2011.02.013) </span>
 
 **Cell. 2011 Mar 4;144(5):646-74**
 
-<span style="color:#FFFFFF">Copyright © 2011 Elsevier Inc.</span>
+<span style="color:##FFFFFF">Copyright © 2011 Elsevier Inc.</span>
 *[Terms and Conditions](http://www.elsevier.com/termsandconditions)*
 
 ![](./img-local/Hallmarks-of-Cancer-19.png)
@@ -51,13 +51,13 @@ Serdar Balcı
 
 ![](./img-local/Hallmarks-of-Cancer-111.png)
 
-<span style="color:#FFFFFF"> *Cell* </span>
-<span style="color:#FFFFFF"> 2011 144, 646-674DOI:
+<span style="color:##FFFFFF"> *Cell* </span>
+<span style="color:##FFFFFF"> 2011 144, 646-674DOI:
 (10.1016/j.cell.2011.02.013) </span>
 
 **Cell. 2011 Mar 4;144(5):646-74**
 
-<span style="color:#FFFFFF">Copyright © 2011 Elsevier Inc.</span>
+<span style="color:##FFFFFF">Copyright © 2011 Elsevier Inc.</span>
 *[Terms and Conditions](http://www.elsevier.com/termsandconditions)*
 
 ![](./img-local/Hallmarks-of-Cancer-112.png)
@@ -68,13 +68,13 @@ Serdar Balcı
 
 ![](./img-local/Hallmarks-of-Cancer-114.png)
 
-<span style="color:#FFFFFF"> *Cell* </span>
-<span style="color:#FFFFFF"> 2011 144, 646-674DOI:
+<span style="color:##FFFFFF"> *Cell* </span>
+<span style="color:##FFFFFF"> 2011 144, 646-674DOI:
 (10.1016/j.cell.2011.02.013) </span>
 
 **Cell. 2011 Mar 4;144(5):646-74**
 
-<span style="color:#FFFFFF">Copyright © 2011 Elsevier Inc.</span>
+<span style="color:##FFFFFF">Copyright © 2011 Elsevier Inc.</span>
 *[Terms and Conditions](http://www.elsevier.com/termsandconditions)*
 
 ![](./img-local/Hallmarks-of-Cancer-115.png)
@@ -85,29 +85,29 @@ Serdar Balcı
 
 ![](./img-local/Hallmarks-of-Cancer-117.png)
 
-<span style="color:#FFFFFF"> *Cell* </span>
-<span style="color:#FFFFFF"> 2011 144, 646-674DOI:
+<span style="color:##FFFFFF"> *Cell* </span>
+<span style="color:##FFFFFF"> 2011 144, 646-674DOI:
 (10.1016/j.cell.2011.02.013) </span>
 
 **Cell. 2011 Mar 4;144(5):646-74**
 
-<span style="color:#FFFFFF">Copyright © 2011 Elsevier Inc.</span>
+<span style="color:##FFFFFF">Copyright © 2011 Elsevier Inc.</span>
 *[Terms and Conditions](http://www.elsevier.com/termsandconditions)*
 
 ![](./img-local/Hallmarks-of-Cancer-118.jpg)
 
 ![](./img-local/Hallmarks-of-Cancer-119.png)
 
-<span style="color:#FFFFFF"> *Cell* </span>
-<span style="color:#FFFFFF"> 2011 144, 646-674DOI:
+<span style="color:##FFFFFF"> *Cell* </span>
+<span style="color:##FFFFFF"> 2011 144, 646-674DOI:
 (10.1016/j.cell.2011.02.013) </span>
 
 **Cell. 2011 Mar 4;144(5):646-74**
 
-<span style="color:#FFFFFF">Copyright © 2011 Elsevier Inc.</span>
+<span style="color:##FFFFFF">Copyright © 2011 Elsevier Inc.</span>
 *[Terms and Conditions](http://www.elsevier.com/termsandconditions)*
 
-# 
+## 
 
 **http://www.cellsignal.com/common/content/content.jsp?id=science-pathways**
 
@@ -115,7 +115,7 @@ Serdar Balcı
 
 **Robbins Basic Pathology**
 
-# Hallmarks of Cancer
+## Hallmarks of Cancer
 
 **Self-sufficiency in growth signals**
 
@@ -135,9 +135,9 @@ Serdar Balcı
 
 ![](./img-local/Hallmarks-of-Cancer-121.jpg)
 
-# SELF-SUFFICIENCY IN GROWTH SIGNALS
+## SELF-SUFFICIENCY IN GROWTH SIGNALS
 
-# Self-Sufficiency in Growth Signals
+## Self-Sufficiency in Growth Signals
 
 - **Physiologic Growth**
   - **The binding of a growth factor to its specific receptor on the
@@ -193,7 +193,7 @@ Serdar Balcı
 
 **Robbins Basic Pathology**
 
-# Growth Factors
+## Growth Factors
 
 - **Cancer cells synthesize the same growth factors to which they are
   responsive**
@@ -209,7 +209,7 @@ Serdar Balcı
   - **Then the stromal cells produce growth factors that promote tumor
     growth**
 
-# Growth Factor Receptors andNon-Receptor Tyrosine Kinases
+## Growth Factor Receptors andNon-Receptor Tyrosine Kinases
 
 **Mutant receptor proteins:**
 
@@ -233,7 +233,7 @@ Serdar Balcı
     prognosis**
   - **Anti-HER2/NEU antibodies used in breast cancer treatment**
 
-# Downstream Signal-Transducing Proteins
+## Downstream Signal-Transducing Proteins
 
 - **They receive signal from receptors**
 - **Carry signal to nucleus via**
@@ -244,7 +244,7 @@ Serdar Balcı
 - **RAS**
 - **ABL**
 
-# RAS protein
+## RAS protein
 
 - **Most commonly mutated proto-oncogene in human tumors**
 - **30% of all tumors contain RAS mutation**
@@ -254,7 +254,7 @@ Serdar Balcı
 
 ![](./img-local/Hallmarks-of-Cancer-138.png)
 
-# RAS
+## RAS
 
 - **Normally**
   - **active when bound to GTP**
@@ -268,7 +268,7 @@ Serdar Balcı
 
 ![](./img-local/Hallmarks-of-Cancer-139.png)
 
-# GAPs
+## GAPs
 
 - **GTPase-activating protein**
 - **Neurofibromin-1 (NF-1)**
@@ -280,7 +280,7 @@ Serdar Balcı
 
 ![](./img-local/Hallmarks-of-Cancer-140.png)
 
-# RAF/ERK/MAP kinase pathway
+## RAF/ERK/MAP kinase pathway
 
 **Active in 60% of melanomas**
 
@@ -288,7 +288,7 @@ Serdar Balcı
 
 **Robbins Basic Pathology**
 
-# ABL
+## ABL
 
 - **Non-receptor-associated-tyrosine kinase**
 - **Chronic Myelogenous Leukemia**
@@ -303,13 +303,13 @@ Serdar Balcı
 
 **Robbins and Cotran’s Pathological Basis of Diseases**
 
-# Nuclear Transcription Factors
+## Nuclear Transcription Factors
 
 - **MYC, MYB, JUN, FOS, and REL oncogenes**
   - **Regulate the expression of growth-promoting genes, such as
     cyclins**
 
-# MYC
+## MYC
 
 - **Activate growth-promoting genes cyclin-dependent kinases (CDKs)**
 - **Inhibit CDK inhibitors (CDKIs)**
@@ -334,7 +334,7 @@ Serdar Balcı
 
 **Robbins and Cotran’s Pathological Basis of Diseases**
 
-# Cyclins and Cyclin-Dependent Kinases
+## Cyclins and Cyclin-Dependent Kinases
 
 - **Checkpoints**
 - **G0 → G1**
@@ -371,17 +371,17 @@ Serdar Balcı
 
 **Robbins Basic Pathology**
 
-# Homework
+## Homework
 
 **Rous sarcoma virus**
 
 ![](./img-local/Hallmarks-of-Cancer-147.jpg)
 
-# INSENSITIVITY TO GROWTH INHIBITORY SIGNALS
+## INSENSITIVITY TO GROWTH INHIBITORY SIGNALS
 
 **Tumor Supressor Genes**
 
-# RB Gene: Governor of the Cell Cycle
+## RB Gene: Governor of the Cell Cycle
 
 - **13q14**
 - **Retinoblastoma occurs as a similar disease both in sporadic and
@@ -392,7 +392,7 @@ Serdar Balcı
 - **Patients with retinoblastoma have increased risk of**
   - **Osteosarcoma and soft tissue sarcomas**
 
-# Retinoblastoma
+## Retinoblastoma
 
 ![](./img-local/Hallmarks-of-Cancer-148.jpg)
 
@@ -410,7 +410,7 @@ PMC3530407**
 **Figure 7.4b ** \_ The Biology of Cancer\_ \_\_ (© Garland Science
 2007)\_\_
 
-# Knudson two-hit hypothesis
+## Knudson two-hit hypothesis
 
 ![](./img-local/Hallmarks-of-Cancer-153.png)
 
@@ -420,7 +420,7 @@ PMC3530407**
 
 **Robbins Basic Pathology**
 
-# Does a cell become neoplastic when one Rb gene is mutated?
+## Does a cell become neoplastic when one Rb gene is mutated?
 
 **No**
 
@@ -456,7 +456,7 @@ mutated?**
 
 ![](./img-local/Hallmarks-of-Cancer-160.png)
 
-# TP53 GeneGuardian of the Genome
+## TP53 GeneGuardian of the Genome
 
 - **Quiescence**
   - **Activation of temporary cell cycle arrest**
@@ -467,7 +467,7 @@ mutated?**
 
 **Rb “senses” external signals, p53 monitors internal stress**
 
-# p53 is activated by
+## p53 is activated by
 
 **Anoxia**
 
@@ -477,7 +477,7 @@ mutated?**
 
 **p53 is a DNA damage response protein**
 
-# p53
+## p53
 
 - **Normally**
   - **p53 has a short half-life**
@@ -496,7 +496,7 @@ mutated?**
 
 **Robbins Basic Pathology**
 
-# p53-mediated cell cycle arrest
+## p53-mediated cell cycle arrest
 
 **p53 induces transcription of CDKI gene CDKN1A (p21)**
 
@@ -508,7 +508,7 @@ mutated?**
 
 **Time to repair DNA damage**
 
-# p53-induced senescence
+## p53-induced senescence
 
 **Involve global chromatin changes**
 
@@ -516,13 +516,13 @@ mutated?**
 
 **Permanent cell cycle arrest**
 
-# p53-induced apoptosis
+## p53-induced apoptosis
 
 **Irreversible DNA damage**
 
 **pro-apoptotic genes such as BAX and PUMA**
 
-# p53
+## p53
 
 - **70% of human cancers have a biallelic loss in p53**
 - **Others have defects in genes upstream or downstream of TP53**
@@ -530,7 +530,7 @@ mutated?**
   - **Hepatitis B virus**
   - **possibly EBV**
 
-# Li-Fraumeni syndrome
+## Li-Fraumeni syndrome
 
 **Inherit a mutant TP53 allele**
 
@@ -543,7 +543,7 @@ adrenal cortex**
 
 **Multiple primary tumors**
 
-# Transforming Growth Factor-β Pathway
+## Transforming Growth Factor-β Pathway
 
 - **Potent inhibitor of proliferation**
 - **TGF-β receptors I and II**
@@ -564,7 +564,7 @@ adrenal cortex**
 **Figure 5.21 ** \_ The Biology of Cancer\_ \_\_ (© Garland Science
 2007)\_\_
 
-# Transforming Growth Factor-β Pathway Alterations
+## Transforming Growth Factor-β Pathway Alterations
 
 - **Mutations in**
   - **Type II TGF-β receptor**
@@ -579,7 +579,7 @@ adrenal cortex**
 **Figure 6.29d ** \_ The Biology of Cancer\_ \_\_ (© Garland Science
 2007)\_\_
 
-# Contact Inhibition
+## Contact Inhibition
 
 - **Nontransformed cells are grown in culture**
   - **Proliferate until confluent monolayers are generated**
@@ -607,7 +607,7 @@ adrenal cortex**
 
 **Figure 3.7 from The Biology Of Cancer (2007) - Weinberg**
 
-# E-cadherin
+## E-cadherin
 
 - **E-cadherin mediates cell–cell contact in epithelial layers**
 - **Tumor suppressor gene NF2 (neurofibromin-2, merlin), facilitates
@@ -693,7 +693,7 @@ adrenal cortex**
 
 **Robbins Basic Pathology**
 
-# Adenomatous Polyposis Coli
+## Adenomatous Polyposis Coli
 
 - **APC is a tumor suppressor gene**
 - **With one mutant allele**

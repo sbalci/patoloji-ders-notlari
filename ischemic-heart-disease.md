@@ -3,11 +3,11 @@ Serdar Balcı
 
 ![](./img-local/Ischemic-Heart-Disease0.jpg)
 
-# Ischemic Heart Disease
+## Ischemic Heart Disease
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# Myocardial ischemia
+## Myocardial ischemia
 
 **Imbalance between cardiac blood supply (perfusion) and myocardial
 oxygen and nutritional requirements**
@@ -17,7 +17,7 @@ disease**
 
 **Ischemic Heart Disease = Coronary Artery Disease**
 
-# Causes of IHD
+## Causes of IHD
 
 - **CAD**
 - **Increased demand**
@@ -29,7 +29,7 @@ disease**
 - **Diminished oxygen-carrying capacity**
   - **Anemia, carbon monoxide poisoning**
 
-# Ischemic Heart Disease
+## Ischemic Heart Disease
 
 - **\>70% fixed obstruction → critical stenosis**
   - **Exertion → chest pain**
@@ -45,7 +45,7 @@ disease**
 
 ![](./img-local/Ischemic-Heart-Disease1.png)
 
-# Acute coronary syndrome
+## Acute coronary syndrome
 
 - **Acute Plaque Change**
   - **Abrupt thrombosis**
@@ -66,7 +66,7 @@ disease**
 
 **Robbins Basic Pathology**
 
-# Angina Pectoris
+## Angina Pectoris
 
 **Intermittent chest pain**
 
@@ -97,7 +97,7 @@ disease**
 
 **Robbins Basic Pathology**
 
-# Myocardial Infarction
+## Myocardial Infarction
 
 - **Atheromatous plaque is suddenly disrupted**
   - **Intraplaque hemorrhage, mechanical forces**
@@ -110,7 +110,7 @@ disease**
 - **Within minutes, the thrombus completely occlude the coronary artery
   lumen**
 
-# Myocardial Response to Ischemia
+## Myocardial Response to Ischemia
 
 - **Within seconds**
   - **Aerobic glycolysis stops**
@@ -125,7 +125,7 @@ disease**
 - **Early changes are potentially reversible**
 - **Early treatment important**
 
-# Severe ischemia (20-40 minutes)
+## Severe ischemia (20-40 minutes)
 
 **Irreversible damage and myocyte death leading to coagulation
 necrosis**
@@ -134,7 +134,7 @@ necrosis**
 
 **Vessel injury, microvascular thrombosis**
 
-# Postischemic state
+## Postischemic state
 
 - **Myocardium remains dysfunctional for several days**
 - **Persistent abnormalities in cellular biochemistry**
@@ -142,7 +142,7 @@ necrosis**
   - **Stunned myocardium**
 - **Transient but reversible cardiac failure**
 
-# Arrhythmias after ischemia
+## Arrhythmias after ischemia
 
 **Electrical instability (irritability) of ischemic regions**
 
@@ -151,7 +151,7 @@ necrosis**
 **80-90% sudden cardiac death in the setting of myocardial ischemia is
 due to ventricular fibrillation**
 
-# Irreversible injury
+## Irreversible injury
 
 - **Irreversible injury of ischemic myocytes first occurs in the
   subendocardial zone**
@@ -159,7 +159,7 @@ due to ventricular fibrillation**
     vessels**
   - **Exposed to relatively high intramural pressures**
 
-# More prolonged ischemia
+## More prolonged ischemia
 
 - **Cell death moves through other regions of the myocardium**
 - **Infarct in its full extent within 3 to 6 hours**
@@ -175,7 +175,7 @@ due to ventricular fibrillation**
 
 **Robbins Basic Pathology**
 
-# Patterns of Infarction
+## Patterns of Infarction
 
 - **The location, size, and morphologic features of an acute myocardial
   infarct depend on:**
@@ -233,7 +233,7 @@ due to ventricular fibrillation**
 
 **Robbins Basic Pathology**
 
-# Acute infarct macroscopy
+## Acute infarct macroscopy
 
 - **Myocardial infarcts less than 12 hours old**
   - **usually are not grossly apparent**
@@ -262,7 +262,7 @@ due to ventricular fibrillation**
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# Infarct macroscopy
+## Infarct macroscopy
 
 - **12 to 24 hours after MI**
   - **Grossly identified**
@@ -292,7 +292,7 @@ due to ventricular fibrillation**
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# 4-12 hrs microscopy
+## 4-12 hrs microscopy
 
 - **Coagulative necrosis**
 - **“Wavy fibers” at the edges of an infarct**
@@ -322,7 +322,7 @@ due to ventricular fibrillation**
 
 **Robbins Basic Pathology**
 
-# Reperfusion Injury
+## Reperfusion Injury
 
 - **Mitochondrial dysfunction**
   - **Ischemia alters the mitochondrial membrane permeability, which
@@ -377,7 +377,7 @@ or 3 days before death**
 
 **Robbins Basic Pathology**
 
-# Complications of MI
+## Complications of MI
 
 - **Contractile dysfunction**
   - **Cardiogenic Shock**
@@ -431,7 +431,7 @@ or 3 days before death**
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# Chronic Ischemic Heart Disease
+## Chronic Ischemic Heart Disease
 
 - **Ischemic cardiomyopathy**
   - **History of previous MI**

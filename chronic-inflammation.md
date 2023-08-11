@@ -3,9 +3,9 @@ Serdar Balcı
 
 ![](./img-local/Chronic-Inflammation0.jpg)
 
-# Chronic Inflammation
+## Chronic Inflammation
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
 ![](./img-local/Chronic-Inflammation1.png)
 
@@ -33,7 +33,7 @@ Serdar Balcı
 
 **Robbins Basic Pathology**
 
-# Chronic Inflammation
+## Chronic Inflammation
 
 - **inflammation of prolonged duration (weeks to years)**
 - **continuing inflammation**
@@ -50,13 +50,13 @@ Serdar Balcı
 - **Repair**
   - **new vessel proliferation (angiogenesis) and fibrosis**
 
-# Chronic inflammation may arise:1) From acute inflammation
+## Chronic inflammation may arise:1) From acute inflammation
 
 - **acute response cannot be resolved**
   - **persistence of the injurious agent**
   - **interference with the normal process of healing**
 
-# Chronic inflammation may arise:2) Persistent infections by microbes that are difficult to eradicate
+## Chronic inflammation may arise:2) Persistent infections by microbes that are difficult to eradicate
 
 **Mycobacterium tuberculosis**
 
@@ -72,7 +72,7 @@ Serdar Balcı
 
 **delayed-type hypersensitivity**
 
-# Chronic inflammation may arise:3) Immune-mediated inflammatory diseases (hypersensitivity diseases)
+## Chronic inflammation may arise:3) Immune-mediated inflammatory diseases (hypersensitivity diseases)
 
 - **excessive and inappropriate activation of the immune system**
 - **Autoimmune Diseases**
@@ -80,7 +80,7 @@ Serdar Balcı
 - **Allergic Diseases**
   - **bronchial asthma**
 
-# Chronic inflammation may arise:4) Prolonged exposure to potentially toxic agents
+## Chronic inflammation may arise:4) Prolonged exposure to potentially toxic agents
 
 **nondegradable exogenous materials**
 
@@ -92,7 +92,7 @@ Serdar Balcı
 
 ![](./img-local/Chronic-Inflammation4.png)
 
-# Are these chronic inflammatory diseases?We do not know the definite answer, yetJury is still out
+## Are these chronic inflammatory diseases?We do not know the definite answer, yetJury is still out
 
 - **Neurodegenerative disorders**
   - **Alzheimer disease**
@@ -101,13 +101,13 @@ Serdar Balcı
 - **Type 2 diabetes**
 - **Some forms of cancer**
 
-# Mixed acute and chronic inflammation can be observed in immune mediated diseases
+## Mixed acute and chronic inflammation can be observed in immune mediated diseases
 
 **repeated acute phases**
 
 **exacerbation of underlying chronic inflammation**
 
-# Many forms of chronic inflammation may continue to show extensive neutrophilic infiltrates
+## Many forms of chronic inflammation may continue to show extensive neutrophilic infiltrates
 
 - **persistent microbes or necrotic cells**
 - **mediators elaborated by macrophages. **
@@ -115,7 +115,7 @@ Serdar Balcı
   - **“acute on chronic” osteomyelitis**
   - **Active chronic gastritis**
 
-# Some examples for chronic inflammation
+## Some examples for chronic inflammation
 
 ![](./img-local/Chronic-Inflammation5.jpg)
 
@@ -161,7 +161,7 @@ previous episodes of acute cholecystitis**
 **Stephenson, Timothy J., Underwood’s Pathology: A Clinical Approach, 9,
 165-182**
 
-# Chronic Inflammatory Cells and Mediators
+## Chronic Inflammatory Cells and Mediators
 
 **Macrophages**
 
@@ -182,7 +182,7 @@ previous episodes of acute cholecystitis**
 
 **Robbins and Cotran Pathologic Basis of Disease**
 
-# Macrophages
+## Macrophages
 
 **the dominant cells of chronic inflammation**
 
@@ -221,13 +221,13 @@ the bloodstream**
 
 **Robbins and Cotran’s Pathological Basis of Diseases**
 
-# Macrophage Activation
+## Macrophage Activation
 
 ![](./img-local/Chronic-Inflammation19.png)
 
 **Robbins Basic Pathology**
 
-# Classical macrophage activation
+## Classical macrophage activation
 
 ![](./img-local/Chronic-Inflammation20.png)
 
@@ -242,7 +242,7 @@ the bloodstream**
   - **secrete cytokines**
   - **stimulate inflammation**
 
-# Alternative macrophage activation
+## Alternative macrophage activation
 
 ![](./img-local/Chronic-Inflammation21.png)
 
@@ -259,7 +259,7 @@ the bloodstream**
 
 **Robbins and Cotran’s Pathological Basis of Diseases**
 
-# Macrophages
+## Macrophages
 
 - **central to the initiation and propagation of all inflammatory
   reactions**
@@ -274,7 +274,7 @@ the bloodstream**
   - **display antigens to T lymphocytes**
   - **respond to signals from T cells**
 
-# After inflammation
+## After inflammation
 
 **the initiating stimulus is eliminated**
 
@@ -295,7 +295,7 @@ cells**
 
 **RUBINS PATHOLOGY Clinicopathologic Foundations of Medicine**
 
-# Lymphocytes
+## Lymphocytes
 
 - **any specific immune stimulus**
   - **infections**
@@ -305,7 +305,7 @@ cells**
 - **part of the adaptive immune response in infections and immunologic
   diseases**
 
-# T helper cells
+## T helper cells
 
 - **T** **H** **1 cells produce IFN-γ**
   - **activates macrophages in the classical pathway.**
@@ -336,13 +336,13 @@ cells**
 
 **Robbins Basic Pathology**
 
-# Bidirectional Interaction
+## Bidirectional Interaction
 
 ![](./img-local/Chronic-Inflammation26.png)
 
 **Robbins and Cotran’s Pathological Basis of Diseases**
 
-# Activated B lymphocytes and antibody-producing plasma cells
+## Activated B lymphocytes and antibody-producing plasma cells
 
 - **Often present at sites of chronic inflammation**
 - **Antibodies against**
@@ -350,7 +350,7 @@ cells**
   - **self antigens in the inflammatory site or against altered tissue
     components**
 
-# Eosinophils
+## Eosinophils
 
 - **Found in **
   - **around parasitic infections**
@@ -368,7 +368,7 @@ cells**
 
 **Robbins and Cotran’s Pathological Basis of Diseases**
 
-# Mast cells
+## Mast cells
 
 - **sentinel cells**
 - **widely distributed in connective tissues throughout the body**
@@ -386,7 +386,7 @@ cells**
 
 **Cells in chronic inflammation **
 
-# Granulomatous inflammation
+## Granulomatous inflammation
 
 - **characterized by**
 - **aggregates of activated macrophages**
@@ -472,7 +472,7 @@ tissue**
 
 **RUBINS PATHOLOGY Clinicopathologic Foundations of Medicine**
 
-# Mycobacterium tuberculosisacid-fast Ziehl-Neelsen stain; Magnified 1000X.
+## Mycobacterium tuberculosisacid-fast Ziehl-Neelsen stain; Magnified 1000X.
 
 ![](./img-local/Chronic-Inflammation38.jpg)
 
@@ -501,9 +501,9 @@ tissue**
 **The granulomas associated with Crohn disease, sarcoidosis, and foreign
 body reactions**
 
-<span style="color:#FF0000">Do not have necrotic centers</span>
+<span style="color:##FF0000">Do not have necrotic centers</span>
 
-<span style="color:#FF0000">Noncaseating</span> \_\_ \_\_
+<span style="color:##FF0000">Noncaseating</span> \_\_ \_\_
 
 ![](./img-local/Chronic-Inflammation45.png)
 
@@ -517,11 +517,11 @@ anlatıyor. Mithat Bey ona susmasını ihtar etti.“*
 
 **Peyami Safa - Dokuzuncu Hariciye Koğuşu**
 
-# Systemic effects of inflammationacute-phase reaction
+## Systemic effects of inflammationacute-phase reaction
 
 **mediated by the cytokines TNF, IL-1, and IL-6**
 
-# Fever, elevation of body temperature
+## Fever, elevation of body temperature
 
 - **pyrogens stimulate prostaglandin synthesis in the vascular and
   perivascular cells of the hypothalamus**
@@ -535,7 +535,7 @@ anlatıyor. Mithat Bey ona susmasını ihtar etti.“*
   - **reset the temperature set point at a higher level**
 - **NSAIDs (aspirin), reduce fever by inhibiting cyclooxygenase**
 
-# Elevated plasma levels of acute-phase proteins
+## Elevated plasma levels of acute-phase proteins
 
 **Mostly synthesized in the liver, stimulated by cytokines (IL-6)**
 
@@ -547,7 +547,7 @@ anlatıyor. Mithat Bey ona susmasını ihtar etti.“*
 
 **Serum amyloid A (SAA) protein**
 
-# Acute-phase proteins
+## Acute-phase proteins
 
 - **CRP and SAA**
   - **bind to microbial cell walls**
@@ -564,7 +564,7 @@ anlatıyor. Mithat Bey ona susmasını ihtar etti.“*
   responses in patients with inflammatory disorders such as rheumatoid
   arthritis**
 
-# Leukocytosis
+## Leukocytosis
 
 - **initially because of accelerated release of cells from the bone
   marrow**
@@ -583,7 +583,7 @@ anlatıyor. Mithat Bey ona susmasını ihtar etti.“*
 - **typhoid fever, some viruses, rickettsiae, certain protozoa →
   leukopenia**
 
-# Other manifestations of the acute-phase response
+## Other manifestations of the acute-phase response
 
 - **increased heart rate and blood pressure**
 - **decreased sweating**

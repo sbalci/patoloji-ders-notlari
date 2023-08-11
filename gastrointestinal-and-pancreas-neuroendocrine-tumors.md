@@ -3,13 +3,13 @@ Serdar Balcı
 
 ![](./img-local/Gastrointestinal-and-Pancreas-Neuroendocrine-Tumors0.jpg)
 
-# Gastrointestinal and Pancreas Neuroendocrine Tumors
+## Gastrointestinal and Pancreas Neuroendocrine Tumors
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# GASTROINTESTINAL NEUROENDOCRINE TUMORS
+## GASTROINTESTINAL NEUROENDOCRINE TUMORS
 
-# Carcinoid
+## Carcinoid
 
 **Dr. Oberndorfer**
 
@@ -17,13 +17,13 @@ Serdar Balcı
 
 ![](./img-local/Gastrointestinal-and-Pancreas-Neuroendocrine-Tumors1.png)
 
-# Carcinoid vs Neuroendocrine Tumor
+## Carcinoid vs Neuroendocrine Tumor
 
 - **Carcinoid is now only used in lung tumors**
 - **In GIS and pancreas**
   - **Well Differentiated Neuroendocrine Tumor (NET)**
 
-# Well Differentiated Neuroendocrine Tumor
+## Well Differentiated Neuroendocrine Tumor
 
 - **Most in GI Tract**
   - **40% in small intestine**
@@ -31,7 +31,7 @@ Serdar Balcı
 
 ![](./img-local/Gastrointestinal-and-Pancreas-Neuroendocrine-Tumors2.png)
 
-# Neuroendocrine Tumors
+## Neuroendocrine Tumors
 
 - **May be associated with**
   - **Endocrine cell hyperplasia**
@@ -46,7 +46,7 @@ Serdar Balcı
 - **High-grade neuroendocrine tumors**
   - **neuroendocrine carcinoma**
 
-# Neuroendocrine Neoplasms
+## Neuroendocrine Neoplasms
 
 - **Hyperplasia**
   - **In the setting of chronic gastritis**
@@ -58,7 +58,7 @@ Serdar Balcı
   - **G1, G2, G3**
 - **Small cell carcinoma, Large cell carcinoma**
 
-# Grade
+## Grade
 
 ![](./img-local/Gastrointestinal-and-Pancreas-Neuroendocrine-Tumors3.png)
 
@@ -66,7 +66,7 @@ Serdar Balcı
 
 ![](./img-local/Gastrointestinal-and-Pancreas-Neuroendocrine-Tumors4.png)
 
-# Neuroendocrine Tumor
+## Neuroendocrine Tumor
 
 **intramural or submucosal masses**
 
@@ -107,7 +107,7 @@ and obstruction**
 
 ![](./img-local/Gastrointestinal-and-Pancreas-Neuroendocrine-Tumors10.png)
 
-# Cytology
+## Cytology
 
 **Endocr Pathol. 2014 Mar;25(1):65-79**
 
@@ -119,13 +119,13 @@ and obstruction**
 
 ![](./img-local/Gastrointestinal-and-Pancreas-Neuroendocrine-Tumors14.png)
 
-# Clinical Features of GI NET
+## Clinical Features of GI NET
 
 **Peak incidence in the sixth decade, may appear at any age**
 
 **Symptoms by the hormones produced**
 
-# Zollinger-Ellison syndrome
+## Zollinger-Ellison syndrome
 
 **NET produce gastrin**
 
@@ -135,7 +135,7 @@ and obstruction**
 
 **Ulcer formation in stomach**
 
-# Carcinoid syndrome
+## Carcinoid syndrome
 
 **Ileal tumors**
 
@@ -147,7 +147,7 @@ diarrhea, and right-sided cardiac valvular fibrosis**
 **If large tumor, in nonportal circulation, metastasis to liver →
 carcinoid syndrome**
 
-# Location is important for prognosis
+## Location is important for prognosis
 
 - **Foregut**
   - **Stomach, duodenum proximal to the ligament of Treitz, and
@@ -176,11 +176,11 @@ carcinoid syndrome**
   - **Abdominal pain and weight loss**
   - **Discovered when small, metastasis is uncommon**
 
-# PANCREATIC NEUROENDOCRINE TUMORS
+## PANCREATIC NEUROENDOCRINE TUMORS
 
 ![](./img-local/Gastrointestinal-and-Pancreas-Neuroendocrine-Tumors16.png)
 
-# Pancreatic Neuroendocrine Tumors
+## Pancreatic Neuroendocrine Tumors
 
 - **Islet cell tumors**
 - **2% of all pancreatic neoplasms**
@@ -230,7 +230,7 @@ carcinoid syndrome**
 
 **Endocr Pathol. 2014 Mar;25(1):65-79**
 
-# Insulinomas
+## Insulinomas
 
 - **Beta cell tumors **
 - **Most common type of PanNET**
@@ -272,7 +272,7 @@ normal counterparts, display distinctive round granules**
 
 **Robbins Basic Pathology**
 
-# Gastrinomas
+## Gastrinomas
 
 - **Marked hypersecretion of gastrin **
 - **Likely to arise in the duodenum and peripancreatic soft tissues as
@@ -298,7 +298,7 @@ already metastasized at the time of diagnosis**
 
 **Histologically bland and rarely exhibit marked anaplasia**
 
-# α-cell tumors (glucagonomas)
+## α-cell tumors (glucagonomas)
 
 - **Increased serum levels of glucagon**
 - **Mild diabetes mellitus**
@@ -307,7 +307,7 @@ already metastasized at the time of diagnosis**
 - **Anemia**
 - **Perimenopausal and postmenopausal women**
 
-# δ-cell tumors (somatostatinomas)
+## δ-cell tumors (somatostatinomas)
 
 **Associated with diabetes mellitus, cholelithiasis, steatorrhea, and
 hypochlorhydria**
@@ -316,7 +316,7 @@ hypochlorhydria**
 
 **High plasma somatostatin levels are required for diagnosis**
 
-# VIPoma
+## VIPoma
 
 - **WDHA syndrome**
   - **Watery diarrhea, hypokalemia, achlorhydria**
@@ -325,7 +325,7 @@ hypochlorhydria**
   - **neuroblastomas, ganglioneuroblastoma, ganglioneuromas,
     pheochromocytomas**
 
-# Rare pancreas NET
+## Rare pancreas NET
 
 **Serotonin and an atypical carcinoid syndrome are exceedingly rare**
 

@@ -3,11 +3,11 @@ Serdar Balcı
 
 ![](./img-local/Diseases-of-Exocrine-Pancreas0.jpg)
 
-# Diseases of Exocrine Pancreas
+## Diseases of Exocrine Pancreas
 
-# Serdar BALCI, MD
+## Serdar BALCI, MD
 
-# Pancreas
+## Pancreas
 
 - **Exocrine organ**
   - **Acinar cells**
@@ -24,7 +24,7 @@ Serdar Balcı
   - \_\_ islets of Langerhans\_\_
   - **secrete insulin, glucagon, and somatostatin**
 
-# İnhibitors of autodigestion of the pancreas
+## İnhibitors of autodigestion of the pancreas
 
 **Pancreatic enzymes are synthesized as inactive proenzymes**
 
@@ -41,7 +41,7 @@ trypsin inhibitor) are secreted by acinar and ductal cells**
 **Acinar cells are remarkably resistant to the action of activated
 enzymes**
 
-# Cystic Fibrosis
+## Cystic Fibrosis
 
 ![](./img-local/Diseases-of-Exocrine-Pancreas1.png)
 
@@ -72,9 +72,9 @@ by fibrous tissue.**
 
 **Robbins and Cotran Pathologic Basis of Disease**
 
-# CONGENITAL ANOMALIES
+## CONGENITAL ANOMALIES
 
-# Agenesis
+## Agenesis
 
 **Very rarely**
 
@@ -86,7 +86,7 @@ incompatible with life**
 **Pancreatic duodenal homeobox 1 is a homeodomain transcription factor,
 mutations of the PDX1 gene, located on chromosomal locus 13q12.1**
 
-# Pancreas Divisum
+## Pancreas Divisum
 
 **most common clinically significant congenital pancreatic anomaly**
 
@@ -106,7 +106,7 @@ through the minor sphincter, which has a narrow opening**
 
 ![](./img-local/Diseases-of-Exocrine-Pancreas6.png)
 
-# Annular Pancreas
+## Annular Pancreas
 
 **uncommon variant of pancreatic fusion**
 
@@ -115,7 +115,7 @@ through the minor sphincter, which has a narrow opening**
 **manifest with signs and symptoms of duodenal obstruction such as
 gastric distention and vomiting**
 
-# Ectopic Pancreas
+## Ectopic Pancreas
 
 **2% of the population**
 
@@ -136,7 +136,7 @@ gastric distention and vomiting**
 **2% of pancreatic neuroendocrine tumors arise in ectopic pancreatic
 tissue**
 
-# Congenital Cysts
+## Congenital Cysts
 
 **anomalous development of the pancreatic ducts**
 
@@ -154,9 +154,9 @@ tissue**
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# PANCREATITIS
+## PANCREATITIS
 
-# Acute Pancreatitis
+## Acute Pancreatitis
 
 - **reversible inflammatory disorder**
 - **varies in severity**
@@ -176,7 +176,7 @@ tissue**
 
 **Robbins Basic Pathology**
 
-# Other causes of acute pancreatitis
+## Other causes of acute pancreatitis
 
 - **Non–gallstone-related obstruction of the pancreatic ducts**
   - **ampullary region neoplasms, pancreatic cancer, pancreas divisum,
@@ -206,7 +206,7 @@ tissue**
       inactivate itself**
 - **10-20% of acute pancreatitis idiopathic **
 
-# Acute Pancreatitis
+## Acute Pancreatitis
 
 **microvascular leakage causing edema**
 
@@ -269,7 +269,7 @@ and peripancreatic fat**
 
 **Autopsy Pathology: A Manual and Atlas**
 
-# Pathogenesis of acute pancreatitis
+## Pathogenesis of acute pancreatitis
 
 - **autodigestion of the pancreatic substance by inappropriately
   activated pancreatic enzymes**
@@ -337,7 +337,7 @@ pancreas are important in acinar cell injury mechanism**
 
 **Robbins Basic Pathology**
 
-# Alcohol consumption may cause pancreatitis by several mechanisms
+## Alcohol consumption may cause pancreatitis by several mechanisms
 
 **transiently increases pancreatic exocrine secretion**
 
@@ -355,7 +355,7 @@ pancreas are important in acinar cell injury mechanism**
 
 **obstruction of small pancreatic ducts**
 
-# Complications
+## Complications
 
 - **disseminated intravascular coagulation**
 - **acute respiratory distress syndrome**
@@ -377,7 +377,7 @@ pancreas are important in acinar cell injury mechanism**
 
 **Robbins and Cotran Pathologic Basis of Diseases**
 
-# Pancreatic Pseudocysts
+## Pancreatic Pseudocysts
 
 - **common sequela of acute pancreatitis**
 
@@ -431,7 +431,7 @@ chronic inflammation.**
 
 **Robbins Basic Pathology**
 
-# Chronic Pancreatitis
+## Chronic Pancreatitis
 
 - **Long-standing inflammation**
 - **Fibrosis**
@@ -509,7 +509,7 @@ squamous metaplasia, and ductal concretions may be noted**
 
 **Robbins Basic Pathology**
 
-# Autoimmune pancreatitis (AIP)
+## Autoimmune pancreatitis (AIP)
 
 - **Characterized by one of two morphologic patterns**
 - **Striking infiltration of the pancreas by lymphoplasmacytic cells**
@@ -525,7 +525,7 @@ squamous metaplasia, and ductal concretions may be noted**
 - **Both can mimic pancreatic cancer**
 - **Responds to steroid therapy**
 
-# Pathogenesis of chronic pancreatitis
+## Pathogenesis of chronic pancreatitis
 
 - **Ductal obstruction by concretions**
   - **agents (alcohol) increase the protein concentration of pancreatic

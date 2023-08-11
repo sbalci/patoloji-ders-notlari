@@ -1,7 +1,7 @@
 # Title
 Serdar Balcı
 
-# Memorial Patolojinin
+## Memorial Patolojinin
 
 Günlük Pratiğinde Dijital Patoloji
 
@@ -15,18 +15,18 @@ Günlük Pratiğinde Dijital Patoloji
 
 ![](./img-local/gpdp4.png)
 
-# Daha önce gönderdiğim sunum ve yazılara lütfen bakın
+## Daha önce gönderdiğim sunum ve yazılara lütfen bakın
 
 *[Patolojide Yapay
-Zeka](https://docs.google.com/presentation/d/1o1Glh4xTOPYEjX0s9uUKxwhEdwj7NZa7pj7fjZv6gAE/edit#slide=id.p)*
+Zeka](https://docs.google.com/presentation/d/1o1Glh4xTOPYEjX0s9uUKxwhEdwj7NZa7pj7fjZv6gAE/edit##slide=id.p)*
 
 *[Dijital Patoloji’ye
-Geçerken](https://docs.google.com/document/d/10osEzn36YuIaLW8qQp3ANuQeCZi-SqJkA5LV-R7bcWU/edit#heading=h.vk8e6k5f2h73)*
+Geçerken](https://docs.google.com/document/d/10osEzn36YuIaLW8qQp3ANuQeCZi-SqJkA5LV-R7bcWU/edit##heading=h.vk8e6k5f2h73)*
 
 *[Patolojide
-Bilişim](https://docs.google.com/document/d/1HUWnkXb-6_IzNHiU3LTVDwLvgQM8eLZUaYWRzeSDl2U/edit#heading=h.awc8eb1l8ncb)*
+Bilişim](https://docs.google.com/document/d/1HUWnkXb-6_IzNHiU3LTVDwLvgQM8eLZUaYWRzeSDl2U/edit##heading=h.awc8eb1l8ncb)*
 
-# Kılavuzlar
+## Kılavuzlar
 
 *[Leeds Guide to Digital
 Pathology](https://www.serdarbalci.com/edufiles/18778_Leeds_Guide_to_Digital_Pathology_Brochure_A4_final_hi.pdf)*
@@ -49,7 +49,7 @@ Talimatları](https://www.serdarbalci.com/edufiles/Aperio-Brightfield-Tarayici-G
 *[Sectra Users Guide Pathology
 Türkçe](https://www.serdarbalci.com/edufiles/Sectra_UsersGuide_Pathology_Turkish.pdf)*
 
-# Nelerden bahsedeceğiz?
+## Nelerden bahsedeceğiz?
 
 Spesmen Kabulü
 
@@ -65,13 +65,13 @@ Tanı koyarken nelere dikkat edeceğiz
 
 ![](./img-local/gpdp5.png)
 
-via \#dalle *<https://labs.openai.com/s/jqJBiW0lElfHIGygPnBhFlBj>*
+via \##dalle *<https://labs.openai.com/s/jqJBiW0lElfHIGygPnBhFlBj>*
 
-# Spesmen Kabulü
+## Spesmen Kabulü
 
-# 
+## 
 
-# ViraPis → Sectra
+## ViraPis → Sectra
 
 ![](./img-local/gpdp6.png)
 
@@ -79,11 +79,11 @@ via \#dalle *<https://labs.openai.com/s/jqJBiW0lElfHIGygPnBhFlBj>*
 
 ![](./img-local/gpdp8.png)
 
-# Makroskopi Resimleri
+## Makroskopi Resimleri
 
-# Makroskopi Resimlerini Yüklemek
+## Makroskopi Resimlerini Yüklemek
 
-# Uniview
+## Uniview
 
 *<https://sectra.memorial.com.tr/uniview/>*
 
@@ -109,9 +109,9 @@ via \#dalle *<https://labs.openai.com/s/jqJBiW0lElfHIGygPnBhFlBj>*
 
 ![](./img-local/gpdp19.png)
 
-# Makroskopi Resimlerini Yüklemek
+## Makroskopi Resimlerini Yüklemek
 
-# IDS7
+## IDS7
 
 IDS7 sadece windows ve sadece Edge browser ile çalışıyor
 
@@ -119,21 +119,21 @@ IDS7 sadece windows ve sadece Edge browser ile çalışıyor
 
 ![](./img-local/gpdp21.png)
 
-# Dışarıdan Gelen Resimleri Yüklemek
+## Dışarıdan Gelen Resimleri Yüklemek
 
 Bunun için de IDS7’deki yöntem en ideali.
 
 ![](./img-local/gpdp22.png)
 
-# Makroskopi Resimlerini Bulmak
+## Makroskopi Resimlerini Bulmak
 
-# Uniview
+## Uniview
 
 ![](./img-local/gpdp23.png)
 
 ![](./img-local/gpdp24.png)
 
-# IDS7
+## IDS7
 
 ![](./img-local/gpdp25.png)
 
@@ -141,11 +141,11 @@ Bunun için de IDS7’deki yöntem en ideali.
 
 ![](./img-local/gpdp27.png)
 
-# Mikroskopi WSI
+## Mikroskopi WSI
 
-# Aperio / Tarama Cihazı
+## Aperio / Tarama Cihazı
 
-# Tarama Öncesi
+## Tarama Öncesi
 
 Barkod
 
@@ -153,7 +153,7 @@ Lam
 
 ![](./img-local/gpdp28.png)
 
-# Barkod
+## Barkod
 
 **Barkod, Karekod, QR Code, Datamatrix**
 
@@ -165,7 +165,7 @@ Lam
 
 ![](./img-local/gpdp31.png)
 
-# 
+## 
 
 ![](./img-local/gpdp32.jpg)
 
@@ -173,7 +173,7 @@ Lam
 
 *<https://regex101.com/r/OmbUN6/12>*
 
-# Barkod neden önemli
+## Barkod neden önemli
 
 - Sanal mapenin düzgün oluşması
 - Lamların sıralı dizilmesi
@@ -186,7 +186,7 @@ Lam
     türleri yerine klinik anlamlılığı olan ifadelerle gruplamalar yapmak
     gerekecektir.
 
-# Barkod olmayınca ne oluyor?
+## Barkod olmayınca ne oluyor?
 
 - Uyumsuz olarak belirlenip geçici alana kopyalanıyor
 - El ile bunları taşımak gerekiyor
@@ -200,9 +200,9 @@ Lam
 
 ![](./img-local/gpdp36.png)
 
-# Sanal Mape
+## Sanal Mape
 
-# 
+## 
 
 ![](./img-local/gpdp37.png)
 
@@ -216,19 +216,19 @@ Lam
 
 ![](./img-local/gpdp42.png)
 
-# Görüntü Silmek
+## Görüntü Silmek
 
 ![](./img-local/gpdp43.png)
 
 ![](./img-local/gpdp44.png)
 
-# Görüntü Bilgisini Düzeltmek
+## Görüntü Bilgisini Düzeltmek
 
 ![](./img-local/gpdp45.png)
 
 ![](./img-local/gpdp46.png)
 
-# Kalibrasyon
+## Kalibrasyon
 
 ![](./img-local/gpdp47.png)
 
@@ -268,17 +268,17 @@ Lam
 
 ![](./img-local/gpdp64.jpg)
 
-# 
+## 
 
 ![](./img-local/gpdp65.png)
 
 ![](./img-local/gpdp66.png)
 
-# Lam Özellikleri
+## Lam Özellikleri
 
 ![](./img-local/gpdp67.png)
 
-# 
+## 
 
 ![](./img-local/gpdp68.png)
 
@@ -298,11 +298,11 @@ Lam
 
 ![](./img-local/gpdp76.png)
 
-# Aynı cam, aynı alan, aynı makina, aynı büyütme.
+## Aynı cam, aynı alan, aynı makina, aynı büyütme.
 
 ![](./img-local/gpdp77.png)
 
-# Küçük bir kabarcık tüm taramanın kalitesini bozmuş. alanı seçip fokus noktasını ayarlamak lazım. Bunun için her lamın tarandıktan sonra kalite kontrolünden geçmesi lazım
+## Küçük bir kabarcık tüm taramanın kalitesini bozmuş. alanı seçip fokus noktasını ayarlamak lazım. Bunun için her lamın tarandıktan sonra kalite kontrolünden geçmesi lazım
 
 ![](./img-local/gpdp78.png)
 
@@ -316,9 +316,9 @@ Lam
 
 ![](./img-local/gpdp83.png)
 
-# Tarama Nasıl Yapılır
+## Tarama Nasıl Yapılır
 
-# Tarama nasıl yapılır?
+## Tarama nasıl yapılır?
 
 ![](./img-local/gpdp84.jpg)
 
@@ -334,7 +334,7 @@ Lam
 
 ![](./img-local/gpdp90.jpg)
 
-# Lamların Dizilmesi
+## Lamların Dizilmesi
 
 ![](./img-local/gpdp91.jpg)
 
@@ -352,7 +352,7 @@ Lam
 
 ![](./img-local/gpdp98.jpg)
 
-# Önizleme
+## Önizleme
 
 ![](./img-local/gpdp99.png)
 
@@ -366,11 +366,11 @@ Lam
 
 ![](./img-local/gpdp104.jpg)
 
-# Odaklama Noktaları
+## Odaklama Noktaları
 
 ![](./img-local/gpdp105.png)
 
-# Tarama Sırasında
+## Tarama Sırasında
 
 ![](./img-local/gpdp106.png)
 
@@ -378,7 +378,7 @@ Lam
 
 ![](./img-local/gpdp108.png)
 
-# Mikroskopi Resimleri Nasıl Yükleniyor
+## Mikroskopi Resimleri Nasıl Yükleniyor
 
 ![](./img-local/gpdp109.png)
 
@@ -390,7 +390,7 @@ Lam
 
 ![](./img-local/gpdp113.png)
 
-# Uyumsuz Vakalar
+## Uyumsuz Vakalar
 
 Barkod Nedenli
 
@@ -408,7 +408,7 @@ Barkod Nedenli
 
 ![](./img-local/gpdp120.png)
 
-# Uyumsuz Vakalar
+## Uyumsuz Vakalar
 
 Hasta Numarası Nedenli
 
@@ -426,17 +426,17 @@ Hasta Numarası Nedenli
 
 ![](./img-local/gpdp127.jpg)
 
-# Uyumsuz Vakalar
+## Uyumsuz Vakalar
 
 Hatalı Görüntülerin Transferi
 
-# Sectra’da hasta birleştirme ve görüntü aktarımı
+## Sectra’da hasta birleştirme ve görüntü aktarımı
 
 ![](./img-local/gpdp128.jpg)
 
 ![](./img-local/gpdp129.jpg)
 
-# Dışarıdan Gelen
+## Dışarıdan Gelen
 
 WSI dosyalarını (.svs) Yüklemek
 
@@ -450,11 +450,11 @@ WSI dosyalarını (.svs) Yüklemek
 
 ![](./img-local/gpdp134.png)
 
-# Rutin Dışı Farklı Özellikle Vaka Taramak
+## Rutin Dışı Farklı Özellikle Vaka Taramak
 
 ![](./img-local/gpdp135.jpg)
 
-# 
+## 
 
 ![](./img-local/gpdp136.png)
 
@@ -470,19 +470,19 @@ WSI dosyalarını (.svs) Yüklemek
 
 ![](./img-local/gpdp142.jpg)
 
-# IHK taranması
+## IHK taranması
 
 ![](./img-local/gpdp143.png)
 
-# Sitoloji Taraması
+## Sitoloji Taraması
 
-# 
+## 
 
 ![](./img-local/gpdp144.jpg)
 
 ![](./img-local/gpdp145.png)
 
-# Mega Lam Taraması
+## Mega Lam Taraması
 
 ![](./img-local/gpdp146.jpg)
 
@@ -500,7 +500,7 @@ WSI dosyalarını (.svs) Yüklemek
 
 ![](./img-local/gpdp153.png)
 
-# Aradan nasıl vaka taranır?
+## Aradan nasıl vaka taranır?
 
 ![](./img-local/gpdp154.png)
 
@@ -510,7 +510,7 @@ WSI dosyalarını (.svs) Yüklemek
 
 ![](./img-local/gpdp157.jpg)
 
-# Hata Mesajları
+## Hata Mesajları
 
 ![](./img-local/gpdp158.png)
 
@@ -530,7 +530,7 @@ WSI dosyalarını (.svs) Yüklemek
 
 ![](./img-local/gpdp166.jpg)
 
-# En hızlı tarama için camları taramaya nasıl koyalım?
+## En hızlı tarama için camları taramaya nasıl koyalım?
 
 ![](./img-local/gpdp167.png)
 
@@ -563,7 +563,7 @@ süreç oldu.**
 
 ![](./img-local/gpdp170.jpg)
 
-# Tarama Cihazı Bakımı
+## Tarama Cihazı Bakımı
 
 Kalibrasyon
 
@@ -585,7 +585,7 @@ Toz
 
 ![](./img-local/gpdp176.png)
 
-# Memorial Patolojinin Günlük Pratiğinde Dijital Patoloji
+## Memorial Patolojinin Günlük Pratiğinde Dijital Patoloji
 
 Önceki Sunumdan Kalanlar
 
@@ -618,7 +618,7 @@ potansiyel hatalara ve gecikmelere sebep olacaktır.**
 alınacak ve mape dizimi yapılmadan lamlar arşive gidecektir. Bu durumda
 bir mape hazırlama basamağı olmayacaktır.**
 
-# Tam dijital ve hibrid bir iş akışında şu noktalara dikkat etmek lazım
+## Tam dijital ve hibrid bir iş akışında şu noktalara dikkat etmek lazım
 
 **Hangi vakanın dijitalde tamamlandığı (dijital bir mape ile hazır
 olduğu) nasıl bilinecek?**
@@ -642,11 +642,11 @@ durum bilgilerini güncelleyip virapise gönderecek bir yapıda değil)**
 
 ![](./img-local/gpdp184.png)
 
-# Tarama Sonrası
+## Tarama Sonrası
 
-# Tanı süreci
+## Tanı süreci
 
-# Sectra eğitim videoları
+## Sectra eğitim videoları
 
 *<https://trainingvideos.sectra.com/library/lang/en>*
 
@@ -661,19 +661,19 @@ Kullanıcı Kılavuzu Patoloji Görüntü Penceresi
 
 ![](./img-local/gpdp185.jpg)
 
-# 
+## 
 
 ![](./img-local/gpdp186.jpg)
 
 ![](./img-local/gpdp187.jpg)
 
-# Mikroskopi Resimlerini Bulmak
+## Mikroskopi Resimlerini Bulmak
 
-# ViraPis üzerinden
+## ViraPis üzerinden
 
 ![](./img-local/gpdp188.png)
 
-# IDS7
+## IDS7
 
 ![](./img-local/gpdp189.png)
 
@@ -681,11 +681,11 @@ Kullanıcı Kılavuzu Patoloji Görüntü Penceresi
 
 ![](./img-local/gpdp191.png)
 
-# Uniview
+## Uniview
 
 ![](./img-local/gpdp192.png)
 
-# Lamların Tümü Taranmış Mı?
+## Lamların Tümü Taranmış Mı?
 
 **Virapisten lam sayısı sectraya gidiyor. Ancak bu lam sayısına sadece
 HE’ler dahil, özel boyalar ve yaymalar dahil değil. Bu sayı sadece
@@ -710,7 +710,7 @@ Dolayısıyla bize bir fikir verebilse de tam işe yaramış diyemeyiz.**
 
 ![](./img-local/gpdp201.png)
 
-# Lamın Tamamı Taranmış Mı?
+## Lamın Tamamı Taranmış Mı?
 
 **Lamların tümünün taranmış olması vakanın onaylanması için yeterli olur
 mu? (İstek kağıdı, makroskopide sorun olmadığını varsayarak). Taramayı
@@ -726,19 +726,19 @@ gerekirse yeniden tarama ya da lamları isteyecek.**
 
 ![](./img-local/gpdp204.png)
 
-# Doğru Lam Taranmış Mı?
+## Doğru Lam Taranmış Mı?
 
 ![](./img-local/gpdp205.png)
 
 ![](./img-local/gpdp206.png)
 
-# Ekranda Gezinti
+## Ekranda Gezinti
 
 Muscle Memory
 
 Yeni kuşak patolojinin yeni ergonomi sorunları
 
-# 
+## 
 
 ![](./img-local/gpdp207.png)
 
@@ -762,33 +762,33 @@ Yeni kuşak patolojinin yeni ergonomi sorunları
 
 ![](./img-local/gpdp216.png)
 
-**Mac kullananlar için: ** <span style="color:#1155CC">
+**Mac kullananlar için: ** <span style="color:##1155CC">
 *<https://middleclick.app/>* </span>
 
-<span style="color:#434343">Mouse, 3D Mouse:</span>
+<span style="color:##434343">Mouse, 3D Mouse:</span>
 
-<span style="color:#1155CC">
+<span style="color:##1155CC">
 *<https://www.cimri.com/klavye-mouse/en-ucuz-3dconnexion-klavye-mouse-fiyatlari>*
 </span>
 
-<span style="color:#1155CC">
+<span style="color:##1155CC">
 *<https://3dconnexion.com/uk/product/spacemouse-pro/>* </span>
 
-<span style="color:#434343">Digital Pathology Cockpit:</span>
+<span style="color:##434343">Digital Pathology Cockpit:</span>
 
-<span style="color:#1155CC"> *[Digital Pathology Cockpit - 3DHISTECH
+<span style="color:##1155CC"> *[Digital Pathology Cockpit - 3DHISTECH
 Ltd.](https://www.3dhistech.com/solutions/digital-pathology-cockpit/)*
 </span>
 
-<span style="color:#1155CC"> *[SlideDriver - 3DHISTECH
+<span style="color:##1155CC"> *[SlideDriver - 3DHISTECH
 Ltd.](https://www.3dhistech.com/diagnostics/lab-components/slidedriver/)*
 </span>
 
-# Lamları Gözden Geçirildi Olarak İşaretleme
+## Lamları Gözden Geçirildi Olarak İşaretleme
 
 ![](./img-local/gpdp217.jpg)
 
-# Ekran
+## Ekran
 
 *<https://www.virtualpathology.leeds.ac.uk/research/systems/pouqa/pathology/>*
 
@@ -796,7 +796,7 @@ Ltd.](https://www.3dhistech.com/diagnostics/lab-components/slidedriver/)*
 
 ![](./img-local/gpdp219.png)
 
-# Öğretim Dosyası Anahtar Sözcükleri
+## Öğretim Dosyası Anahtar Sözcükleri
 
 ![](./img-local/gpdp220.png)
 
@@ -806,7 +806,7 @@ Ltd.](https://www.3dhistech.com/diagnostics/lab-components/slidedriver/)*
 
 ![](./img-local/gpdp223.png)
 
-# Anahtar kelimeler ile vakayı bulmak
+## Anahtar kelimeler ile vakayı bulmak
 
 ![](./img-local/gpdp224.png)
 
@@ -826,7 +826,7 @@ Ltd.](https://www.3dhistech.com/diagnostics/lab-components/slidedriver/)*
 
 ![](./img-local/gpdp232.png)
 
-# İş Listesi Oluşturmak
+## İş Listesi Oluşturmak
 
 ![](./img-local/gpdp233.png)
 
@@ -848,7 +848,7 @@ Ltd.](https://www.3dhistech.com/diagnostics/lab-components/slidedriver/)*
 
 ![](./img-local/gpdp242.png)
 
-# 
+## 
 
 ![](./img-local/gpdp243.png)
 
@@ -898,7 +898,7 @@ Ltd.](https://www.3dhistech.com/diagnostics/lab-components/slidedriver/)*
 
 ![](./img-local/gpdp266.png)
 
-# Arşivlenmiş Vakalar
+## Arşivlenmiş Vakalar
 
 ![](./img-local/gpdp267.png)
 
@@ -910,7 +910,7 @@ Ltd.](https://www.3dhistech.com/diagnostics/lab-components/slidedriver/)*
 
 ![](./img-local/gpdp271.png)
 
-# Hastaları geçici olarak anonim hale getirmek
+## Hastaları geçici olarak anonim hale getirmek
 
 ![](./img-local/gpdp272.png)
 
@@ -918,35 +918,35 @@ Ltd.](https://www.3dhistech.com/diagnostics/lab-components/slidedriver/)*
 
 ![](./img-local/gpdp274.png)
 
-# Vaka dökümü almak
+## Vaka dökümü almak
 
 ![](./img-local/gpdp275.png)
 
 ![](./img-local/gpdp276.png)
 
-# 20x vs 40x
+## 20x vs 40x
 
 ![](./img-local/gpdp277.png)
 
-# Senkron görüntüleme
+## Senkron görüntüleme
 
 ![](./img-local/gpdp278.jpg)
 
-# Not alma
+## Not alma
 
-# Ölçüm
+## Ölçüm
 
-# Bağlantı hızı
+## Bağlantı hızı
 
-# Işık / Gamma ayarı
+## Işık / Gamma ayarı
 
 ![](./img-local/gpdp279.png)
 
-# Dış Konsültasyon İçin Link Oluşturmak
+## Dış Konsültasyon İçin Link Oluşturmak
 
 ![](./img-local/gpdp280.png)
 
-via \#dalle *<https://labs.openai.com/s/Yp6cRTIqZwB0LHxSz2uAZa9O>*
+via \##dalle *<https://labs.openai.com/s/Yp6cRTIqZwB0LHxSz2uAZa9O>*
 
 ![](./img-local/gpdp281.png)
 
@@ -954,7 +954,7 @@ via \#dalle *<https://labs.openai.com/s/Yp6cRTIqZwB0LHxSz2uAZa9O>*
 
 ![](./img-local/gpdp283.png)
 
-# Sanal Hasta, Çalışma Hastası Oluşturmak
+## Sanal Hasta, Çalışma Hastası Oluşturmak
 
 ![](./img-local/gpdp284.png)
 
@@ -968,7 +968,7 @@ via \#dalle *<https://labs.openai.com/s/Yp6cRTIqZwB0LHxSz2uAZa9O>*
 
 ![](./img-local/gpdp289.jpg)
 
-# Görüntüleri Dışa aktarmak
+## Görüntüleri Dışa aktarmak
 
 .svs olarak kaydetmek
 
@@ -1020,9 +1020,9 @@ slides](https://digitalpathologyplace.com/8-free-open-source-software-programs-f
 
 ![](./img-local/gpdp304.png)
 
-# 
+## 
 
-# anonim olarak bir grup hastayı paylaşmak
+## anonim olarak bir grup hastayı paylaşmak
 
 (çalışma, kurs, eğitim ve öğrenci dersleri için)
 
@@ -1045,7 +1045,7 @@ Sectra forumlarında tartışılıyordu. Ama o konuda daha güncelleme
 gelmemiş.**
 
 **Bu hesapla ya da benzeri hesaplarla vaka paylaşabilir, kurslar
-düzenleyebilir, öğrenciler için kolleksiyonlar yapabilirsiniz. Böylece
+düzenleyebilir, öğrenciler için koleksiyonlar yapabilirsiniz. Böylece
 vakanın tümünü anonim olarak paylaştığınız gerçek hayatla uyumlu eğitim
 ve kurslar düzenleyebilirsiniz. Reklamlar :)**
 
@@ -1057,7 +1057,7 @@ ve kurslar düzenleyebilirsiniz. Reklamlar :)**
 
 ![](./img-local/gpdp307.png)
 
-# Sectra’da raporlama ve ses kaydı
+## Sectra’da raporlama ve ses kaydı
 
 ![](./img-local/gpdp308.jpg)
 
@@ -1101,15 +1101,15 @@ Rosai, 10th Ed. Chapter 1
 
 ![](./img-local/gpdp322.png)
 
-# 
+## 
 
 ![](./img-local/gpdp323.png)
 
-# Kalite Kontrol
+## Kalite Kontrol
 
 ![](./img-local/gpdp324.jpg)
 
-# Okuma önerileri
+## Okuma önerileri
 
 *[The Leeds Guide to Digital
 Pathology](https://www.virtualpathology.leeds.ac.uk/research/clinical/docs/2018/pdfs/18778_Leeds%20Guide%20to%20Digital%20Pathology_Brochure_A4_final_hi.pdf)*
